@@ -1,0 +1,10111 @@
+logo
+SwissBorg
+BORG
+Solana
+Exchange (...
+Other
+$41,500,000
+9.8.2025
+
+logo
+Bunni
+ETH
++1
+Exchange (...
+Other
+$8,400,000
+9.2.2025
+
+logo
+Venus
+BSC
+Borrowing ...
+Phishing
+$13,000,000
+9.2.2025
+
+logo
+OlaXBT
+BSC
+Exchange (...
+Access Control
+$2,000,000
+9.1.2025
+
+logo
+Cozy Finance
+Optimism
+Other
+Access Control
+$427,000
+8.30.2025
+
+logo
+BetterBank
+ETH
++1
+Borrowing ...
+Other
+$5,000,000
+8.26.2025
+
+logo
+Phishing
+ETH
+Other
+Phishing
+$750,000
+8.22.2025
+
+logo
+Phishing
+BTC
+Other
+Phishing
+$91,000,000
+8.19.2025
+
+logo
+BtcTurk
+CEX
+CeFi
+Access Control
+$48,000,000
+8.14.2025
+
+logo
+Odin.fun
+BTC
+Exchange (...
+Oracle Issue
+$7,000,000
+8.12.2025
+
+logo
+Phishing
+ETH
+Other
+Phishing
+$3,050,000
+8.6.2025
+
+logo
+CrediX
+Other
+Exchange (...
+Access Control
+$4,500,000
+8.4.2025
+
+logo
+SuperRare
+ETH
+NFT
+Access Control
+$730,000
+7.28.2025
+
+logo
+WOO X
+ETH
++1
+CeFi
+Phishing
+$14,000,000
+7.24.2025
+
+logo
+Trusta AI
+TA
+BSC
+Yield Aggr...
+Other
+$615,000
+7.23.2025
+
+logo
+CoinDCX
+CEX
+CeFi
+Access Control
+$44,000,000
+7.20.2025
+
+logo
+BigONE
+CEX
+CeFi
+Access Control
+$28,000,000
+7.16.2025
+
+logo
+Arcadia Finance
+Base
+Yield Aggr...
+Other
+$2,500,000
+7.15.2025
+
+logo
+Pundi AI
+ETH
++1
+Other
+Access Control
+$6,000,000
+7.12.2025
+
+logo
+GMX
+Arbitrum
+Exchange (...
+Other
+$42,000,000
+7.9.2025
+
+logo
+Peapods Finance
+ETH
+Yield Aggr...
+Other
+$200,000
+7.8.2025
+
+logo
+Resupply
+ETH
+Borrowing ...
+Other
+$9,500,000
+6.26.2025
+
+logo
+MEV Bots
+BSC
+Other
+Access Control
+$2,000,000
+6.25.2025
+
+logo
+Silo
+ETH
+Yield Aggr...
+Other
+$545,000
+6.25.2025
+
+logo
+Hacken
+BSC
+Other
+Access Control
+$250,000
+6.21.2025
+
+logo
+Bankroll
+ETH
++1
+Yield Aggr...
+Other
+$65,000
+6.19.2025
+
+logo
+Nobitex
+CEX
+CeFi
+Access Control
+$82,000,000
+6.18.2025
+
+logo
+MetaPool
+ETH
+Other
+Other
+$400,000
+6.17.2025
+
+logo
+Anome
+ETH
+Gaming / M...
+Other
+$120,000
+6.10.2025
+
+logo
+AlexLab
+BTC
+Borrowing ...
+Other
+$16,100,000
+6.6.2025
+
+logo
+Nervos Network
+Other
+Other
+Access Control
+$3,700,000
+6.2.2025
+
+logo
+Tailverse
+BSC
+Gaming / M...
+Other
+$88,000
+6.2.2025
+
+logo
+Malda (prev. Me...
+Linea
+Borrowing ...
+Other
+$273,000
+5.30.2025
+
+logo
+Cork
+ETH
+Yield Aggr...
+Other
+$12,000,000
+5.28.2025
+
+logo
+Usual
+ETH
+Other
+Other
+$43,000
+5.27.2025
+
+logo
+Dexodus
+Base
+Exchange (...
+Oracle Issue
+$300,000
+5.26.2025
+
+logo
+Cetus
+Other
+Exchange (...
+Other
+$260,000,000
+5.22.2025
+
+logo
+Nitron Demex
+Arbitrum
++1
+Borrowing ...
+Oracle Issue
+$950,000
+5.16.2025
+
+logo
+Zunami
+ETH
+Yield Aggr...
+Access Control
+$500,000
+5.15.2025
+
+logo
+Mobius Token
+BSC
+Token
+Other
+$2,160,000
+5.11.2025
+
+logo
+BitoPro BitoGro...
+CEX
+CeFi
+Access Control
+$11,500,000
+5.8.2025
+
+logo
+Phishing
+BTC
+Other
+Phishing
+$330,000,000
+4.28.2025
+
+logo
+Impermax
+Base
+Yield Aggr...
+Other
+$300,000
+4.28.2025
+
+logo
+Loopscale
+Solana
+Borrowing ...
+Other
+$5,800,000
+4.26.2025
+
+logo
+ACB
+BSC
+Token
+Other
+$60,000
+4.23.2025
+
+logo
+BTCM App
+Arbitrum
+Other
+Other
+$1,000,000
+4.22.2025
+
+logo
+NumaMoney
+Arbitrum
+Other
+Flash Loan Attack
+$506,000
+4.18.2025
+
+logo
+The R0AR
+ETH
+Other
+Access Control
+$790,000
+4.16.2025
+
+logo
+ZKsync
+zkSync
+Other
+Access Control
+$5,000,000
+4.15.2025
+
+logo
+KiloEx
+BSC
++1
+Exchange (...
+Access Control
+$7,000,000
+4.14.2025
+
+logo
+Mantra
+Other
+Other
+Other
+$5,500,000,000
+4.13.2025
+
+logo
+AIRWA
+BSC
+Token
+Other
+$34,000
+4.4.2025
+
+logo
+UPCX
+ETH
+Other
+Access Control
+$70,000,000
+4.1.2025
+
+logo
+SIR
+ETH
+Exchange (...
+Other
+$355,000
+3.30.2025
+
+logo
+Vicuna
+Other
+Borrowing ...
+Oracle Issue
+$700,000
+3.28.2025
+
+logo
+Abracadabra
+Arbitrum
+Exchange (...
++1
+Other
+$13,000,000
+3.25.2025
+
+logo
+Zoth
+ETH
+Other
+Access Control
+$8,320,000
+3.21.2025
+
+logo
+BBX Token
+BSC
+Token
+Other
+$12,000
+3.20.2025
+
+logo
+Arcade
+ARC
+BSC
+Token
+Access Control
+$5,000
+3.17.2025
+
+logo
+WebKeyDao
+BSC
+Other
+Other
+$737,000
+3.15.2025
+
+logo
+Berally
+Other
+Other
+Access Control
+$90,000
+3.15.2025
+
+logo
+MAID
+ETH
+Token
+Access Control
+$166,000
+3.13.2025
+
+logo
+Phishing
+ETH
+Other
+Phishing
+$1,820,000
+3.12.2025
+
+logo
+ModelpiToken
+BSC
+Token
+Other
+$107,000
+3.10.2025
+
+logo
+1Inch
+ETH
+Exchange (...
+Reentrancy
+$2,600,000
+3.6.2025
+
+logo
+Zoth
+ETH
+Other
+Oracle Issue
+$285,000
+3.1.2025
+
+logo
+Suji Yan
+ETH
+Other
+Phishing
+$4,000,000
+2.27.2025
+
+logo
+Infini
+ETH
+Stablecoin
+Access Control
+$50,000,000
+2.24.2025
+
+logo
+StepHeroNFTs
+BSC
+NFT
+Reentrancy
+$90,000
+2.21.2025
+
+logo
+Bybit
+ETH
+CeFi
+Access Control
+$1,400,000,000
+2.21.2025
+
+logo
+LIBRA
+LIBRA
+Solana
+Token
+Other
+$286,000,000
+2.16.2025
+
+logo
+zkLend
+ETH
+Borrowing ...
+Other
+$9,500,000
+2.12.2025
+
+logo
+OpenOcean
+Base
+Exchange (...
+Other
+$22,000
+2.11.2025
+
+logo
+Four.Meme
+BSC
+Gaming / M...
+Other
+$183,000
+2.11.2025
+
+logo
+Peapods Finance
+ETH
+Yield Aggr...
+Other
+$3,500
+2.8.2025
+
+logo
+Ionic
+Other
+Exchange (...
+Other
+$12,300,000
+2.4.2025
+
+logo
+phishing
+ETH
+Token
+Phishing
+$394,000
+1.29.2025
+
+logo
+Phemex
+ETH
++3
+CeFi
+Other
+$37,000,000
+1.23.2025
+
+logo
+Fake LAYER
+Solana
+Token
+Rugpull
+$465,000
+1.21.2025
+
+logo
+AST Token
+BSC
+Token
+Other
+$64,700
+1.21.2025
+
+logo
+MELANIA
+MELANIA
+Solana
+Token
+Other
+$200,000,000
+1.20.2025
+
+logo
+The Idols NFT
+ETH
+NFT
+Other
+$340,000
+1.14.2025
+
+logo
+BIGO
+BSC
+Token
+Other
+$18,000
+1.14.2025
+
+logo
+UniLend
+ETH
+Borrowing ...
+Other
+$200,000
+1.13.2025
+
+logo
+FortuneWheel
+BSC
+Gaming / M...
+Other
+$21,000,000
+1.10.2025
+
+logo
+Mosca
+BSC
+Yield Aggr...
+Other
+$19,500
+1.8.2025
+
+logo
+Orange Finance
+Arbitrum
+Yield Aggr...
+Access Control
+$840,000
+1.8.2025
+
+logo
+LAURA
+ETH
+Token
+Other
+$48,000
+1.8.2025
+
+logo
+Moby Trade
+Arbitrum
+Exchange (...
+Access Control
+$2,500,000
+1.8.2025
+logo
+FEG (Feed Every...
+ETH
++2
+Other
+Other
+$900,000
+12.30.2024
+
+logo
+MoonHacker
+Optimism
+Yield Aggr...
+Flash Loan Attack
+$320,000
+12.23.2024
+
+logo
+DCF
+BSC
+Token
+Other
+$9,000,000
+12.17.2024
+
+logo
+GemPad
+ETH
++2
+Gaming / M...
+Other
+$2,000,000
+12.17.2024
+
+logo
+BTC24H
+BTC24H
+Polygon
+Token
+Access Control
+$85,000
+12.16.2024
+
+logo
+Clober
+Base
+Exchange (...
+Reentrancy
+$500,000
+12.10.2024
+
+logo
+LABUBU
+BSC
+Token
+Other
+$120,000
+12.10.2024
+
+logo
+Vestra DAO
+ETH
+Other
+Other
+$380,000
+12.4.2024
+
+logo
+Spectral
+ETH
+Other
+Other
+$200,000
+12.1.2024
+
+logo
+Gifto
+BSC
+Gaming / M...
+Rugpull
+$10,000,000
+11.28.2024
+
+logo
+XT Exchange
+CEX
+CeFi
+Access Control
+$1,700,000
+11.28.2024
+
+logo
+DCT Token
+DCT
+BSC
+Token
+Flash Loan Attack
+$428,000
+11.25.2024
+
+logo
+BTB Token
+BTB
+BSC
+Token
+Flash Loan Attack
+$5,000
+11.18.2024
+
+logo
+$2M Coin Poker
+ETH
++2
+Gaming / M...
+Access Control
+$2,000,000
+11.18.2024
+
+logo
+Polter Finance
+Fantom
+Borrowing ...
+Oracle Issue
+$8,700,000
+11.16.2024
+
+logo
+DEXX
+ETH
++1
+Exchange (...
+Other
+$21,000,000
+11.16.2024
+
+logo
+Thala Labs
+Other
+Exchange (...
+Other
+$25,000,000
+11.15.2024
+
+logo
+vETH
+ETH
+Borrowing ...
+Other
+$450,000
+11.14.2024
+
+logo
+Delta Prime
+Arbitrum
++1
+Yield Aggr...
+Other
+$4,500,000
+11.11.2024
+
+logo
+Metawin
+ETH
++1
+Gaming / M...
+Access Control
+$4,000,000
+11.3.2024
+
+logo
+M2
+CEX
+CeFi
+Access Control
+$13,700,000
+10.31.2024
+
+logo
+Sunray
+Arbitrum
+Exchange (...
+Access Control
+$2,855,000
+10.31.2024
+
+logo
+Essence Finance
+Optimism
++1
+Stablecoin
+Other
+$20,000,000
+10.26.2024
+
+logo
+Ramses
+Arbitrum
+Exchange (...
+Other
+$93,000
+10.24.2024
+
+logo
+Vista Finance
+BSC
+Token
+Flash Loan Attack
+$29,000
+10.22.2024
+
+logo
+Tapioca DAO
+Arbitrum
+Stablecoin
+Access Control
+$4,700,000
+10.18.2024
+
+logo
+Radiant Capital
+BSC
++1
+Borrowing ...
+Access Control
+$58,000,000
+10.16.2024
+
+logo
+Phishing
+ETH
+Other
+Phishing
+$2,470,000
+10.10.2024
+
+logo
+N/A
+Arbitrum
+Borrowing ...
+Oracle Issue
+$130,000
+10.3.2024
+
+logo
+Fire Token
+FIRE
+ETH
+Token
+Other
+$24,000
+10.1.2024
+
+logo
+Bedrock
+ETH
+Other
+Other
+$2,000,000
+9.27.2024
+
+logo
+OnyxDAO
+ETH
+Borrowing ...
+Flash Loan Attack
+$3,800,000
+9.26.2024
+
+logo
+Bankroll
+BSC
+Yield Aggr...
+Flash Loan Attack
+$230,000
+9.22.2024
+
+logo
+Shezmu
+ETH
+Borrowing ...
+Other
+$4,900,000
+9.21.2024
+
+logo
+BingX
+CEX
+CeFi
+Other
+$52,000,000
+9.20.2024
+
+logo
+Banana Gun
+ETH
+Other
+Other
+$3,000,000
+9.19.2024
+
+logo
+Delta Prime
+Arbitrum
+Yield Aggr...
+Access Control
+$6,000,000
+9.16.2024
+
+logo
+CUT token
+BSC
+Token
+Flash Loan Attack
+$1,400,000
+9.10.2024
+
+logo
+Indodax
+CEX
+CeFi
+Other
+$22,000,000
+9.10.2024
+
+logo
+Truflation
+CEX
+CeFi
+Access Control
+$5,000,000
+9.5.2024
+
+logo
+Penpie
+ETH
+Yield Aggr...
+Reentrancy
+$27,000,000
+9.3.2024
+
+logo
+Aave
+ETH
+Borrowing ...
+Other
+$56,000
+8.28.2024
+
+logo
+Phishing
+ETH
+Other
+Phishing
+$55,000,000
+8.21.2024
+
+logo
+Vow
+VOW
+ETH
+Token
+Other
+$1,200,000
+8.13.2024
+
+logo
+Nexera
+ETH
+Token
+Access Control
+$449,000
+8.7.2024
+
+logo
+Ronin
+ETH
+Bridge
+Access Control
+$12,000,000
+8.6.2024
+
+logo
+Convergence
+ETH
+Yield Aggr...
+Other
+$210,000
+8.1.2024
+
+logo
+Terra
+LUNA
+Other
+Other
+$6,500,000
+7.31.2024
+
+logo
+Karastar
+KARA
+BSC
+Gaming / M...
+Access Control
+$69,000
+7.26.2024
+
+logo
+MonoSwap
+Blast
+Exchange (...
+Access Control
+$1,300,000
+7.24.2024
+
+logo
+Rho Markets
+Other
+Borrowing ...
+Oracle Issue
+$7,600,000
+7.19.2024
+
+logo
+WazirX
+ETH
++1
+CeFi
+Access Control
+$230,000,000
+7.18.2024
+
+logo
+LI.FI
+ETH
++2
+Exchange (...
+Other
+$8,000,000
+7.16.2024
+
+logo
+NEVER
+NEVER
+BSC
+Token
+Rugpull
+$240,000
+7.16.2024
+
+logo
+ETHTrustFund
+Other
+Other
+Rugpull
+$2,200,000
+7.16.2024
+
+logo
+Minterest
+ETH
+Borrowing ...
+Other
+$1,460,000
+7.15.2024
+
+logo
+Dough Finance
+ETH
+Borrowing ...
+Access Control
+$1,800,000
+7.12.2024
+
+logo
+Smart Bank Toke...
+SBT
+BSC
+Token
+Flash Loan Attack
+$56,000
+7.11.2024
+
+logo
+Bittensor
+Other
+Other
+Access Control
+$8,000,000
+7.2.2024
+
+logo
+CoinStats
+Other
+Other
+Phishing
+$2,000,000
+6.22.2024
+
+logo
+BtcTurk
+CEX
+CeFi
+Access Control
+$54,000,000
+6.22.2024
+
+logo
+Sportsbet.io
+TRON
+Gaming / M...
+Access Control
+$3,500,000
+6.21.2024
+
+logo
+Pendle
+ETH
+Other
+Phishing
+$1,400,000
+6.19.2024
+
+logo
+Farcana
+FAR
+ETH
+Gaming / M...
+Access Control
+$440,000
+6.19.2024
+
+logo
+Holograph
+ETH
+Other
+Other
+$14,400,000
+6.13.2024
+
+logo
+UwU Lend
+ETH
+Borrowing ...
+Flash Loan Attack
+$3,699,999
+6.13.2024
+
+logo
+Loopring
+Other
+Other
+Access Control
+$5,000,000
+6.9.2024
+
+logo
+YYS
+YYS
+BSC
+Token
+Flash Loan Attack
+$29,000
+6.8.2024
+
+logo
+Lykke
+CEX
+CeFi
+Other
+$22,000,000
+6.4.2024
+
+logo
+Velocore
+zkSync
++1
+Exchange (...
+Other
+$6,800,000
+6.2.2024
+
+logo
+WINR
+WINR
+Arbitrum
+Token
+Other
+$15,000
+5.31.2024
+
+logo
+DMM Bitcoin
+CEX
+CeFi
+Access Control
+$300,000,000
+5.31.2024
+
+logo
+MetaDragonDao
+BSC
+Gaming / M...
+Other
+$180,000
+5.29.2024
+
+logo
+Orion
+ORN
+BSC
+Exchange (...
+Other
+$994,000
+5.28.2024
+
+logo
+Fake SCROLL
+SCROLL
+ETH
+Token
+Rugpull
+$290,000
+5.28.2024
+
+logo
+Gala Games
+GALA
+ETH
+Gaming / M...
+Access Control
+$22,300,000
+5.20.2024
+
+logo
+Pump.Fun
+Solana
+Other
+Flash Loan Attack
+$2,000,000
+5.16.2024
+
+logo
+Predy finance
+Arbitrum
+Borrowing ...
+Other
+$464,000
+5.14.2024
+
+logo
+Sonne
+Optimism
+Borrowing ...
+Other
+$20,000,000
+5.14.2024
+
+logo
+Alexlab
+BSC
+Other
+Access Control
+$4,300,000
+5.14.2024
+
+logo
+Fake PIToken
+PI
+Polygon
+Token
+Rugpull
+$490,000
+5.14.2024
+
+logo
+Galaxy Fox
+GFOX
+ETH
+Token
+Other
+$330,000
+5.10.2024
+
+logo
+Bloom
+Blast
+Yield Aggr...
+Other
+$600,000
+5.9.2024
+
+logo
+Lifeform (fake)
+LFT
+ETH
+Token
+Rugpull
+$250,000
+5.8.2024
+
+logo
+OSN Token
+BSC
+Token
+Flash Loan Attack
+$110,000
+5.6.2024
+
+logo
+Genius Token
+GNUS
+ETH
++1
+Token
+Other
+$1,200,000
+5.5.2024
+
+logo
+NovaMind
+NovaMind
+ETH
+Token
+Rugpull
+$70,000
+5.2.2024
+
+logo
+Pike Finance
+ETH
++2
+Bridge
+Other
+$1,600,000
+4.30.2024
+
+logo
+Rain
+CEX
+CeFi
+Other
+$14,000,000
+4.29.2024
+
+logo
+Pike Finance
+Arbitrum
++1
+Bridge
+Other
+$300,000
+4.26.2024
+
+logo
+XBridge
+ETH
++1
+Bridge
+Access Control
+$1,900,000
+4.24.2024
+
+logo
+FENGSHOU Token
+BSC
+Token
+Access Control
+$191,000
+4.24.2024
+
+logo
+Hedgey
+ETH
+Other
+Flash Loan Attack
+$2,000,000
+4.19.2024
+
+logo
+Wilder
+WILD
+ETH
+Gaming / M...
+Access Control
+$1,400,000
+4.16.2024
+
+logo
+Grand Base
+GB
+Other
+Other
+Access Control
+$1,700,000
+4.15.2024
+
+logo
+Chainge Finance
+BSC
+Other
+Other
+$716,000
+4.15.2024
+
+logo
+Sumer.Money
+Other
+Borrowing ...
+Flash Loan Attack
+$350,000
+4.12.2024
+
+logo
+Empower AI
+EMPAI
+ETH
+Token
+Rugpull
+$230,000
+4.11.2024
+
+logo
+SAGA (Fake)
+SAGA
+BSC
+Token
+Rugpull
+$1,600,000
+4.5.2024
+
+logo
+Condom
+Condom
+Solana
+Token
+Rugpull
+$900,000
+4.4.2024
+
+logo
+DegenFox
+DFox
+BSC
++1
+Token
+Rugpull
+$150,000
+4.4.2024
+
+logo
+Solareum
+Solana
+Other
+Other
+$523,000
+4.2.2024
+
+logo
+OpenLeverage
+LToken
+BSC
+Other
+Other
+$236,000
+4.1.2024
+
+logo
+Fake Ethena Lab...
+ENA
+BSC
+Token
+Rugpull
+$290,000
+3.29.2024
+
+logo
+Lava
+Arbitrum
+Borrowing ...
+Flash Loan Attack
+$340,000
+3.29.2024
+
+logo
+Munchables
+Blast
+Other
+Access Control
+$62,500,000
+3.27.2024
+
+logo
+URF
+Solana
+Token
+Rugpull
+$450,000
+3.26.2024
+
+logo
+ZongZi
+ZongZi
+BSC
+Token
+Flash Loan Attack
+$230,000
+3.25.2024
+
+logo
+Lucky Star
+LCS
+BSC
+Other
+Access Control
+$297,000
+3.22.2024
+
+logo
+FA
+FA
+BSC
+Token
+Rugpull
+$255,000
+3.21.2024
+
+logo
+Dolomite
+ETH
+Yield Aggr...
+Other
+$1,900,000
+3.20.2024
+
+logo
+AirDAO
+AMB
+ETH
+Other
+Access Control
+$440,000
+3.20.2024
+
+logo
+Fake EigenLayer
+EigenLayer
+ETH
+Token
+Rugpull
+$405,000
+3.17.2024
+
+logo
+Remilia
+ETH
+Other
+Access Control
+$3,000,000
+3.17.2024
+
+logo
+Fake Polyhedra ...
+ZK
+ETH
+Token
+Rugpull
+$400,000
+3.16.2024
+
+logo
+Mozaic
+Arbitrum
+Yield Aggr...
+Access Control
+$2,100,000
+3.15.2024
+
+logo
+Fake ether.fi
+ETHFI
+ETH
+Token
+Rugpull
+$354,000
+3.14.2024
+
+logo
+Unizen
+ETH
+Exchange (...
+Other
+$2,100,000
+3.9.2024
+
+logo
+JUICE
+JUICE
+ETH
+Other
+Other
+$216,000
+3.9.2024
+
+logo
+Humanized_AI
+HMZ
+ETH
+Token
+Rugpull
+$665,000
+3.7.2024
+
+logo
+TGBS
+TGBS
+BSC
+Token
+Flash Loan Attack
+$151,000
+3.6.2024
+
+logo
+WOOFi
+Arbitrum
+Other
+Flash Loan Attack
+$8,500,000
+3.5.2024
+
+logo
+OrdiZK
+OZK
+ETH
+Token
+Rugpull
+$1,400,000
+3.5.2024
+
+logo
+HGM, AGSC
+BSC
+Token
+Phishing
+$75,000
+3.5.2024
+
+logo
+$ALI, $PUSH Tok...
+ETH
+Token
+Phishing
+$4,390,000
+3.1.2024
+
+logo
+AI Protocol
+ALI
+ETH
+Other
+Phishing
+$4,300,000
+3.1.2024
+
+logo
+Shido
+ETH
+Other
+Access Control
+$2,400,000
+2.29.2024
+
+logo
+Seneca
+SEN
+ETH
++1
+Yield Aggr...
+Access Control
+$6,500,000
+2.28.2024
+
+logo
+Ore
+ORE
+ETH
+Token
+Rugpull
+$243,489
+2.26.2024
+
+logo
+RiskOnBlast
+Blast
+Exchange (...
++1
+Rugpull
+$1,259,575
+2.24.2024
+
+logo
+Blueberry Proto...
+bWETH
+ETH
+Yield Aggr...
++1
+Other
+$1,337,128
+2.23.2024
+
+logo
+BitForex
+BF
+ETH
++3
+CeFi
++1
+Rugpull
+$56,000,000
+2.23.2024
+
+logo
+Jeffrey Zirlin
+Ronin
+Other
+Access Control
+$9,700,000
+2.22.2024
+
+logo
+DeezNutz_404
+DN
+ETH
+Token
+Flash Loan Attack
+$174,086
+2.21.2024
+
+logo
+xPet
+BPET
+Arbitrum
+Gaming / M...
+Other
+$256,570
+2.16.2024
+
+logo
+Fixed Float
+ETH
++1
+Exchange (...
+Access Control
+$26,130,157
+2.16.2024
+
+logo
+BEAM
+BEAM
+ETH
+Token
+Phishing
+$5,170,000
+2.15.2024
+
+logo
+Particle Trade
+ETH
+Other
+Other
+$141,684
+2.15.2024
+
+logo
+DualPools
+dLINK
+BSC
+Borrowing ...
+Flash Loan Attack
+$41,286
+2.15.2024
+
+logo
+User
+ETH
+Other
+Phishing
+$48,030
+2.15.2024
+
+logo
+MINER
+MINER
+ETH
+Token
+Other
+$466,624
+2.14.2024
+
+logo
+Duelbits
+ETH
++1
+Other
+Access Control
+$4,643,315
+2.13.2024
+
+logo
+GAME
+ETH
+Other
+Reentrancy
+$49,596
+2.12.2024
+
+logo
+PlayDapp
+PLA
+ETH
+Gaming / M...
+Access Control
+$32,350,000
+2.9.2024
+
+logo
+Not Found
+404
+ETH
+Token
+Rugpull
+$199,927
+2.8.2024
+
+logo
+MangoFarmSOL
+Solana
+Yield Aggr...
+Rugpull
+$1,297,344
+2.6.2024
+
+logo
+User
+BSC
+Other
+Phishing
+$85,467
+2.5.2024
+
+logo
+User
+ETH
+Other
+Phishing
+$195,887
+2.4.2024
+
+logo
+CryptoBottle
+Polygon
+NFT
+Other
+$527,000
+2.4.2024
+
+logo
+Abracadabra Mon...
+MIM
+ETH
+Borrowing ...
+Other
+$6,414,205
+1.30.2024
+
+logo
+Chris Larsen
+XRP
+Other
+Other
+Access Control
+$112,500,000
+1.30.2024
+
+logo
+Goledo Finance
+GOL
+Other
+Borrowing ...
+Flash Loan Attack
+$1,700,000
+1.29.2024
+
+logo
+Citadel Finance
+CIT
+Arbitrum
+Other
+Flash Loan Attack
+$97,000
+1.27.2024
+
+logo
+Nebula Revelati...
+NBL
+Optimism
+Gaming / M...
+Reentrancy
+$180,264
+1.25.2024
+
+logo
+Massive Phishin...
+ETH
++1
+Other
+Phishing
+$12,917,550
+1.24.2024
+
+logo
+Saga DAO
+Solana
+Other
+Access Control
+$60,000
+1.24.2024
+
+logo
+JohnLennonC0IN
+BEATLES
+BSC
+Token
+Rugpull
+$11,336
+1.23.2024
+
+logo
+Concentric Fina...
+CONE
+Arbitrum
+Yield Aggr...
+Access Control
+$1,654,517
+1.22.2024
+
+logo
+GAMEE
+GMEE
+Polygon
+Token
+Access Control
+$16,352,814
+1.22.2024
+
+logo
+Unknown User
+ETH
+Other
+Phishing
+$3,725,002
+1.21.2024
+
+logo
+LongNoseDog
+LONG
+BSC
+Token
+Rugpull
+$309,749
+1.18.2024
+
+logo
+Rose Finance
+ROSA
+Arbitrum
+Borrowing ...
+Flash Loan Attack
+$44,670
+1.18.2024
+
+logo
+BasketDAO
+BMI
+ETH
+Other
+Other
+$107,070
+1.17.2024
+
+logo
+DeFi Fake Token...
+DEFI
+ETH
+Token
+Other
+1.17.2024
+
+logo
+Socket
+ETH
+Bridge
+Other
+$3,300,000
+1.16.2024
+
+logo
+Wise Lending
+WISE
+ETH
+Borrowing ...
+Other
+$449,413
+1.12.2024
+
+logo
+Xai
+XAI
+BSC
+Token
+Rugpull
+$580,959
+1.9.2024
+
+logo
+Aragon DAO
+ETH
+Other
+Phishing
+$800,000
+1.6.2024
+
+logo
+Narwhal
+NRW
+BSC
+Token
+Other
+$1,563,286
+1.5.2024
+
+logo
+Gamma Strategie...
+GAMMA
+Arbitrum
+Borrowing ...
+Flash Loan Attack
+$6,412,750
+1.4.2024
+
+logo
+Radiant Capital
+RDNT
+Arbitrum
+Borrowing ...
+Flash Loan Attack
+$4,335,070
+1.2.2024
+logo
+Orbit Chain
+ETH
+Bridge
+Access Control
+$81,551,234
+12.31.2023
+
+logo
+Link Drainer
+ETH
+Other
+Phishing
+$4,232,690
+12.28.2023
+
+logo
+Pike Finance
+PIKE
+ETH
+Token
+Rugpull
+$55,233
+12.26.2023
+
+logo
+Ordinal DEX
+ORDEX
+ETH
+Token
+Rugpull
+$72,848
+12.25.2023
+
+logo
+Megabot
+Megabot
+ETH
++1
+Token
+Rugpull
+$666,219
+12.25.2023
+
+logo
+Telcoin
+TEL
+Polygon
+Other
+Other
+$1,272,728
+12.23.2023
+
+logo
+Wallet Drain
+ETH
+Other
+Phishing
+$2,430,419
+12.21.2023
+
+logo
+SyncSpace
+AURY
+Arbitrum
+Gaming / M...
+Other
+$272,652
+12.17.2023
+
+logo
+GoodDollars
+GoodDollar
+ETH
+Other
+Flash Loan Attack
+$627,919
+12.16.2023
+
+logo
+Nft Trader
+ETH
+NFT
++1
+Reentrancy
+$481,888
+12.16.2023
+
+logo
+Do Right
+DR
+BSC
+Token
+Rugpull
+$370,556
+12.15.2023
+
+logo
+Peapods Finance
+PEAS
+ETH
+Yield Aggr...
+Reentrancy
+$231,192
+12.13.2023
+
+logo
+Hypr Network
+HYPR
+ETH
+Bridge
+Other
+$215,193
+12.13.2023
+
+logo
+OKX
+OKB
+ETH
+Exchange (...
+Access Control
+$2,390,976
+12.12.2023
+
+logo
+stoicDAO
+ZETA
+ETH
+Token
+Rugpull
+$204,746
+12.11.2023
+
+logo
+Herencia Artife...
+HXA
+ETH
+NFT
++1
+Other
+$29,586,973
+12.7.2023
+
+logo
+Abattoir of Zir
+DIABLO
+ETH
+Token
+Rugpull
+$225,553
+12.6.2023
+
+logo
+Strong Finance
+STRONG
+ETH
+Token
+Rugpull
+$61,081
+12.6.2023
+
+logo
+EI Risitas
+KEK
+BSC
+Token
+Rugpull
+$52,351
+12.6.2023
+
+logo
+Time
+TIME
+ETH
+Token
+Other
+$200,000
+12.6.2023
+
+logo
+BearnDAO
+BSC
+Other
+Other
+$768,363
+12.6.2023
+
+logo
+Elephant Money
+ELEPHANT
+BSC
+Token
++1
+Flash Loan Attack
+$163,415
+12.6.2023
+
+logo
+CKD TOKEN
+CKD
+BSC
+Token
+Rugpull
+$485,176
+12.5.2023
+
+logo
+CoinPanda_ETH
+COINPANDA
+ETH
+Token
+Rugpull
+$80,554
+12.3.2023
+
+logo
+MYX Finance
+QMYX
+ETH
+Token
+Rugpull
+$119,888
+12.1.2023
+
+logo
+Carol Protocol
+CAROL
+Other
+Other
+Flash Loan Attack
+$61,164
+11.30.2023
+
+logo
+Velodrome Finan...
+Optimism
+Exchange (...
+Other
+$42,000
+11.29.2023
+
+logo
+Florence Financ...
+ETH
+Borrowing ...
+Phishing
+$1,456,162
+11.28.2023
+
+logo
+Symbiogenesis
+SYSIS
+ETH
+Token
+Rugpull
+$53,639
+11.28.2023
+
+logo
+AssetClub
+ACC
+ETH
+Token
+Rugpull
+$83,874
+11.28.2023
+
+logo
+Expanso
+EXPSO
+ETH
+Token
+Rugpull
+$87,558
+11.27.2023
+
+logo
+Jewels
+JWL
+ETH
+Token
+Rugpull
+$63,794
+11.24.2023
+
+logo
+Changpeng Zhao
+CZ
+BSC
+Token
+Rugpull
+$454,168
+11.24.2023
+
+logo
+SQUID GAME
+SQUIDGAME
+BSC
+Token
+Rugpull
+$55,539
+11.24.2023
+
+logo
+SAI Pro
+SAI
+BSC
+Token
+Rugpull
+$751,627
+11.23.2023
+
+logo
+KyberSwap
+ETH
++5
+Exchange (...
+Flash Loan Attack
+$45,275,428
+11.23.2023
+
+logo
+TrustPad
+TPAD
+BSC
+Token
+Rugpull
+$56,329
+11.23.2023
+
+logo
+DarkProtocol
+DARK
+BSC
+Token
+Rugpull
+$174,334
+11.23.2023
+
+logo
+GigaDAO
+GIGS
+BSC
+Token
+Rugpull
+$107,819
+11.23.2023
+
+logo
+Web
+WEB
+BSC
+Token
+Rugpull
+$178,964
+11.23.2023
+
+logo
+Creso
+CRE
+BSC
+Token
+Rugpull
+$153,603
+11.23.2023
+
+logo
+IPMB
+IPMB
+BSC
+Token
+Rugpull
+$172,483
+11.23.2023
+
+logo
+DigiFund
+DFUND
+BSC
+Token
+Rugpull
+$105,555
+11.23.2023
+
+logo
+RepubliK
+RPK
+BSC
+Token
+Rugpull
+$121,445
+11.23.2023
+
+logo
+PAPABEAR
+PAPA
+BSC
+Token
+Rugpull
+$120,648
+11.23.2023
+
+logo
+AISurf
+AISC
+BSC
+Token
+Rugpull
+$112,050
+11.23.2023
+
+logo
+HECO
+ETH
+Bridge
+Access Control
+$86,284,430
+11.22.2023
+
+logo
+HTX
+HT
+ETH
+CeFi
+Access Control
+$21,854,944
+11.22.2023
+
+logo
+CredixFinance
+CREDIX
+ETH
+Token
+Rugpull
+$25,564
+11.21.2023
+
+logo
+Dor
+DOR
+BSC
+Token
+Rugpull
+$102,731
+11.21.2023
+
+logo
+PIPI
+PIPI
+BSC
+Token
+Rugpull
+$121,373
+11.15.2023
+
+logo
+BABYFIDO
+BABYFIDO
+ETH
+Token
+Rugpull
+$79,306
+11.14.2023
+
+logo
+Builders NFT
+BuiLDerS
+BSC
+Token
+Rugpull
+$89,296
+11.14.2023
+
+logo
+Custom Lending ...
+BSC
+Borrowing ...
+Other
+$366,058
+11.12.2023
+
+logo
+Binance User
+ETH
+Other
+Access Control
+$27,093,953
+11.11.2023
+
+logo
+Samudai
+ETH
+Other
+Access Control
+$1,286,349
+11.10.2023
+
+logo
+Poloniex
+ETH
++2
+CeFi
+Access Control
+$122,981,391
+11.10.2023
+
+logo
+Raft
+RAFT
+ETH
+Stablecoin
++1
+Other
+$330,440
+11.10.2023
+
+logo
+To the Moon
+TTM
+BSC
+Token
+Rugpull
+$107,464
+11.8.2023
+
+logo
+MEV Bot
+ETH
+Other
+Other
+$1,974,350
+11.7.2023
+
+logo
+TheStandard.io
+TST
+Arbitrum
+Stablecoin
++1
+Other
+$264,000
+11.7.2023
+
+logo
+TrustPad
+TPAD
+BSC
+Other
+Other
+$152,487
+11.7.2023
+
+logo
+Ledger Live Web...
+ETH
++1
+Other
+Phishing
+$768,000
+11.5.2023
+
+logo
+3913 token
+3913
+BSC
+Token
+Flash Loan Attack
+$31,354
+11.2.2023
+
+logo
+Onyx Protocol
+XCN
+ETH
+Borrowing ...
+Flash Loan Attack
+$2,149,772
+11.1.2023
+
+logo
+Dracula
+DRAC
+BSC
+Token
+Rugpull
+$38,349
+10.31.2023
+
+logo
+loveloverocket
+LoveRCKT
+ETH
+Token
+Rugpull
+$23,439
+10.31.2023
+
+logo
+Uni Bot
+ETH
+Other
+Other
+$673,317
+10.31.2023
+
+logo
+UniBot
+UNIBOT
+ETH
+Exchange (...
+Other
+$673,317
+10.31.2023
+
+logo
+TITANX
+TITANX
+ETH
+Token
+Rugpull
+$82,238
+10.30.2023
+
+logo
+MEMEPAD
+MEMEPAD
+ETH
+Token
+Rugpull
+$80,372
+10.30.2023
+
+logo
+Memecoin
+MEME
+ETH
+Token
+Rugpull
+$79,157
+10.30.2023
+
+logo
+Memecoin
+MEME
+ETH
+Token
+Rugpull
+$188,095
+10.26.2023
+
+logo
+iSharesBitcoin
+IBTC
+BSC
+Token
+Rugpull
+$87,947
+10.26.2023
+
+logo
+Mina Protocol
+MINA
+BSC
+Token
+Rugpull
+$106,395
+10.25.2023
+
+logo
+LINEA
+L
+ETH
+Token
+Rugpull
+$740,809
+10.25.2023
+
+logo
+Safereum
+SAFEREUM
+ETH
+Token
+Rugpull
+$1,306,583
+10.24.2023
+
+logo
+QuillDex
+Quill
+ETH
+Token
+Rugpull
+$30,000
+10.24.2023
+
+logo
+Julia
+JULIA
+ETH
+Token
+Rugpull
+$72,474
+10.23.2023
+
+logo
+SOMESING
+SSX
+BSC
+Token
+Rugpull
+$166,715
+10.20.2023
+
+logo
+Celestia
+TIA
+BSC
+Token
+Rugpull
+$160,731
+10.20.2023
+
+logo
+Openfabric AI
+OFN
+BSC
+Token
+Rugpull
+$58,644
+10.19.2023
+
+logo
+L7 DEX
+LSD7
+BSC
+Token
+Rugpull
+$160,866
+10.18.2023
+
+logo
+Hope Lend
+HOPE
+ETH
+Other
+Other
+$834,616
+10.18.2023
+
+logo
+Huge Gas Fee Dr...
+ETH
+Other
+Other
+$156,190
+10.17.2023
+
+logo
+Fantom Foundati...
+FTM
+Fantom
+Other
+Access Control
+$7,359,282
+10.17.2023
+
+logo
+IVY
+IVY
+BSC
+Token
+Rugpull
+$1,820,319
+10.16.2023
+
+logo
+Big Time
+BIGTIME
+BSC
+Token
+Rugpull
+$168,699
+10.13.2023
+
+logo
+2049
+2049
+BSC
+Token
+Rugpull
+$82,471
+10.12.2023
+
+logo
+MarbleX
+MBX
+BSC
+Token
+Rugpull
+$161,784
+10.11.2023
+
+logo
+Black Hole
+BH
+BSC
+Token
+Other
+$1,275,981
+10.11.2023
+
+logo
+Bitcoin BSC
+BTCBSC
+BSC
+Token
+Rugpull
+$35,813
+10.10.2023
+
+logo
+FSL
+FSL
+BSC
+Token
+Rugpull
+$1,681,340
+10.10.2023
+
+logo
+Stars Arena
+Avax
+Other
+Reentrancy
+$2,974,530
+10.7.2023
+
+logo
+CommEX
+CMX
+BSC
+Token
+Rugpull
+$134,077
+10.6.2023
+
+logo
+Stanley the Bug...
+BUGMAN
+ETH
+Token
+Rugpull
+$113,758
+10.3.2023
+
+logo
+EigenLayer
+EL
+BSC
+Token
+Rugpull
+$821,230
+10.2.2023
+
+logo
+Ninja Gaiden
+GAIDEN
+ETH
+Token
+Rugpull
+$88,794
+10.2.2023
+
+logo
+Raichu Thunders...
+RAI
+ETH
+Token
+Rugpull
+$14,964
+9.30.2023
+
+logo
+XSD Token
+XSD
+BSC
+Token
+Flash Loan Attack
+$12,000
+9.27.2023
+
+logo
+HTX
+HT
+ETH
+CeFi
+Access Control
+,912,519
+9.24.2023
+
+logo
+Mixin Network
+ETH
++1
+Other
+Other
+,041,764
+9.23.2023
+
+logo
+DUO
+DUO
+BSC
+Token
+Rugpull
+,330
+9.23.2023
+
+logo
+Linear Finance
+lUSD
+BSC
+Stablecoin
++1
+Other
+,726
+9.21.2023
+
+logo
+Yzer Token
+YZER
+ETH
+Token
+Rugpull
+,960
+9.21.2023
+
+logo
+BNBpay
+BNBpay
+BSC
+Token
+Rugpull
+,973
+9.21.2023
+
+logo
+Balancer
+Avax
+Exchange (...
+Other
+,000
+9.20.2023
+
+logo
+The Honest Vent...
+BSC
+Other
+Other
+,765
+9.20.2023
+
+logo
+Friendchips.tec...
+FRIENDCHIPS
+ETH
+Token
+Rugpull
+,276
+9.15.2023
+
+logo
+CoinEx
+Other
+Other
+Access Control
+,847,077
+9.12.2023
+
+logo
+Helio Protocol
+HELIO
+BSC
+Token
+Rugpull
+,277
+9.7.2023
+
+logo
+SPROUT
+SPROUT
+ETH
+Token
+Rugpull
+,982
+9.7.2023
+
+logo
+Boost Coin
+Boost
+ETH
+Token
+Rugpull
+,267
+9.6.2023
+
+logo
+APIG
+APIG
+BSC
+Token
+Rugpull
+,164
+9.6.2023
+
+logo
+Coindroplet
+ETH
+Other
+Phishing
+,095,489
+9.6.2023
+
+logo
+FloorDAO
+FLOOR
+ETH
+NFT
+Other
+,000
+9.5.2023
+
+logo
+GMBL Computer
+Arbitrum
+Other
+Other
+,196
+9.5.2023
+
+logo
+Stake
+Other
+Other
++1
+Other
+,408,903
+9.4.2023
+
+logo
+EspressoBot
+ESPS
+ETH
+Token
+Rugpull
+,110
+8.31.2023
+
+logo
+BabyShia
+BABYSHIA
+ETH
+Token
+Rugpull
+,569
+8.30.2023
+
+logo
+Genswap
+GEN
+ETH
+Token
+Rugpull
+,000
+8.30.2023
+
+logo
+Kizuna AI
+KIZUNA
+ETH
+Token
+Rugpull
+,863
+8.29.2023
+
+logo
+Symbiosis
+Symbiosis
+ETH
+Token
+Rugpull
+,725
+8.29.2023
+
+logo
+Balancer
+BAL
+ETH
+Exchange (...
+Flash Loan Attack
+,898,586
+8.27.2023
+
+logo
+Star Token
+STV
+BSC
+Token
+Other
+,684
+8.26.2023
+
+logo
+Magnate Finance
+MAG
+Other
+Borrowing ...
+Rugpull
+,357,862
+8.25.2023
+
+logo
+SHIA
+SHIA
+ETH
+Token
+Rugpull
+,094
+8.24.2023
+
+logo
+Hachiko
+Hachiko
+ETH
+Token
+Rugpull
+,702
+8.24.2023
+
+logo
+Reflex Staking ...
+REFLEX
+ETH
+Token
+Rugpull
+,801
+8.24.2023
+
+logo
+Aspiring Cooper...
+ACC
+BSC
+Token
+Rugpull
+,462
+8.23.2023
+
+logo
+Towelie
+TOWELIE
+ETH
+Token
+Rugpull
+,861
+8.23.2023
+
+logo
+HarryPotterObam...
+USDT
+ETH
+Token
+Rugpull
+,696
+8.23.2023
+
+logo
+Ethereum Hive
+EHIVE
+ETH
+Other
+Other
+,569
+8.21.2023
+
+logo
+LayerZero
+ZRO
+BSC
+Token
+Rugpull
+,045,094
+8.20.2023
+
+logo
+Friend Tech
+FT
+ETH
+Token
+Rugpull
+,230
+8.19.2023
+
+logo
+BTC20Token
+BTC20
+ETH
+Token
+Flash Loan Attack
+,478
+8.19.2023
+
+logo
+Frontfanz
+FANX
+BSC
+Token
+Rugpull
+,302
+8.19.2023
+
+logo
+Exactly Protoco...
+EXA
+Optimism
+Borrowing ...
+Reentrancy
+,197,240
+8.18.2023
+
+logo
+SwilrLend
+ETH
++1
+Borrowing ...
+Rugpull
+,317
+8.16.2023
+
+logo
+Snake Eyes
+SNAKE
+ETH
+Token
+Rugpull
+,292
+8.16.2023
+
+logo
+Jigsaw saw you
+SAW
+ETH
+Token
+Rugpull
+,000
+8.15.2023
+
+logo
+Gladiator
+GLA
+ETH
+Token
+Rugpull
+,180
+8.14.2023
+
+logo
+RocketSwap
+RCKT
+ETH
++1
+Exchange (...
+Access Control
+,000
+8.14.2023
+
+logo
+Zunami Protocol
+UZD
+ETH
+Yield Aggr...
+Flash Loan Attack
+,177,741
+8.13.2023
+
+logo
+KUKUCoin
+KUKUCoin
+ETH
+Token
+Rugpull
+,335
+8.13.2023
+
+logo
+Safe
+ETH
+Other
+Other
+,829
+8.12.2023
+
+logo
+Fake zkSync
+zkSync
+BSC
+Token
+Rugpull
+,527
+8.12.2023
+
+logo
+GGBOND
+GGBOND
+ETH
+Token
+Rugpull
+,971
+8.11.2023
+
+logo
+CIRCLE (fake)
+CIRCLE
+BSC
+Token
+Rugpull
+,000
+8.11.2023
+
+logo
+Earning Farm
+ETH
+Other
+Reentrancy
+,381
+8.9.2023
+
+logo
+Deez Nuts
+DEEZ
+ETH
+Token
+Rugpull
+,044
+8.9.2023
+
+logo
+Speadefi
+Arbitrum
++1
+Yield Aggr...
+Access Control
+,148,309
+8.7.2023
+
+logo
+Cypher Protocol
+Solana
+Exchange (...
+Other
+,000,000
+8.7.2023
+
+logo
+BabyShiba2.0
+BabyShiba2.0
+BSC
+Token
+Rugpull
+,000
+8.7.2023
+
+logo
+Plankton Plankt...
+PLANK
+ETH
+Token
+Rugpull
+,021
+8.6.2023
+
+logo
+Coin
+COIN
+ETH
+Token
+Rugpull
+,000
+8.6.2023
+
+logo
+BitLord
+BITLORD
+ETH
+Token
+Rugpull
+,201
+8.5.2023
+
+logo
+Tommy VICE CITY
+TOM
+ETH
+Token
+Rugpull
+,248
+8.4.2023
+
+logo
+MotherOfAllMeme...
+MOAM
+ETH
+Token
+Rugpull
+,000
+8.4.2023
+
+logo
+Apache NFT Sale...
+ASN
+BSC
+Token
+Rugpull
+,960
+8.3.2023
+
+logo
+LK-99 Protocol
+LK99
+ETH
+Token
+Rugpull
+,735
+8.3.2023
+
+logo
+One For The Boo...
+BOOKS
+ETH
+Token
+Rugpull
+,150
+8.2.2023
+
+logo
+Satori
+Satori
+BSC
+Token
+Rugpull
+,765
+8.2.2023
+
+logo
+DeriTrade
+DUSD
+BSC
+Stablecoin
+Rugpull
+,411
+8.2.2023
+
+logo
+Uwerx
+WERX
+ETH
+Other
+Flash Loan Attack
+,254
+8.2.2023
+
+logo
+LeetSwap
+Other
+Exchange (...
+Other
+,583
+8.1.2023
+
+logo
+Majin Buu
+BUU
+ETH
+Token
+Rugpull
+,213
+8.1.2023
+
+logo
+Bald
+Bald
+Other
+Token
+Rugpull
+,129,572
+7.31.2023
+
+logo
+Vyper
+ETH
+Exchange (...
+Reentrancy
+,476,970
+7.30.2023
+
+logo
+Hu Tao Spirit S...
+HUTAO
+ETH
+Token
+Rugpull
+,828
+7.29.2023
+
+logo
+RAIDEN GOD Thun...
+RAIDEN
+ETH
+Token
+Rugpull
+,977
+7.29.2023
+
+logo
+Elon Pepe
+ElonPepe
+BSC
+Token
+Honeypot
+,796
+7.28.2023
+
+logo
+zkSync Copycat
+TBD
+BSC
+Token
+Rugpull
+,549
+7.28.2023
+
+logo
+DeFido
+DEFIDO
+BSC
+Token
+Rugpull
+,971
+7.28.2023
+
+logo
+DefiLabs
+BSC
+Token
+Rugpull
+,634,351
+7.27.2023
+
+logo
+Terk The Gorill...
+TERK
+ETH
+Token
+Rugpull
+,440
+7.26.2023
+
+logo
+Carson
+Carson
+BSC
+Token
+Flash Loan Attack
+,000
+7.26.2023
+
+logo
+SafeMoonX
+SFMX
+ETH
+Token
+Rugpull
+,018
+7.26.2023
+
+logo
+Bare Bear
+BEAR
+ETH
+Token
+Rugpull
+,000
+7.25.2023
+
+logo
+EraLend
+zkSync
+Borrowing ...
+Reentrancy
+,400,000
+7.25.2023
+
+logo
+Worldcoin
+WLD
+ETH
+Token
+Rugpull
+,000
+7.24.2023
+
+logo
+Palm USD
+USDP
+BSC
+Stablecoin
+Flash Loan Attack
+,000
+7.24.2023
+
+logo
+Kaonashi the Fa...
+NOFACE
+ETH
+Token
+Rugpull
+,000
+7.23.2023
+
+logo
+Popeye the Sail...
+POPEYE
+ETH
+Token
+Rugpull
+,000
+7.23.2023
+
+logo
+ROACH RACE
+ROACH
+ETH
+Token
+Rugpull
+,000
+7.23.2023
+
+logo
+Gandalf The Gre...
+GAN
+ETH
+Token
+Rugpull
+,238
+7.22.2023
+
+logo
+Wettok Market
+WTO
+BSC
+Token
++1
+Rugpull
+,905
+7.22.2023
+
+logo
+AlphaPo
+ETH
++1
+CeFi
+Access Control
+,851,804
+7.22.2023
+
+logo
+AORcoin
+AOR
+BSC
+Token
+Rugpull
+,693
+7.22.2023
+
+logo
+IEGT
+IEGT
+BSC
+Token
+Rugpull
+,143,772
+7.22.2023
+
+logo
+CoinsPaid
+CEX
+Other
+Other
+,000,000
+7.22.2023
+
+logo
+Conic Finance
+ETH
+Other
+Reentrancy
+,254,850
+7.21.2023
+
+logo
+Hayden Adams Ph...
+ETH
+Other
+Phishing
+,600,000
+7.21.2023
+
+logo
+Scooby Pepe
+SCO
+ETH
+Token
+Rugpull
+,583
+7.21.2023
+
+logo
+Utopia
+Utopia
+BSC
+Token
+Other
+,018
+7.20.2023
+
+logo
+Flashmall
+BSC
+Token
+Rugpull
+,350
+7.19.2023
+
+logo
+Toothless - How...
+TOOTH
+ETH
+Token
+Rugpull
+,000
+7.19.2023
+
+logo
+GMETA
+GMETA
+BSC
+Token
+Rugpull
+,675,612
+7.18.2023
+
+logo
+BNO
+BNO
+BSC
+Token
+Rugpull
+,217
+7.18.2023
+
+logo
+MOJO
+Mojo Jojo
+ETH
+Token
+Rugpull
+,000
+7.18.2023
+
+
+logo
+ROBIN HOOD
+ETH
+Token
+Rugpull
+,000
+7.18.2023
+
+logo
+Patex
+PATEX
+BSC
+Token
+Rugpull
+,600
+7.18.2023
+
+logo
+LooBr
+LooBr
+BSC
+Token
+Rugpull
+,439
+7.18.2023
+
+logo
+DMD
+DMD
+BSC
+Token
+Rugpull
+,385
+7.16.2023
+
+logo
+PAULY
+PAULY
+ETH
+Token
+Rugpull
+,000
+7.14.2023
+
+logo
+BJS
+BJS
+BSC
+Token
+Rugpull
+,000
+7.13.2023
+
+logo
+Agent Smith
+SMITH
+ETH
+Token
+Rugpull
+,545
+7.13.2023
+
+logo
+Rodeo Finance
+RDO
+Arbitrum
+Yield Aggr...
+Oracle Issue
+,690,000
+7.11.2023
+
+logo
+Platypus Financ...
+PTP
+Avax
+Exchange (...
+Reentrancy
+,840
+7.11.2023
+
+logo
+Libertify
+ETH
++1
+Other
+Reentrancy
+,114
+7.11.2023
+
+logo
+AI C-3PO
+AI C-3PO
+ETH
+Token
+Rugpull
+,000
+7.11.2023
+
+logo
+fren
+FREN
+ETH
+Token
+Rugpull
+,768
+7.10.2023
+
+logo
+The Onigiri Nek...
+ONIGI
+ETH
+Token
+Rugpull
+,000
+7.9.2023
+
+logo
+Jar Jar Binks
+JAR
+ETH
+Token
+Rugpull
+,881
+7.8.2023
+
+logo
+Civilization
+CIV
+ETH
+Other
+Other
+,474
+7.8.2023
+
+logo
+Fake DAI Token
+DAI
+BSC
+Token
+Other
+,815
+7.8.2023
+
+logo
+Arcadia Finance
+ARCADIA
+ETH
++1
+Exchange (...
+Reentrancy
+,094
+7.7.2023
+
+logo
+ZUCK
+Power of ZUCK
+ETH
+Token
+Rugpull
+,000
+7.7.2023
+
+logo
+Multichain
+ETH
+Bridge
+Access Control
+,129,033
+7.6.2023
+
+logo
+MIKE and SID To...
+MIKE
+ETH
+Token
+Rugpull
+,652
+7.3.2023
+
+logo
+PEPEHUB
+PEPEHUB
+ETH
+Token
+Rugpull
+,000
+7.3.2023
+
+logo
+DubaiCEO
+DubaiCEO
+ETH
+Token
+Rugpull
+,272
+7.2.2023
+
+logo
+Poly Network
+ETH
++6
+Bridge
+Access Control
+,201,612
+7.1.2023
+
+logo
+Dogecoin 3.0
+DOGE3.0
+ETH
+Token
+Rugpull
+,971
+7.1.2023
+
+logo
+Serial Scammer
+ETH
+Token
+Rugpull
+,066
+7.1.2023
+
+logo
+ArchWay Fake
+ARCH
+BSC
+Token
+Rugpull
+,371
+6.30.2023
+
+logo
+BiSwap
+BSW
+BSC
+Exchange (...
+Other
+,000
+6.30.2023
+
+logo
+Boring Nakas
+BNAKA
+ETH
+Token
+Rugpull
+,439
+6.30.2023
+
+logo
+AzukiDAO
+Bean
+ETH
+NFT
++1
+Other
+,693
+6.30.2023
+
+logo
+Ackerman Ponzi
+Other
+Other
+Other
+,000,000
+6.28.2023
+
+logo
+Beamsplittr
+BSPLT
+ETH
+Token
+Rugpull
+,824
+6.27.2023
+
+logo
+mCoin
+MCOIN
+BSC
+Token
+Rugpull
+,841
+6.27.2023
+
+logo
+Chibi Finance
+Arbitrum
+Yield Aggr...
+Rugpull
+,052,646
+6.27.2023
+
+logo
+CLOUD NFT
+CLOUDNFT
+BSC
+NFT
+Rugpull
+,870
+6.27.2023
+
+logo
+Themis Protocol
+Arbitrum
+Borrowing ...
+Flash Loan Attack
+,748
+6.27.2023
+
+logo
+TWEETY-MEGA-FUM...
+TWEETY
+ETH
+Token
+Rugpull
+,320
+6.26.2023
+
+logo
+EthBread Token
+ETB
+BSC
+Token
+Rugpull
+,574
+6.25.2023
+
+logo
+Baby Pepe Token
+BabyPepe
+BSC
+Token
+Rugpull
+,752
+6.24.2023
+
+logo
+HIGH RETURN (HR...
+HRN
+BSC
+Token
+Rugpull
+,000
+6.24.2023
+
+logo
+Shido Global
+SHIDO
+BSC
+Other
+Other
+,462
+6.23.2023
+
+logo
+Baby Doge Coin
+BabyDoge
+BSC
+Token
+Flash Loan Attack
+,000
+6.21.2023
+
+logo
+IPO
+IPO
+BSC
+Token
+Rugpull
+,153
+6.20.2023
+
+logo
+Greatest Of All...
+GOAT
+ETH
+Token
+Rugpull
+,100
+6.20.2023
+
+logo
+Vip Panda Commu...
+VPC
+BSC
+Token
+Rugpull
+,865
+6.19.2023
+
+logo
+Ara Blocks
+ARA
+BSC
+NFT
++1
+Flash Loan Attack
+,915
+6.18.2023
+
+logo
+Pawnfi
+ETH
+NFT
+Other
+,441
+6.17.2023
+
+logo
+Midas Capital
+BSC
+Borrowing ...
+Other
+,000
+6.17.2023
+
+logo
+GUIDO The Mecha...
+GUIDO
+ETH
+Token
+Rugpull
+,695
+6.17.2023
+
+logo
+VPANDAO DAO
+VPANDA
+BSC
+Token
+Rugpull
+,463
+6.16.2023
+
+logo
+BAT Token
+BAT
+BSC
+Token
+Rugpull
+,001
+6.16.2023
+
+logo
+Hashflow
+HFT
+ETH
++4
+Exchange (...
+Other
+,000
+6.14.2023
+
+logo
+Midgets Token
+MIDGETS
+ETH
+Token
+Rugpull
+,842
+6.14.2023
+
+logo
+Smurfs Coin
+Smurfs
+ETH
+Token
+Rugpull
+,524
+6.13.2023
+
+logo
+SpaceX Copycat
+SpaceX
+ETH
+Token
+Rugpull
+,516
+6.13.2023
+
+logo
+Sturdy Finance
+STRDY
+ETH
+Borrowing ...
+Oracle Issue
+,332
+6.12.2023
+
+logo
+SellToken
+SELLC
+BSC
+Exchange (...
++1
+Other
+,270
+6.11.2023
+
+logo
+Goldbank Financ...
+GB
+Arbitrum
+Token
+Rugpull
+,239
+6.11.2023
+
+logo
+ETE Token
+ETE
+BSC
+Token
+Rugpull
+,000
+6.10.2023
+
+logo
+Atlantis Loans
+ATL
+BSC
+Borrowing ...
+Access Control
+,251,622
+6.10.2023
+
+logo
+OkayLetsGo
+OKLG
+ETH
+Token
+Rugpull
+,226
+6.9.2023
+
+logo
+Securedverse Co...
+SVC
+BSC
+Token
+Rugpull
+,133
+6.9.2023
+
+logo
+SAUDI Token
+SAUDI
+ETH
+Token
+Rugpull
+,331
+6.7.2023
+
+logo
+UN Token
+UN
+BSC
+Token
+Flash Loan Attack
+,558
+6.6.2023
+
+logo
+USEA Token
+USEA
+BSC
+Token
+Rugpull
+,114,468
+6.6.2023
+
+logo
+SCT Token
+SCT
+BSC
+Token
+Rugpull
+,123
+6.6.2023
+
+logo
+NFDAO
+NFD
+BSC
+Token
+Rugpull
+,420
+6.5.2023
+
+logo
+Atomic Wallet
+ETH
++3
+Other
+Access Control
+,000,000
+6.4.2023
+
+logo
+Pink Drainer
+ETH
+Other
+Phishing
+,749,487
+6.3.2023
+
+logo
+wDAO EON
+NST
+Polygon
+Exchange (...
+Flash Loan Attack
+,195
+6.2.2023
+
+logo
+DD coin
+DD
+BSC
+Other
+Other
+,597
+6.1.2023
+
+logo
+Cellframe Netwo...
+CELL
+BSC
+Other
+Flash Loan Attack
+,112
+6.1.2023
+
+logo
+ERC20 Token Ban...
+ETH
+Other
+Flash Loan Attack
+,967
+5.31.2023
+
+logo
+unshETH
+unshETH
+ETH
+Yield Aggr...
+Access Control
+,000
+5.31.2023
+
+logo
+BlockGPT
+BGP
+BSC
+Token
+Rugpull
+,592
+5.30.2023
+
+logo
+MoveCash
+MCA
+BSC
+Token
+Rugpull
+,215
+5.30.2023
+
+logo
+EDE Finance
+EDE
+Arbitrum
+Exchange (...
+Other
+,370
+5.29.2023
+
+logo
+Jimbos protocol
+JIMBO
+Arbitrum
+Other
+Other
+,500,000
+5.28.2023
+
+logo
+BabyDogeCoin
+BabyDoge
+BSC
+Token
+Flash Loan Attack
+,013
+5.28.2023
+
+logo
+POOPEPE token
+POPE
+ETH
+Token
+Rugpull
+,000
+5.26.2023
+
+logo
+PSYOP Phishing
+PSYOP
+ETH
+Token
+Phishing
+,546
+5.26.2023
+
+logo
+CS
+CS
+BSC
+Token
+Flash Loan Attack
+,285
+5.23.2023
+
+logo
+Local Traders
+LCT
+BSC
+Exchange (...
+Access Control
+,595
+5.23.2023
+
+logo
+Sui Network
+SUI
+BSC
+Token
+Rugpull
+,881
+5.22.2023
+
+logo
+Fintoch
+FTH
+BSC
+Token
++1
+Rugpull
+,666,317
+5.22.2023
+
+logo
+LunaFI
+LFI
+Polygon
+Other
+Other
+,362
+5.22.2023
+
+logo
+Tornado Cash
+TORN
+ETH
+Other
+Other
+,049,513
+5.20.2022
+
+logo
+Swaprum
+SAPR
+Arbitrum
+Exchange (...
+Rugpull
+,915,567
+5.18.2023
+
+logo
+Linda Yaccarino
+LINDA
+BSC
+Token
+Rugpull
+,723
+5.14.2023
+
+logo
+Mother
+MOTHER
+BSC
+Token
+Rugpull
+,883
+5.14.2023
+
+logo
+land
+land
+BSC
+NFT
+Other
+,043
+5.14.2023
+
+logo
+BitPaid
+BTP
+BSC
+Token
+Rugpull
+,140
+5.13.2023
+
+logo
+LW
+LW
+BSC
+Token
+Other
+,298
+5.12.2023
+
+logo
+Venus Token
+VUS
+BSC
+Token
+Other
+,937
+5.11.2023
+
+logo
+SNOOKER
+SNK
+BSC
+Token
+Other
+,725
+5.10.2023
+
+logo
+Floki Inu
+FLOKI
+ETH
+Token
+Flash Loan Attack
+,591
+5.9.2023
+
+logo
+DerpMan
+DMAN
+ETH
+Token
+Rugpull
+,123
+5.9.2023
+
+logo
+Block Forest
+BFT
+BSC
+Token
+Flash Loan Attack
+,439
+5.6.2023
+
+logo
+Deus Finance
+DEI
+BSC
++1
+Stablecoin
+Other
+,227,977
+5.5.2023
+
+logo
+WSB Coin
+WSB
+ETH
+Token
+Rugpull
+,000
+5.4.2023
+
+logo
+Kickboxer Tate
+KBTate
+ETH
+Token
+Rugpull
+,179
+5.4.2023
+
+logo
+GN
+GN
+ETH
+Token
+Rugpull
+,097
+5.4.2023
+
+logo
+Yoda Coin
+YODA
+ETH
+Token
+Rugpull
+,000
+5.4.2023
+
+logo
+Level Finance
+LVL
+BSC
+Exchange (...
+Other
+,097,160
+5.1.2023
+
+logo
+Ovix
+Polygon
+Borrowing ...
+Flash Loan Attack
+,000,000
+4.28.2023
+
+logo
+Merlin DEX
+zkSync
+Exchange (...
+Access Control
+,800,000
+4.26.2023
+
+logo
+ElonDoge
+EDOGE
+BSC
+Token
+Honeypot
+4.25.2023
+
+logo
+Ordinals Financ...
+OFI
+ETH
+Other
+Rugpull
+,015,192
+4.24.2023
+
+logo
+Void.Cash
+VCASH
+ETH
+Token
+Rugpull
+,148
+4.23.2023
+
+logo
+Trust Wallet
+TWT
+BSC
+Other
+Other
+,000
+4.22.2023
+
+logo
+Unlock Protocol
+UDT
+ETH
+NFT
+Other
+,300
+4.21.2023
+
+logo
+ZKLOTTO
+ZKLOTTO
+BSC
+Token
+Rugpull
+,000
+4.21.2023
+
+logo
+fcdep
+EPMAX
+BSC
+Token
+Rugpull
+,000
+4.21.2023
+
+logo
+OceanLifeToken
+OLIFE
+BSC
+Token
+Flash Loan Attack
+,504
+4.19.2023
+
+logo
+Tales of Elleri...
+ELM
+Arbitrum
+Gaming / M...
++1
+Access Control
+,000
+4.19.2023
+
+logo
+Pepe Coin
+PEPE
+BSC
+Token
+Rugpull
+,000
+4.19.2023
+
+logo
+Ocean Life
+OLIFE
+BSC
+Token
+Flash Loan Attack
+,000
+4.19.2023
+
+logo
+ArbTomb
+PARB
+Arbitrum
+Token
+Rugpull
+,646
+4.18.2023
+
+logo
+ArbShibaAI
+AISHIB
+Arbitrum
+Token
+Rugpull
+,350
+4.18.2023
+
+logo
+RESDAO
+RESDAO
+BSC
+Token
+Rugpull
+,000
+4.18.2023
+
+logo
+ANT Token
+ANT
+BSC
+Token
+Rugpull
+,496
+4.17.2023
+
+logo
+Swapos
+SWP
+ETH
+Exchange (...
+Other
+,026
+4.16.2023
+
+logo
+Move token
+MOVE
+BSC
+Token
+Rugpull
+,000
+4.16.2023
+
+logo
+Doge Twitter To...
+DOGETWIT
+BSC
+Token
+Rugpull
+,000
+4.16.2023
+
+logo
+Crown Token
+CROWN
+BSC
+Token
+Rugpull
+,000
+4.16.2023
+
+logo
+Hundred Finance
+Optimism
+Borrowing ...
+Oracle Issue
+,701,157
+4.15.2023
+
+logo
+Hepton token
+HTE
+BSC
+Token
+Rugpull
+,000
+4.15.2023
+
+logo
+Bitrue
+CEX
+CeFi
+Access Control
+,882,489
+4.14.2023
+
+logo
+yearn.finance
+YFI
+ETH
+Yield Aggr...
++1
+Flash Loan Attack
+,512,509
+4.13.2023
+
+logo
+SyncDex
+Other
+Exchange (...
+Rugpull
+,470
+4.13.2023
+
+logo
+Iwr token
+IWR
+BSC
+Token
+Rugpull
+,000
+4.12.2023
+
+logo
+ChainGPT
+CGPT
+BSC
+Token
+Rugpull
+,000
+4.12.2023
+
+logo
+FilDA
+FILDA
+Heco
+Borrowing ...
+Other
+,000,000
+4.12.2023
+
+logo
+Aave Protocol
+Arbitrum
+Borrowing ...
+Phishing
+,201,576
+4.11.2023
+
+logo
+MetaPoint
+POT
+BSC
+Gaming / M...
+Access Control
+,242
+4.11.2023
+
+logo
+Real Web Projec...
+RWP
+BSC
+Token
+Rugpull
+,332
+4.11.2023
+
+logo
+XCAD
+PLAY
+BSC
+Token
+Rugpull
+,000
+4.11.2023
+
+logo
+Theory Craft Fa...
+TYF
+BSC
+Token
+Rugpull
+,000
+4.11.2023
+
+logo
+Paribus
+pUSDT
+Arbitrum
+Borrowing ...
+Reentrancy
+,696
+4.11.2023
+
+logo
+Terraport Finan...
+TERRA
+LUNC
+Exchange (...
+Other
+,000,000
+4.10.2023
+
+logo
+SushiSwap
+SUSHI
+ETH
+Exchange (...
+Other
+,505,950
+4.9.2023
+
+logo
+GDAC
+CEX
+CeFi
+Access Control
+,324,040
+4.9.2023
+
+logo
+Zodiac Credit
+ZOC
+BSC
+Token
+Rugpull
+,000
+4.9.2023
+
+logo
+ATF Token
+ATF
+BSC
+Token
+Rugpull
+,061
+4.7.2023
+
+logo
+PCORE
+PCORE
+BSC
+Token
+Rugpull
+,000
+4.7.2023
+
+logo
+Pervasive Infor...
+PICO
+BSC
+Token
+Rugpull
+,000
+4.7.2023
+
+logo
+OpenAI LASA
+LASA
+BSC
+Token
+Rugpull
+,000
+4.7.2023
+
+logo
+BigFinance
+BIGFI
+BSC
+Token
+Rugpull
+,200
+4.6.2023
+
+logo
+CBC Token
+CBC
+BSC
+Token
+Rugpull
+,002
+4.6.2023
+
+logo
+TRT
+TRT
+BSC
+Token
+Rugpull
+,000
+4.5.2023
+
+logo
+Sentiment
+Arbitrum
+Borrowing ...
+Reentrancy
+,279
+4.4.2023
+
+logo
+GameFi
+GAFI
+BSC
+Token
+Rugpull
+,000
+4.4.2023
+
+logo
+MOL
+MOL
+BSC
+Token
+Rugpull
+,000
+4.3.2023
+
+logo
+Script Token
+SCPT
+BSC
+Token
+Rugpull
+,857
+4.2.2023
+
+logo
+MEV Boost Explo...
+ETH
+Other
+Other
+,123,300
+4.2.2023
+
+logo
+OBB
+OBB
+BSC
+Token
+Rugpull
+,000
+4.2.2023
+
+logo
+Allbridge
+ABR
+BSC
+Bridge
+Flash Loan Attack
+,000
+4.1.2023
+
+logo
+Arbitrum token
+ARB
+BSC
+Token
+Rugpull
+,000
+4.1.2023
+
+logo
+YPT
+YPT
+BSC
+Token
+Rugpull
+,000
+3.31.2023
+
+logo
+Rocket Pool
+RPL
+ETH
+Other
+Phishing
+,600,000
+3.30.2023
+
+logo
+BWR
+BWR
+BSC
+Token
+Rugpull
+,000
+3.29.2023
+
+logo
+UNMS
+UNMS
+BSC
+Token
+Flash Loan Attack
+,000
+3.29.2023
+
+logo
+Safe Moon
+SFM
+BSC
+Token
+Access Control
+,900,000
+3.28.2023
+
+logo
+MystenLabs
+MYSL
+BSC
+Token
+Rugpull
+,300
+3.28.2023
+
+logo
+DG
+DG
+BSC
+Token
+Rugpull
+,500
+3.28.2023
+
+logo
+AGD
+AGD
+BSC
+Token
+Rugpull
+,000
+3.27.2023
+
+logo
+Finance
+ARKEN
+BSC
+Token
+Rugpull
+,000
+3.27.2023
+
+logo
+BNQ
+BNQ
+BSC
+Token
+Rugpull
+,000
+3.26.2023
+
+logo
+EDAO
+EDAO
+BSC
+Token
+Rugpull
+,300
+3.25.2023
+
+logo
+ERC20 Permit
+ETH
+Other
+Phishing
+,804,793
+3.24.2023
+
+logo
+EC token
+EC
+BSC
+Token
+Rugpull
+,800
+3.24.2023
+
+logo
+DESTINY Protoco...
+DESTINY
+BSC
+Token
+Rugpull
+,800
+3.24.2023
+
+logo
+Kokomo Finance
+Optimism
+Other
+Rugpull
+,163,392
+3.23.2023
+
+logo
+DEAT token
+DEAT
+BSC
+Token
+Rugpull
+,800
+3.23.2023
+
+logo
+Arbitrum
+ARB
+BSC
+Token
+Rugpull
+,000
+3.23.2023
+
+logo
+Project culs
+culs
+BSC
+Token
+Rugpull
+,442
+3.21.2023
+
+logo
+ASKACR Token
+ASKACR
+BSC
+Token
+Flash Loan Attack
+,661
+3.21.2023
+
+logo
+FlyghtLite
+FLE
+BSC
+Token
+Rugpull
+,000
+3.20.2023
+
+logo
+SpaceID
+ID
+BSC
+Token
+Rugpull
+,000
+3.19.2023
+
+logo
+APPLE
+APPLE
+BSC
+Token
+Rugpull
+,000
+3.19.2023
+
+logo
+ChainGPT
+CGPT
+BSC
+Token
+Rugpull
+,400
+3.18.2023
+
+logo
+Sloth Climb
+SLOTH
+BSC
+Token
+Rugpull
+,531
+3.18.2023
+
+logo
+LightLink token
+LL
+BSC
+Token
+Rugpull
+,000
+3.18.2023
+
+logo
+ParaSpace
+pcApe
+ETH
+Borrowing ...
+Other
+,100
+3.17.2023
+
+logo
+Harvest Keeper
+BSC
+Yield Aggr...
+Rugpull
+,595
+3.17.2023
+
+logo
+Swerve Finance
+SWRV
+ETH
+Exchange (...
+Other
+3.16.2023
+
+logo
+Poolz Finance
+POOLZ
+BSC
+Other
+Other
+,439
+3.15.2023
+
+logo
+Euler Finance
+EUL
+ETH
+Borrowing ...
+Flash Loan Attack
+,000,000
+3.13.2023
+
+logo
+Block Chain Gam...
+BCGA
+BSC
+Token
+Rugpull
+,686
+3.13.2023
+
+logo
+Hedera Token Se...
+Other
+Token
++1
+Other
+,000
+3.9.2023
+
+logo
+DKP Token
+DKP
+BSC
+Token
+Other
+,233
+3.8.2023
+
+logo
+STILTON MUSK
+STILTON
+ETH
+Token
+Rugpull
+,904
+3.8.2023
+
+logo
+TenderFi
+TND
+Arbitrum
+Borrowing ...
+Oracle Issue
+,583,432
+3.7.2023
+
+logo
+ProTradeX
+PTD
+BSC
+Token
++1
+Rugpull
+,143
+3.7.2023
+
+logo
+Cryptoger Club
+CToger
+BSC
+NFT
+Rugpull
+,364
+3.5.2023
+
+logo
+Alexa
+ALEXA
+BSC
+Token
+Other
+,256
+3.4.2023
+
+logo
+Ocean Venture
+OVG
+BSC
+Gaming / M...
+Rugpull
+,000
+3.3.2023
+
+logo
+ArbiSwap
+ARBI
+Arbitrum
+Exchange (...
++1
+Rugpull
+,055
+3.2.2023
+
+logo
+Hex Trust Token
+HXT
+BSC
+Token
+Rugpull
+,000
+3.2.2023
+
+logo
+Monkey Drainer
+ETH
+Other
+Phishing
+,506,602
+3.1.2023
+
+logo
+JNB Token
+JNB
+BSC
+Token
+Rugpull
+,497
+2.28.2023
+
+logo
+Diamond DND
+DND
+BSC
+Token
+Other
+,335
+2.27.2023
+
+logo
+LaunchZone
+LZ
+BSC
+Exchange (...
++1
+Other
+,000
+2.27.2023
+
+logo
+AquaDAO
+AQUA
+Cosmos
+Other
+Other
+,912
+2.25.2023
+
+logo
+NFT Cloud
+CLOUD
+BSC
+NFT
++1
+Other
+,330
+2.24.2023
+
+logo
+Shata Capital
+ETH
+Other
+Access Control
+,000,000
+2.24.2023
+
+logo
+FEGToken
+FEG
+ETH
+Token
+Other
+,000
+2.23.2023
+
+logo
+Dynamic
+DYNA
+BSC
+Yield Aggr...
+Reentrancy
+,400
+2.22.2023
+
+logo
+Kujira
+USK
+Other
+Stablecoin
+Other
+,000
+2.21.2023
+
+logo
+Friendsies
+fRiENDSiES
+ETH
+NFT
+Rugpull
+,300,000
+2.21.2023
+
+logo
+Hope Finance
+HOPE
+Arbitrum
+Stablecoin
+Rugpull
+,860,000
+2.20.2023
+
+logo
+Satt King
+SattKing
+BSC
+Token
+Abandoned
+,769
+2.19.2023
+
+logo
+Revert Finance
+ETH
+Yield Aggr...
+Abandoned
+,000
+2.18.2023
+
+logo
+Dexible
+ETH
+Exchange (...
+Access Control
+,047,635
+2.17.2023
+
+logo
+Platypus Financ...
+PTP
+Avax
+Exchange (...
+Flash Loan Attack
+,500,887
+2.16.2023
+
+logo
+Multichain
+ETH
+Exchange (...
+Other
+,326
+2.15.2023
+
+logo
+Smashcash
+SMASH
+BSC
+Token
+Other
+,000
+2.13.2023
+
+logo
+Mars Meta Space
+MMT
+BSC
+Gaming / M...
+Access Control
+,310
+2.12.2023
+
+logo
+dForce
+DF
+Arbitrum
++1
+Yield Aggr...
+Oracle Issue
+,650,000
+2.10.2023
+
+logo
+MOON Token
+MOON
+BSC
+Token
+Rugpull
+,117
+2.10.2023
+
+logo
+OBB Token
+OBB
+BSC
+Token
+Rugpull
+,063
+2.9.2023
+
+logo
+Umami finance
+ETH
+Exchange (...
+Other
+2.9.2023
+
+logo
+Dragonball
+DBALL
+BSC
+Token
+Flash Loan Attack
+,000
+2.8.2023
+
+logo
+AkiInuToken
+Aki
+BSC
+Token
+Rugpull
+,000
+2.8.2023
+
+logo
+Coin Merge
+CMERGE
+ETH
+Token
+Rugpull
+,887
+2.8.2023
+
+logo
+LianGo Protocol
+LGT
+BSC
+Token
+Access Control
+,600,000
+2.7.2023
+
+logo
+CoW Swap
+ETH
+Exchange (...
+Other
+,000
+2.7.2023
+
+logo
+TwitFi
+TWT
+ETH
+NFT
+Other
+,000
+2.7.2023
+
+logo
+ROT Token
+ROT
+BSC
+Token
+Rugpull
+,150
+2.6.2023
+
+logo
+Zodiac Credit
+ZODC
+BSC
+Token
+Rugpull
+,000
+2.6.2023
+
+logo
+SUI Token
+SUI
+BSC
+Token
+Rugpull
+,000
+2.6.2023
+
+logo
+Dreams Come Tru...
+DCT
+BSC
+Token
+Rugpull
+,000
+2.6.2023
+
+logo
+Degen Millionar...
+DMC
+BSC
+Token
++1
+Access Control
+,259
+2.5.2023
+
+logo
+DOXED
+DOX
+BSC
+Token
+Rugpull
+,000
+2.5.2023
+
+logo
+YAYO
+YAYO
+Polygon
+Token
+Rugpull
+,000
+2.5.2023
+
+logo
+Sperax USD
+USDs
+Arbitrum
+Stablecoin
+Other
+,000
+2.4.2023
+
+logo
+KLAYswap
+KSP
+Klaytn
+Exchange (...
+Other
+,900,000
+2.3.2023
+
+logo
+Orion Protocol
+BSC
+Other
+Reentrancy
+,000,000
+2.2.2023
+
+logo
+BonqDAO
+BNQ
+Polygon
+Borrowing ...
+Oracle Issue
+,000,000
+2.2.2023
+
+logo
+BEVO NFT
+BEVO
+BSC
+NFT
+Other
+,000
+1.30.2023
+
+logo
+Azuki
+ETH
+NFT
+Phishing
+,000
+1.27.2023
+
+logo
+MutantNFTs
+Cardano
+NFT
+Other
+,000
+1.26.2023
+
+logo
+Omm Finance
+Other
+Exchange (...
+Other
+,900,000
+1.21.2023
+
+logo
+Doglands
+Other
+Gaming / M...
+Rugpull
+,000
+1.21.2023
+
+logo
+Thoreum Finance
+THOREUM
+BSC
+Other
+Access Control
+,000
+1.19.2023
+
+logo
+BONK Inu
+BONK
+Polygon
+Token
+Rugpull
+,000
+1.18.2023
+
+logo
+YieldRobot
+BSC
+Yield Aggr...
+Rugpull
+,100,000
+1.17.2023
+
+logo
+OMNI Real Estat...
+ORT
+BSC
+NFT
+Other
+,000
+1.17.2023
+
+logo
+ETX Infinity
+ETX
+BSC
+Token
+Rugpull
+,000
+1.15.2023
+
+logo
+China Rabbit
+ChinaRabbit
+BSC
+Token
+Rugpull
+,000
+1.15.2023
+
+logo
+Midas Capital
+Polygon
+Borrowing ...
+Flash Loan Attack
+,000
+1.15.2023
+
+logo
+LendHub
+LHT
+Heco
+Borrowing ...
+Other
+,000,000
+1.12.2023
+
+logo
+ROE Finance
+ETH
+Exchange (...
+Oracle Issue
+,000
+1.11.2023
+
+logo
+Celestia
+TIA
+ETH
+Token
+Rugpull
+,853
+1.11.2023
+
+logo
+BRA Token
+BRA
+BSC
+Token
+Flash Loan Attack
+,000
+1.10.2023
+
+logo
+Spark
+FLR
+ETH
+Token
+Honeypot
+1.9.2023
+
+logo
+Mycelium
+MYC
+Arbitrum
+Exchange (...
+Other
+,000
+1.7.2023
+
+logo
+xKingdom.tech T...
+XKING
+Arbitrum
+Token
+Rugpull
+,247,503
+1.6.2023
+
+logo
+SSPF
+SSPF
+BSC
+Token
+Rugpull
+,000
+1.5.2023
+
+logo
+CoinDeal
+CEX
+CeFi
+Other
+,000,000
+1.4.2023
+
+logo
+Philcoin
+PHL
+BSC
+Token
+Rugpull
+,000
+1.4.2023
+
+logo
+FCS
+FCS
+BSC
+Token
+Rugpull
+,588,000
+1.4.2023
+
+logo
+GDS Chain
+GDS
+BSC
+Token
+Flash Loan Attack
+,000
+1.3.2023
+
+logo
+Nikhil Gopalani...
+ETH
+Other
+Phishing
+,000
+1.3.2023
+
+logo
+GMX Phishing
+Arbitrum
+Other
+Phishing
+,000,000
+1.3.2023
+
+logo
+Dictum Exchange
+DTOKEN
+Arbitrum
+Exchange (...
+Rugpull
+,100,000
+12.31.2022
+
+logo
+Luke Dashjr
+Other
+Other
+Access Control
+,600,000
+12.31.2022
+
+logo
+Snowflake
+SNOW
+BSC
+Exchange (...
+Rugpull
+,000
+12.30.2022
+
+logo
+Jaypeggerz
+JAY
+ETH
+Token
+Flash Loan Attack
+,384
+12.29.2022
+
+logo
+Golden Moon
+GMOON
+BSC
+Token
+Honeypot
+12.27.2022
+
+logo
+BitKeep
+ETH
++3
+Other
+Phishing
+,000,000
+12.26.2022
+
+logo
+Rubic
+RBC
+ETH
+Exchange (...
+Other
+,420,000
+12.25.2022
+
+logo
+Defrost Finance
+MELT
+Avax
+Stablecoin
+Rugpull
+,000,000
+12.23.2022
+
+logo
+Auros
+CEX
+CeFi
+Other
+,000,000
+12.20.2022
+
+logo
+Raydium
+RAY
+Solana
+Exchange (...
+Access Control
+,400,000
+12.16.2022
+
+logo
+Nimbus DAO
+NBU
+BSC
+Other
+Flash Loan Attack
+,000
+12.14.2022
+
+logo
+Gemini
+CEX
+CeFi
+Phishing
+12.14.2022
+
+logo
+ElasticSwap
+TIC
+ETH
++1
+Exchange (...
+Other
+,000
+12.13.2022
+
+logo
+BlackGold
+BGLD
+BSC
+Token
+Other
+,476
+12.12.2022
+
+logo
+3Commas
+CEX
+CeFi
+Other
+,000,000
+12.11.2022
+
+logo
+Lodestar Financ...
+LODE
+Arbitrum
+Borrowing ...
+Flash Loan Attack
+,800,000
+12.10.2022
+
+logo
+Lymex
+LYM
+BSC
+Other
+Rugpull
+,754
+12.4.2022
+
+logo
+BTC.com
+-
+CEX
+CeFi
+Other
+,000,000
+12.3.2022
+
+logo
+Ankr
+ANKR
+BSC
+Exchange (...
+Access Control
+,000,000
+12.2.2022
+
+logo
+BGE
+BGE
+BSC
+Token
+Rugpull
+,892
+12.1.2022
+
+logo
+BTC-por
+BTC-POR
+BSC
+Token
+Rugpull
+,000
+11.29.2022
+
+logo
+BlockFi
+CEX
+CeFi
+Other
+,000,000,000
+11.28.2022
+
+logo
+Webaverse
+ETH
+Gaming / M...
+Other
+,000,000
+11.26.2022
+
+logo
+Numbers Protoco...
+NUM
+ETH
+NFT
+Other
+,836
+11.23.2022
+
+logo
+Safuu Protocol
+SAFUU
+BSC
+Yield Aggr...
+Rugpull
+,073,083
+11.21.2022
+
+logo
+Genesis
+CEX
+CeFi
++1
+Other
+,800,000,000
+11.21.2022
+
+logo
+Trust Bridge
+TWB
+BSC
+Token
+Rugpull
+,083
+11.20.2022
+
+logo
+Polynomial Prot...
+-
+Optimism
+Other
+Other
+,000
+11.18.2022
+
+logo
+TTTT
+TTTT
+BSC
+Token
+Rugpull
+,000
+11.17.2022
+
+
+logo
+PoW ETH
+ETHW
+BSC
+Token
+Phishing
+,780
+9.15.2022
+
+logo
+Giant Divine Sh...
+GIDS
+BSC
+Gaming / M...
+Rugpull
+,869
+9.15.2022
+
+logo
+F*ck The Merge
+F*CKMERGE
+ETH
+Token
+Rugpull
+,383
+9.15.2022
+
+logo
+TSUKA
+TSUKA
+BSC
+Token
+Rugpull
+,755
+9.15.2022
+
+logo
+DarkPool
+DPC
+BSC
+Token
+Other
+,859
+9.10.2022
+
+logo
+New Free DAO
+NFD
+BSC
+Other
+Flash Loan Attack
+,250,372
+9.8.2022
+
+logo
+Ragnarok Online...
+ROI
+BSC
+Token
+Access Control
+,262
+9.8.2022
+
+logo
+Arbitrage Robot...
+RBTR
+BSC
+Token
++1
+Other
+,459
+9.8.2022
+
+logo
+EmpiresX
+CEX
+CeFi
+Other
+,000,000
+9.8.2022
+
+logo
+Gera Coin
+GERA
+ETH
++1
+Token
+Other
+,127
+9.7.2022
+
+logo
+Cornerchain
+CNR
+BSC
+Token
+Rugpull
+,411
+9.6.2022
+
+logo
+Cauldron
+Avax
+Borrowing ...
+Flash Loan Attack
+,000
+9.6.2022
+
+logo
+DAO_Officials
+DAO
+BSC
+Other
+Flash Loan Attack
+,250
+9.4.2022
+
+logo
+Meta Magic Coin
+MMC
+BSC
+Token
+Rugpull
+,224
+9.2.2022
+
+logo
+ShadowFi
+SDF
+BSC
+Token
+Other
+,817
+9.2.2022
+
+logo
+Carillonium
+CAROM
+BSC
+Token
+Rugpull
+,172
+9.1.2022
+
+logo
+Kyber Network
+KNC
+Polygon
+Exchange (...
+Other
+,050
+9.1.2022
+
+logo
+Cupid
+Cupid
+BSC
+Token
+Flash Loan Attack
+,623
+8.31.2022
+
+logo
+Bill Muray Wall...
+BillMurray
+ETH
+NFT
++1
+Access Control
+,873
+8.31.2022
+
+logo
+HeroCat
+HCT
+BSC
+NFT
++1
+Rugpull
+,177,347
+8.30.2022
+
+logo
+Galaxy Coin
+GXY
+BSC
+Token
+Rugpull
+,535
+8.29.2022
+
+logo
+QWCF
+QWCF
+BSC
+Token
+Rugpull
+,000
+8.29.2022
+
+logo
+Marvel Metauniv...
+MRV
+BSC
+Token
+Rugpull
+,746
+8.28.2022
+
+logo
+Banana Swap
+DDC
+BSC
+Exchange (...
++1
+Other
+,105
+8.28.2022
+
+logo
+ArcadeEarn
+ArcadeEarn
+BSC
+Token
+Rugpull
+,368
+8.26.2022
+
+logo
+GMT
+GMT
+BSC
+Token
+Rugpull
+,825
+8.26.2022
+
+logo
+ROBOT SHIB
+RSHIB
+BSC
+Token
+Rugpull
+,100
+8.25.2022
+
+logo
+NFT Cross Chain
+CRC
+BSC
+NFT
+Rugpull
+,052
+8.25.2022
+
+logo
+Kaoya Swap
+KALP
+BSC
+Exchange (...
+Flash Loan Attack
+,000
+8.24.2022
+
+logo
+SudoRare
+SudoRare
+ETH
+NFT
+Rugpull
+,201
+8.23.2022
+
+logo
+World Cup
+WCP
+BSC
+Token
+Rugpull
+,892
+8.23.2022
+
+logo
+Dogioh
+Dogioh
+ETH
+NFT
++1
+Rugpull
+,000
+8.22.2022
+
+logo
+PDR
+PDR
+BSC
+Token
+Rugpull
+,278
+8.21.2022
+
+logo
+HUT
+HUT
+BSC
+Token
+Rugpull
+,000
+8.20.2022
+
+logo
+Celer Bridge
+ETH
+Bridge
+Other
+,334
+8.18.2022
+
+logo
+Stader.Near
+NearX
+Near
+Yield Aggr...
+Other
+,000
+8.16.2022
+
+logo
+Nut2Earn
+NUT
+BSC
+Token
+Rugpull
+,000
+8.16.2022
+
+logo
+Acala Swap
+aUSD
+Polkadot
+Stablecoin
+Other
+,600,000
+8.14.2022
+
+logo
+GEMDAO
+GEMDAO
+BSC
+Token
+Rugpull
+,000
+8.14.2022
+
+logo
+FIO Protocol
+FIO
+Polygon
+Token
+Rugpull
+,082
+8.14.2022
+
+logo
+PAK REVOLUTION
+PKR
+BSC
+Token
+Rugpull
+,184
+8.14.2022
+
+logo
+HashFree
+$HashFree
+BSC
+Token
+Rugpull
+,000
+8.13.2022
+
+logo
+Brand New Quest...
+BNQ
+BSC
+Gaming / M...
+Rugpull
+,122
+8.13.2022
+
+logo
+MMFinance
+MMF
+BSC
+Token
+Rugpull
+,000
+8.13.2022
+
+logo
+Curve.Finance
+CRV
+ETH
+Exchange (...
+Phishing
+,000
+8.9.2022
+
+logo
+XSTABLE Protoco...
+XST
+ETH
+Token
+Rugpull
+,975
+8.9.2022
+
+logo
+AI DAY: Part 2
+AI
+BSC
+Token
+Rugpull
+,736
+8.8.2022
+
+logo
+Saxon James Mus...
+SJMUSK
+BSC
+Token
+Rugpull
+,500
+8.7.2022
+
+logo
+Dragoma
+DMA
+Polygon
+Gaming / M...
+Rugpull
+,500,000
+8.7.2022
+
+logo
+GenomesDAO
+GENE
+Polygon
+NFT
+Other
+,269
+8.6.2022
+
+logo
+Solana Slope Wa...
+Solana
+Other
+Other
+,200,000
+8.3.2022
+
+logo
+Reaper Farm
+Fantom
+Yield Aggr...
+Other
+,700,000
+8.2.2022
+
+logo
+Nomad
+ETH
+Bridge
+Other
+,000,000
+8.1.2022
+
+logo
+ZBExchange
+ZB
+ETH
+Exchange (...
+Other
+,767,945
+8.1.2022
+
+logo
+Nirvana Finance
+ANA
+Solana
+Stablecoin
+Flash Loan Attack
+,574,635
+7.28.2022
+
+logo
+Cryptos Tribe
+CSTC
+BSC
+Token
+Rugpull
+,023
+7.27.2022
+
+logo
+TBIS
+Other
+Other
+Rugpull
+,000,000
+7.27.2022
+
+logo
+APE
+APE
+ETH
+Token
+Rugpull
+,216
+7.26.2022
+
+logo
+TEDDY DOGE
+TEDDY
+BSC
+Exchange (...
+Rugpull
+,500,000
+7.25.2022
+
+logo
+SuperStep
+SGMT
+BSC
+NFT
++2
+Rugpull
+,682
+7.25.2022
+
+logo
+LPC Token
+LPC
+BSC
+Token
+Other
+,304
+7.25.2022
+
+logo
+Audius
+AUDIO
+ETH
+Other
+Other
+,086,000
+7.23.2022
+
+logo
+Tableland
+ETH
+NFT
+Phishing
+,819
+7.21.2022
+
+logo
+My Big Coin
+MBC
+CEX
+Token
++1
+Rugpull
+,000,000
+7.21.2022
+
+logo
+GST Token
+GST
+BSC
+Token
+Rugpull
+,943
+7.20.2022
+
+logo
+Loop X Network
+LOOP
+BSC
+Token
+Rugpull
+,902
+7.19.2022
+
+logo
+Freedom Protoco...
+FREE | RAC
+BSC
+Yield Aggr...
++1
+Rugpull
+,800,000
+7.19.2022
+
+logo
+PREMINT | NFT
+ETH
+NFT
+Access Control
+,000
+7.17.2022
+
+logo
+Neoteric Financ...
+NTRC
+BSC
+Token
+Rugpull
+,304
+7.16.2022
+
+logo
+Impermax
+IMX
+Polygon
+Borrowing ...
+Other
+,200
+7.16.2022
+
+logo
+Elron Token
+ELR
+BSC
+Token
+Rugpull
+,000
+7.15.2022
+
+logo
+ArenaPlayAPC
+APC
+BSC
+Gaming / M...
++1
+Rugpull
+,259
+7.15.2022
+
+logo
+DeeKay
+ETH
+NFT
+Phishing
+,000
+7.15.2022
+
+logo
+RETAWATCH
+RTW
+BSC
+Other
+Rugpull
+,069
+7.13.2022
+
+logo
+Space Godzilla
+SpaceGodzilla
+BSC
+Token
+Flash Loan Attack
+,153
+7.13.2022
+
+logo
+Forest Tiger Pr...
+TIGER
+BSC
+Gaming / M...
++1
+Rugpull
+,647
+7.13.2022
+
+logo
+ElonMVP
+ElonMVP
+BSC
+Token
+Rugpull
+,371
+7.13.2022
+
+logo
+Uniswap
+UNI
+ETH
+Exchange (...
+Phishing
+,000,000
+7.11.2022
+
+logo
+Citizen Finance
+CIFI
+BSC
++1
+Gaming / M...
+Access Control
+,336
+7.11.2022
+
+logo
+OMNI
+ETH
+NFT
++1
+Reentrancy
+,430,000
+7.10.2022
+
+logo
+Bifrost
+BFC
+ETH
+Other
+Other
+,248,328
+7.8.2022
+
+logo
+ProjectX
+PXT
+Avax
+Other
+Rugpull
+,247
+7.7.2022
+
+logo
+BabyDAO
+BabyDAO
+BSC
+Other
+Rugpull
+,602
+7.6.2022
+
+logo
+SHADE INU Token
+SadeIT
+BSC
+Token
+Rugpull
+,761
+7.6.2022
+
+logo
+Klein Bottle
+KLB
+BSC
+Token
+Rugpull
+,747
+7.6.2022
+
+logo
+FlippazOne
+FlippazOne
+ETH
+NFT
+Access Control
+,828
+7.5.2022
+
+logo
+Vauld
+-
+CEX
+CeFi
+Other
+7.4.2022
+
+logo
+Nody
+NODY
+BSC
+Other
+Rugpull
+,559
+7.2.2022
+
+logo
+Crema Finance
+Solana
+Exchange (...
+Other
+,782,446
+7.2.2022
+
+logo
+Fantom
+FTM
+Fantom
+Other
+Access Control
+,500
+7.1.2022
+
+logo
+Quixotic
+Optimism
+NFT
+Other
+,000
+7.1.2022
+
+logo
+Dark Light
+DK
+BSC
+Exchange (...
+Rugpull
+,120
+6.30.2022
+
+logo
+MAD
+MAD
+BSC
+Token
+Other
+,354
+6.29.2022
+
+logo
+Quint
+QUINT
+BSC
+NFT
++1
+Other
+,000
+6.29.2022
+
+logo
+Skate Metaverse
+SMC
+BSC
+Token
+Rugpull
+,721
+6.29.2022
+
+logo
+LV Metaverse
+LVP
+BSC
+NFT
++1
+Rugpull
+,625
+6.28.2022
+
+logo
+GoldenEsse
+GDS
+BSC
+Token
+Honeypot
+6.27.2022
+
+logo
+XCarnival
+XCV
+ETH
+Borrowing ...
++1
+Other
+,837,110
+6.26.2022
+
+logo
+DMC Token
+DMC
+BSC
+Token
+Rugpull
+,386
+6.25.2022
+
+logo
+Swello Finance
+SWLO
+BSC
+Other
+Rugpull
+,000
+6.25.2022
+
+logo
+Ribbon Finance
+RBN
+ETH
+Yield Aggr...
+Phishing
+$351,064
+6.24.2022
+
+logo
+Convex Finance
+CVX
+ETH
+Yield Aggr...
+Other
+$11,578
+6.23.2022
+
+logo
+Horizon by Harm...
+ONE
+ETH
+Bridge
+Access Control
+$100,000,000
+6.23.2022
+
+logo
+LV Metaverse
+LVP
+BSC
+Gaming / M...
+Rugpull
+$1,500,000
+6.21.2022
+
+logo
+Whale Loans
+HUMP
+BSC
+Borrowing ...
+Other
+$12,374
+6.20.2022
+
+logo
+DHE
+DHE
+BSC
+Token
+Rugpull
+$142,000
+6.20.2022
+
+logo
+Inverse Finance
+INV
+ETH
+Borrowing ...
+Flash Loan Attack
+$1,260,000
+6.16.2022
+
+logo
+Celsius Network
+CEL
+CEX
+CeFi
++1
+Other
+$1,190,000,000
+6.13.2022
+
+logo
+FSWAP
+BSC
+Yield Aggr...
+Other
+$432,497
+6.13.2022
+
+logo
+Gooniez Gang
+GG
+ETH
+NFT
++1
+Other
+$9,700
+6.12.2022
+
+logo
+Meta Apes
+SHELL
+BSC
+NFT
++1
+Rugpull
+$183,151
+6.11.2022
+
+logo
+Cheebs
+CHEEBS
+ETH
+NFT
+Other
+$46,493
+6.11.2022
+
+logo
+HEGE coin
+HEGE
+BSC
+Other
+Rugpull
+$400,000
+6.11.2022
+
+logo
+Bored Ape Europ...
+ETH
+NFT
+Rugpull
+$14,400
+6.10.2022
+
+logo
+Treasure Swap
+BSC
+Exchange (...
+Other
+$1,100,000
+6.10.2022
+
+logo
+Wintermute
+Optimism
+Other
+Other
+$27,600,000
+6.9.2022
+
+logo
+Osmosis
+OSMO
+Cosmos
+Exchange (...
+Other
+$5,000,000
+6.8.2022
+
+logo
+ApolloX
+APX
+BSC
+Exchange (...
+Other
+$2,150,414
+6.8.2022
+
+logo
+BabyElon
+BabyElon
+BSC
+Token
+Rugpull
+$52,852
+6.8.2022
+
+logo
+Gym Network
+GYMNET
+BSC
+Gaming / M...
+Other
+$2,100,000
+6.8.2022
+
+logo
+Verify
+VRFY
+BSC
+Other
+Rugpull
+$25,000
+6.8.2022
+
+logo
+EvoDeFi Bridge
+BSC
+Bridge
+Other
+$66,000,000
+6.7.2022
+
+logo
+Equalizer Finan...
+EQZ
+ETH
+Yield Aggr...
+Flash Loan Attack
+$72,000
+6.7.2022
+
+logo
+Bubbleworld
+ETH
+Gaming / M...
+Other
+$343,697
+6.6.2022
+
+logo
+ACC TOKEN
+ACC
+BSC
+Token
+Rugpull
+$120,000
+6.5.2022
+
+logo
+Maiar DEX
+MEX
+EGLD
+Exchange (...
+Other
+$113,000,000
+6.5.2022
+
+logo
+BAYC & OtherSid...
+BAYC
+ETH
+NFT
+Phishing
+$262,732
+6.4.2022
+
+logo
+Bored Ape Yacht...
+ETH
+NFT
+Other
+$276,290
+6.4.2022
+
+logo
+FOMO DAO
+FOMO
+BSC
+Other
+Rugpull
+$114,360
+6.4.2022
+
+logo
+Automated Assas...
+AA
+ETH
+Gaming / M...
+Rugpull
+$202,000
+6.3.2022
+
+logo
+ADAF
+ADAF
+BSC
+Token
+Rugpull
+$156,000
+6.3.2022
+
+logo
+StarMan
+StarMan
+BSC
+Token
+Rugpull
+$53,460
+6.2.2022
+
+logo
+AniMoon
+ANI
+ETH
+NFT
+Rugpull
+$6,300,000
+6.2.2022
+
+logo
+Mirror Protocol
+MIR
+LUNC
+Borrowing ...
++1
+Oracle Issue
+$2,000,000
+5.31.2022
+
+logo
+LlamaCoin
+LlamaCoin
+BSC
+Token
+Rugpull
+$150,620
+5.31.2022
+
+logo
+FlokiMoon
+FlokiMoon
+BSC
+Token
+Rugpull
+$148,132
+5.31.2022
+
+logo
+StarFinancial
+Avax
+Token
+Rugpull
+$40,264
+5.31.2022
+
+logo
+Novo
+NOVO
+BSC
+Token
+Oracle Issue
+$85,604
+5.29.2022
+
+logo
+BreedTech
+CN
+BSC
+Other
+Rugpull
+$9,400,000
+5.29.2022
+
+logo
+Sport Move
+SPORT
+BSC
+Token
+Rugpull
+$159,685
+5.27.2022
+
+logo
+PokeMoney
+PMY
+BSC
+NFT
++1
+Rugpull
+$3,500,000
+5.27.2022
+
+logo
+Pokemoney
+PMY
+BSC
+Gaming / M...
++1
+Rugpull
+$3,500,000
+5.26.2022
+
+logo
+Magic
+Magic
+BSC
+Other
+Rugpull
+$47,315
+5.26.2022
+
+logo
+SHIDAO
+ShiD
+BSC
+Other
+Rugpull
+$180,000
+5.25.2022
+
+logo
+Hackerdao
+Hackerdao
+BSC
+Other
+Flash Loan Attack
+$65,155
+5.24.2022
+
+logo
+DecentraWorld
+DEWO
+BSC
+Gaming / M...
+Rugpull
+$1,037,288
+5.24.2022
+
+logo
+Transaction Con...
+TCP
+ETH
+Token
+Honeypot
+5.22.2022
+
+logo
+Kronos Dao
+KRNO
+Klaytn
+Yield Aggr...
++1
+Other
+$6,000,000
+5.19.2022
+
+logo
+QAN Platform
+QANX
+ETH
+Token
+Other
+$704,590
+5.18.2022
+
+logo
+Feminist Metave...
+FmToken
+BSC
+Gaming / M...
+Other
+$540,000
+5.18.2022
+
+logo
+Scream
+Scream
+Fantom
+Stablecoin
++1
+Oracle Issue
+$35,000,000
+5.15.2022
+
+logo
+FEGtoken
+FEG
+ETH
++1
+Token
+Flash Loan Attack
+$1,500,000
+5.15.2022
+
+logo
+QuickSwap
+QUICK
+Polygon
+Exchange (...
+Other
+$107,600
+5.14.2022
+
+logo
+SpiritSwap
+SPIRIT
+Fantom
+Exchange (...
+Phishing
+$18,000
+5.14.2022
+
+logo
+Blizz Finance
+BLZZ
+Avax
+Borrowing ...
+Rugpull
+$8,300,000
+5.14.2022
+
+logo
+Venus Protocol
+XVS
+BSC
+Borrowing ...
+Other
+$1,350,000
+5.13.2022
+
+logo
+Swapnex
+BSC
+Exchange (...
+Rugpull
+$60,813
+5.12.2022
+
+logo
+X2Y2
+ETH
+NFT
++1
+Phishing
+$165,000
+5.10.2022
+
+logo
+Ownly
+OWN
+BSC
+NFT
+Reentrancy
+$19,219
+5.10.2022
+
+logo
+GOAT
+G.O.A.T
+ETH
+Token
+Rugpull
+$250,000
+5.9.2022
+
+logo
+Hunter Global
+Hound
+BSC
+Exchange (...
+Rugpull
+$1,200,000
+5.8.2022
+
+logo
+Cashera
+CSR
+BSC
+Token
+Rugpull
+$90,000
+5.8.2022
+
+logo
+Fortress Loans
+FTS
+BSC
+Borrowing ...
+Other
+$2,976,004
+5.8.2022
+
+logo
+Terra Classic
+LUNC, USTC
+LUNC
+Stablecoin
+Other
+$40,000,000,000
+5.8.2022
+
+logo
+Bistroo
+BIST
+BSC
+Token
+Other
+$47,000
+5.7.2022
+
+logo
+Voyager
+CEX
+CeFi
+Other
+$1,000,000,000
+5.7.2022
+
+logo
+Mining Capital ...
+CEX
+Other
+Rugpull
+$62,000,000
+5.6.2022
+
+logo
+Day of Defeat
+DOD
+BSC
+Token
+Rugpull
+$1,350,000
+5.6.2022
+
+logo
+Pragma Money
+PRAGMA
+Fantom
+Exchange (...
++1
+Rugpull
+$1,500,000
+5.5.2022
+
+logo
+DOGETAMA
+DOGETAMA
+ETH
+Token
+Rugpull
+$22,041
+5.4.2022
+
+logo
+Mad Meerkat Fin...
+MMF
+Cronos
+Exchange (...
+Other
+$2,000,000
+5.4.2022
+
+logo
+Saddle Finance
+SDL
+ETH
+Exchange (...
+Other
+$11,000,000
+4.30.2022
+
+logo
+Rari Fuse
+ETH
+Borrowing ...
+Reentrancy
+$79,749,026
+4.30.2022
+
+logo
+DEUS Finance
+DEI
+Fantom
+Other
+Flash Loan Attack
+$17,900,000
+4.28.2022
+
+logo
+Bored Ape Yacht...
+ETH
+NFT
+Other
+$13,000,000
+4.25.2022
+
+logo
+YEED
+YEED
+BSC
+Token
+Other
+$1,043,069
+4.21.2022
+
+logo
+CheddaToken
+CHEDDA
+ETH
+Token
+Rugpull
+$1,200,000
+4.19.2022
+
+logo
+Beanstalk
+BEAN
+ETH
+Stablecoin
+Flash Loan Attack
+$181,000,000
+4.18.2022
+
+logo
+Rikkei Finance
+RIFI
+BSC
+NFT
++1
+Oracle Issue
+$1,115,266
+4.15.2022
+
+logo
+SkyVerse
+ETH
+NFT
+Other
+$150,000
+4.13.2022
+
+logo
+Elephant Money
+ELEPHANT
+BSC
+Exchange (...
+Flash Loan Attack
+$22,200,000
+4.12.2022
+
+logo
+Starstream / Ag...
+STARS
+ETH
+Yield Aggr...
+Other
+$15,000,000
+4.7.2022
+
+logo
+Neutrino USD
+USDN
+ETH
+Stablecoin
+Other
+$200,000,000
+4.4.2022
+
+logo
+Vires Finance
+XTN
+Other
+Stablecoin
++1
+Other
+$500,000,000
+4.3.2022
+
+logo
+Inverse Finance
+INV
+ETH
+Borrowing ...
+Oracle Issue
+$14,500,000
+4.2.2022
+
+logo
+GHOSTP2E
+GHR
+BSC
+Gaming / M...
+Rugpull
+$346,253
+4.1.2022
+
+logo
+Ola.finance
+Fuse
+Borrowing ...
+Other
+$3,600,000
+3.31.2022
+
+logo
+Ronin
+RON
+Ronin
+Bridge
+Access Control
+$625,000,000
+3.29.2022
+
+logo
+Revest
+ETH
+NFT
+Other
+$2,000,000
+3.27.2022
+
+logo
+PYE
+PYE
+BSC
+Other
+Other
+$2,600,000
+3.24.2022
+
+logo
+Doodle Monkey
+MONKEY
+ETH
+NFT
+Rugpull
+$75,555
+3.23.2022
+
+logo
+Cashio
+CASH
+Solana
+Stablecoin
+Other
+$48,000,000
+3.23.2022
+
+logo
+REALSWAK
+SWAK
+BSC
+NFT
+Rugpull
+$526,968
+3.22.2022
+
+logo
+OneRing
+RING
+Fantom
+Yield Aggr...
+Flash Loan Attack
+$1,508,300
+3.21.2022
+
+logo
+Umbrella Networ...
+UMB
+ETH
+Other
+Other
+$700,000
+3.20.2022
+
+logo
+Rare Bears
+ETH
+NFT
+Access Control
+$205,586
+3.17.2022
+
+logo
+DEUS Finance
+DEI
+Fantom
+Other
+Flash Loan Attack
+$3,024,325
+3.15.2022
+
+logo
+Hundred Finance
+HND
+Gnosis
+Borrowing ...
+Other
+$6,200,000
+3.15.2022
+
+logo
+Agave
+AGVE
+Gnosis
+Borrowing ...
+Other
+$5,500,000
+3.15.2022
+
+logo
+NFTflow
+NFTflow
+ETH
+NFT
+Rugpull
+$216,386
+3.14.2022
+
+logo
+PARALUNI
+BSC
+Exchange (...
+Other
+$1,661,107
+3.13.2022
+
+logo
+Fantasm Finance
+XFTM
+Fantom
+Other
+Other
+$2,622,097
+3.9.2022
+
+logo
+Pirate x Pirate
+PXP
+BSC
+NFT
+Access Control
+$78,000
+3.9.2022
+
+logo
+Ebuy Finance
+EBUY
+BSC
+Token
+Honeypot
+3.9.2022
+
+logo
+Ormeus Coin
+CEX
+CeFi
+Other
+$124,000,000
+3.8.2022
+
+logo
+WanderVerse NFT
+WV
+ETH
+NFT
+Rugpull
+$484,887
+3.8.2022
+
+logo
+TetherShiba
+TSHIB
+BSC
+Token
+Honeypot
+$105,421
+3.7.2022
+
+logo
+SkyLands
+SKLNFT
+BSC
+Gaming / M...
+Rugpull
+$159,136
+3.7.2022
+
+logo
+Peace doge X
+Peace doge X
+BSC
+Token
+Rugpull
+$18,144
+3.6.2022
+
+logo
+Bacon Protocol
+bHOME
+ETH
+Other
+Flash Loan Attack
+$957,166
+3.5.2022
+
+logo
+TreasureDAO
+MAGIC
+Arbitrum
+Gaming / M...
+Other
+3.3.2022
+
+logo
+TheCatWorld
+CWORLD
+BSC
+Gaming / M...
+Rugpull
+$39,471
+3.3.2022
+
+logo
+Ariva Digital
+ARV
+BSC
+Other
+Access Control
+$660,739
+2.25.2022
+
+logo
+Web3Memes
+W3M
+BSC
+NFT
+Rugpull
+$27,699
+2.23.2022
+
+logo
+Flurry Finance
+FLURRY
+BSC
+Yield Aggr...
+Other
+$293,000
+2.23.2022
+
+logo
+Raptor2
+Raptor2
+BSC
+Token
+Rugpull
+$83,960
+2.21.2022
+
+logo
+DollarDoge
+DollarDoge
+BSC
+Token
+Rugpull
+$193,703
+2.21.2022
+
+logo
+OpenSea
+ETH
+NFT
+Access Control
+$1,700,000
+2.20.2022
+
+logo
+Animoca Brands ...
+Animoca
+ETH
+Gaming / M...
+Rugpull
+$84,631
+2.17.2022
+
+logo
+TopGoal
+TMT
+BSC
+NFT
+Access Control
+$1,135,097
+2.16.2022
+
+logo
+StaticFire
+STATICFIRE
+BSC
+Token
+Honeypot
+2.16.2022
+
+logo
+ValentineFloki
+ValentineFloki
+BSC
+Token
+Honeypot
+$50,830
+2.14.2022
+
+logo
+Titano
+TITANO
+BSC
+Yield Aggr...
+Other
+$1,949,111
+2.14.2022
+
+logo
+BNB42
+BSC
+Yield Aggr...
+Rugpull
+$2,602,079
+2.14.2022
+
+logo
+BuildFinance
+BUILD
+ETH
+Yield Aggr...
+Access Control
+$470,000
+2.14.2022
+
+logo
+Dego Finance
+DEGO
+BSC
+NFT
++1
+Access Control
+$15,444,277
+2.9.2022
+
+logo
+BabyMUSK
+BabyMUSK
+BSC
+Token
+Rugpull
+$664,910
+2.9.2022
+
+logo
+Superfluid
+SuperQI
+Polygon
+Other
+Other
+$20,000,000
+2.8.2022
+
+logo
+IRA Financial
+CEX
+Other
+Other
+$36,000,000
+2.8.2022
+
+logo
+FileSystemVideo
+BSC
+Other
+Rugpull
+$303,625
+2.7.2022
+
+logo
+EarnHub
+EHB
+BSC
+Yield Aggr...
+Other
+$244,938
+2.7.2022
+
+logo
+Ratz Club
+RATZ
+Solana
+NFT
+Access Control
+$140,000
+2.7.2022
+
+logo
+Meter.io
+MTRG
+BSC
+Other
+Other
+$4,400,000
+2.6.2022
+
+logo
+Hundred Finance
+HND
+Moonriver
+Borrowing ...
+Other
+$3,300,000
+2.6.2022
+
+logo
+DePo
+DEPO
+ETH
+Yield Aggr...
+Access Control
+$1,723,632
+2.4.2022
+
+logo
+TECRA
+TCR
+ETH
+Token
+Other
+$642,756
+2.4.2022
+
+logo
+Wormhole
+Solana
+Bridge
+Other
+$326,000,000
+2.2.2022
+
+logo
+BitBNS
+CEX
+CeFi
+Other
+$7,500,000
+2.1.2022
+
+logo
+DataDAO Finance
+Part
+Fantom
+NFT
+Rugpull
+$781,637
+1.30.2022
+
+logo
+CryptoBatz
+ETH
+NFT
+Other
+$90,170
+1.29.2022
+
+logo
+Qubit Finance
+BSC
+Borrowing ...
+Other
+$80,000,000
+1.27.2022
+
+logo
+Mercenary
+MGOLD
+BSC
+Gaming / M...
+Rugpull
+$760,000
+1.26.2022
+
+logo
+OpenSea
+ETH
+NFT
+Other
+$1,019,300
+1.24.2022
+
+logo
+Rich Dwarves Tr...
+DWARF
+ETH
+NFT
+Abandoned
+$3,000,000
+1.23.2022
+
+logo
+Solfire
+FIRE
+Solana
+Other
+Rugpull
+$4,055,803
+1.23.2022
+
+logo
+Multichain
+ETH
+Bridge
+Other
+$2,726,413
+1.18.2022
+
+logo
+Crosswise
+CRSS
+BSC
+Other
+Other
+$257,868
+1.18.2022
+
+logo
+Crypto.com
+CEX
+CeFi
+Access Control
+$34,358,003
+1.17.2022
+
+logo
+Cryptoburgers
+BURG
+BSC
+Gaming / M...
+Other
+$770,000
+1.17.2022
+
+logo
+BNB HEROES
+BNBH
+BSC
+Gaming / M...
+Rugpull
+$561,284
+1.17.2022
+
+logo
+Crypto Burgers
+BSC
+Token
+Flash Loan Attack
+$770,000
+1.17.2022
+
+logo
+Float Protocol
+FLOAT
+ETH
+Yield Aggr...
+Oracle Issue
+$1,440,724
+1.14.2022
+
+logo
+IDO rug pulls
+BSC
+Other
+Rugpull
+$2,661,699
+1.12.2022
+
+logo
+Big Daddy Ape C...
+Solana
+NFT
+Rugpull
+$1,237,622
+1.11.2022
+
+logo
+LMT
+ETH
+NFT
+Access Control
+$18,500,000
+1.10.2022
+
+logo
+CityDAO
+ETH
+Other
+Access Control
+$95,000
+1.10.2022
+
+logo
+Frosties
+FROST
+ETH
+NFT
+Abandoned
+$1,300,000
+1.9.2022
+
+logo
+LCX
+CEX
+CeFi
+Access Control
+$7,940,000
+1.8.2022
+
+logo
+Stobox Exchange
+STBU
+ETH
+CeFi
+Access Control
+$166,306
+1.7.2022
+
+logo
+Metaland DAO
+META
+BSC
+Other
+Rugpull
+$286,585
+1.7.2022
+
+logo
+Doodled Dragons
+Solana
+NFT
+Rugpull
+$30,000
+1.6.2022
+
+logo
+Arbix Finance
+ARBX
+BSC
+Yield Aggr...
+Rugpull
+$10,000,000
+1.4.2022
+
+logo
+HyperVerse
+HVT
+BSC
+Other
+Rugpull
+$1,300,000,000
+1.1.2022
+
+logo
+Tinyman
+Algorand
+Exchange (...
+Other
+$3,000,000
+1.1.2022
+
+logo
+CryptoBike
+CB
+BSC
+Gaming / M...
+Rugpull
+$1,400,000
+1.1.2022
+
+logo
+SashimiSwap
+SASHIMI
+ETH
++1
+Exchange (...
+Flash Loan Attack
+$316,800
+12.30.2021
+
+logo
+MetaMask Govern...
+ETH
+Token
+Honeypot
+$1,548,908
+12.28.2021
+
+logo
+Snowflake Floki
+SFF
+BSC
+Token
+Honeypot
+$70,375
+12.28.2021
+
+logo
+Eco DeFi
+ECOP
+BSC
+Yield Aggr...
+Access Control
+$794,041
+12.28.2021
+
+logo
+MetaDAO
+META
+ETH
+Token
+Honeypot
+$2,826,509
+12.27.2021
+
+logo
+Internet Comput...
+ICP
+BSC
+Token
+Honeypot
+12.26.2021
+
+logo
+Bent Finance
+BENT
+ETH
+Yield Aggr...
+Other
+$1,786,520
+12.21.2021
+
+logo
+Visor Finance
+VISR
+ETH
+Yield Aggr...
+Other
+$529,929
+12.21.2021
+
+logo
+Monkey Kingdom
+Solana
+NFT
+Other
+$1,273,618
+12.21.2021
+
+logo
+Grim Finance
+GRIM
+Fantom
+Yield Aggr...
+Reentrancy
+$40,000,000
+12.19.2021
+
+logo
+WePiggy
+OKEX
+Borrowing ...
+Other
+$400,000
+12.15.2021
+
+logo
+Brinc Finance
+ETH
+Yield Aggr...
+Other
+$1,103,568
+12.14.2021
+
+logo
+Miss Universe N...
+MU
+ETH
+NFT
+Rugpull
+$360,000
+12.12.2021
+
+logo
+Vulcan Forged
+PYR
+Polygon
+Gaming / M...
+Access Control
+$140,000,000
+12.12.2021
+
+logo
+Gelato
+ETH
+Exchange (...
+Other
+12.12.2021
+
+logo
+AscendEX
+CEX
+CeFi
+Access Control
+$77,700,000
+12.11.2021
+
+logo
+Pizza
+EOS
+Other
+Other
+$9,863,088
+12.8.2021
+
+logo
+ScareCrow
+SCARE
+Fantom
+Yield Aggr...
+Abandoned
+12.7.2021
+
+logo
+8ight Finance
+Harmony
+Other
+Access Control
+$923,719
+12.6.2021
+
+logo
+Daedalus DAO
+MAZE
+Cronos
+Other
+Rugpull
+$128,832
+12.5.2021
+
+logo
+AutobotDefi
+ABOT
+Fantom
+Token
+Rugpull
+$797
+12.5.2021
+
+logo
+BitMart Exchang...
+BMC
+CEX
+CeFi
+Access Control
+$196,000,000
+12.4.2021
+
+logo
+BadgerDAO
+BADGER
+ETH
+Yield Aggr...
+Other
+$120,285,547
+12.2.2021
+
+logo
+MonoX
+MONO
+ETH
++1
+Exchange (...
+Other
+$31,400,000
+12.1.2021
+
+logo
+CollectCoin
+CLCT
+BSC
+NFT
+Other
+$1,071,931
+12.1.2021
+
+logo
+MetaMoonMars
+M3
+BSC
+Token
+Other
+$866
+11.30.2021
+
+logo
+Coinsuper
+CEX
+CeFi
+Other
+11.28.2021
+
+logo
+SnowdogDAO
+SDOG
+Avax
+Other
+Rugpull
+$30,000,000
+11.26.2021
+
+logo
+Visor Finance
+VISR
+ETH
+Yield Aggr...
+Flash Loan Attack
+$972,616
+11.26.2021
+
+logo
+Lever
+LEV
+BSC
+Borrowing ...
+Other
+$652,941
+11.26.2021
+
+logo
+ElectronDAO
+ELECTRON
+Polygon
+Stablecoin
+Rugpull
+$728,653
+11.25.2021
+
+logo
+Sloth Inu
+SLOTH INU
+ETH
+Token
+Rugpull
+$8,228
+11.25.2021
+
+logo
+dYdX
+DYDX
+ETH
+Exchange (...
+Other
+$211,002
+11.24.2021
+
+logo
+SkyDog
+SDOGE
+BSC
+Token
+Honeypot
+11.24.2021
+
+logo
+Ploutoz Finance
+PTZ
+BSC
+Other
+Flash Loan Attack
+$372,441
+11.23.2021
+
+logo
+Unlock Protocol
+UDT
+Gnosis
++1
+Other
+Access Control
+$416,125
+11.21.2021
+
+logo
+Zenon Network
+wZNN
+BSC
+Other
+Other
+$1,209,467
+11.20.2021
+
+logo
+Formation.Fi
+FORM
+ETH
+Yield Aggr...
+Other
+$100,000
+11.20.2021
+
+logo
+UFCT
+UFCT
+BSC
+Token
+Rugpull
+$1,323,077
+11.19.2021
+
+logo
+Meta Pets
+MP
+ETH
+Gaming / M...
+Rugpull
+$708,623
+11.18.2021
+
+logo
+ShibaElonMars
+SEM
+BSC
+Token
+Honeypot
+11.16.2021
+
+logo
+Nerve Finance
+NRV
+BSC
+Exchange (...
+Other
+$585,882
+11.14.2021
+
+logo
+Blizzard
+BLIZZ
+Avax
+Yield Aggr...
+Other
+$1,109,632
+11.13.2021
+
+logo
+bZx
+BZRX
+BSC
+Borrowing ...
+Access Control
+$47,600,000
+11.5.2021
+
+logo
+Vesper Finance
+VUSD
+ETH
+Yield Aggr...
+Other
+$3,003,942
+11.2.2021
+
+logo
+Squid Game
+SQUID, Marbles
+BSC
+Gaming / M...
+Rugpull
+$5,723,268
+11.1.2021
+
+logo
+Boy X Highspeed
+BXH
+BSC
+Other
+Access Control
+$139,895,140
+10.30.2021
+
+logo
+AnubisDAO
+ANKH
+ETH
+Exchange (...
+Rugpull
+$60,000,000
+10.29.2021
+
+logo
+AutoSharkFinanc...
+SHARK
+BSC
+Exchange (...
+Other
+$2,000,000
+10.29.2021
+
+logo
+Cream Finance
+CREAM
+ETH
+Exchange (...
++1
+Flash Loan Attack
+$130,000,000
+10.27.2021
+
+logo
+Alpha Finance L...
+ALPHA
+ETH
+Yield Aggr...
+Other
+$170,704
+10.23.2021
+
+logo
+PancakeHunny
+HUNNY
+BSC
+Yield Aggr...
+Other
+$1,984,749
+10.20.2021
+
+logo
+UNIYSWAP
+UNIY
+ETH
+Exchange (...
+Rugpull
+10.19.2021
+
+logo
+FlokiFarmToken
+FLK
+Fantom
+Token
+Rugpull
+10.18.2021
+
+logo
+Mystery
+MST
+Fantom
+Token
+Rugpull
+10.18.2021
+
+logo
+Glide Finance
+GLIDE
+Elastos
+Exchange (...
+Other
+$300,000
+10.17.2021
+
+logo
+Indexed Finance
+NDX
+ETH
+Other
+Other
+$16,000,000
+10.14.2021
+
+logo
+OliveOptions
+Olive
+BSC
+Token
+Honeypot
+10.14.2021
+
+logo
+Daughter Doge R...
+DDR
+BSC
+Token
+Rugpull
+10.12.2021
+
+logo
+LionKingToken
+LKS
+Fantom
+Token
+Rugpull
+10.11.2021
+
+logo
+AwakenedToken
+AWA
+Fantom
+Token
+Rugpull
+10.11.2021
+
+logo
+SaturnBeam
+SAT
+ETH
+Token
+Rugpull
+10.10.2021
+
+logo
+Polyrock Financ...
+ROCK
+Polygon
+Exchange (...
+Rugpull
+10.9.2021
+
+logo
+Mirror Protocol
+MIR
+LUNC
+Other
++1
+Other
+$90,000,000
+10.8.2021
+
+logo
+PolyRainbowToke...
+RNBW
+Polygon
+Token
+Rugpull
+10.7.2021
+
+logo
+My Farm Pet
+MYFARMPET
+BSC
+Gaming / M...
+Flash Loan Attack
+$31,410
+10.6.2021
+
+logo
+PolarBearToken
+PBT
+Polygon
+Token
+Rugpull
+10.6.2021
+
+logo
+Symmetry.Market...
+Symmetry
+BSC
+Token
+Rugpull
+10.6.2021
+
+logo
+Evolved Apes
+EVA
+ETH
+NFT
+Rugpull
+$2,339,031
+10.6.2021
+
+logo
+ACO
+ACO
+ETH
+Token
+Honeypot
+10.4.2021
+
+logo
+BlockChain of T...
+BCOT
+ETH
+Other
+Rugpull
+10.4.2021
+
+logo
+RGL
+RGL
+ETH
+Other
+Rugpull
+10.4.2021
+
+logo
+OpportyToken
+OPP
+ETH
+Token
+Rugpull
+10.4.2021
+
+logo
+Boon Tech
+boon
+ETH
+Other
+Rugpull
+10.4.2021
+
+logo
+MEMEKiller
+MEMEkiller
+BSC
+Token
+Honeypot
+10.4.2021
+
+logo
+xMINT BSC
+xMINT
+BSC
+Token
+Honeypot
+10.4.2021
+
+logo
+Safari.Yield Fi...
+ySAFARI
+BSC
+Token
+Honeypot
+10.4.2021
+
+logo
+Hallowenswap
+Hallo
+Polygon
+Exchange (...
+Rugpull
+10.1.2021
+
+logo
+ChocSwap.financ...
+CHOC
+BSC
+Exchange (...
+Rugpull
+9.30.2021
+
+logo
+cArbFarm
+CARB
+ETH
+Yield Aggr...
+Rugpull
+9.30.2021
+
+logo
+Compound Labs
+COMP
+ETH
+Borrowing ...
+Other
+$71,101,556
+9.30.2021
+
+logo
+Lizard finance
+LZ
+BSC
+Token
+Honeypot
+9.29.2021
+
+logo
+DiamondBalls
+DDB
+BSC
+Token
+Honeypot
+9.29.2021
+
+logo
+PolyGladiatorTo...
+GLAD
+Polygon
+Token
+Rugpull
+9.29.2021
+
+logo
+MagicToken
+MAGIC
+Fantom
+Token
+Rugpull
+9.28.2021
+
+logo
+PolyHomerToken
+HOMER
+Polygon
+Token
+Rugpull
+9.27.2021
+
+logo
+PolyMountain
+PMT
+Polygon
+Token
+Rugpull
+9.27.2021
+
+logo
+CoffeeSwap Arbi...
+COFFEE
+ETH
+Exchange (...
+Rugpull
+9.22.2021
+
+logo
+BinanceInu.Bep2...
+BNBIN
+BSC
+Token
+Honeypot
+9.22.2021
+
+logo
+InfinitySwap
+INFNTY
+BSC
+Token
+Honeypot
+9.21.2021
+
+logo
+ShibaSwap
+SHIBS
+BSC
+Token
+Honeypot
+9.21.2021
+
+logo
+Mask.io
+MASK
+ETH
+Token
+Honeypot
+9.21.2021
+
+logo
+sixpackfinance....
+SIXP
+BSC
+Token
+Honeypot
+9.21.2021
+
+logo
+Playcent
+PCNT
+BSC
+Token
+Honeypot
+9.21.2021
+
+logo
+MEDUZA TOKEN
+MEDUZA
+BSC
+Token
+Honeypot
+9.21.2021
+
+logo
+Vee Finance
+VEE
+Avax
+Borrowing ...
+Other
+$36,000,000
+9.21.2021
+
+logo
+INTERSWAP
+SWP
+BSC
+Exchange (...
+Rugpull
+9.20.2021
+
+logo
+PenginFinance T...
+PENGIN
+BSC
+Token
+Rugpull
+9.20.2021
+
+logo
+PlugToken
+PLUG
+Polygon
+Token
+Rugpull
+9.20.2021
+
+logo
+VibeSwap
+Vibe
+BSC
+Token
+Honeypot
+9.20.2021
+
+logo
+MoonGold
+MoonGold
+BSC
+Token
+Honeypot
+9.20.2021
+
+logo
+HappyMoon
+HappyMoon
+BSC
+Token
+Honeypot
+9.20.2021
+
+logo
+Flamingo Boys
+FLM
+ETH
+Exchange (...
+Honeypot
+9.20.2021
+
+logo
+pNetwork
+PNT
+BSC
+Bridge
+Other
+$12,700,000
+9.19.2021
+
+logo
+DefiBox
+BOX
+EOS
+Exchange (...
+Other
+$24,412
+9.17.2021
+
+logo
+MikuMilk Financ...
+SLURP
+Avax
+Token
+Rugpull
+9.16.2021
+
+logo
+GullFinance Tok...
+GULL
+Polygon
+Token
+Rugpull
+9.16.2021
+
+logo
+SushiSwap
+SUSHI
+ETH
+Exchange (...
++1
+Other
+$2,993,606
+9.16.2021
+
+logo
+GulliFinance
+Gulli
+Polygon
+Yield Aggr...
+Rugpull
+9.15.2021
+
+logo
+Earth DeFi Aval...
+Avalaunch
+Avax
+Yield Aggr...
+Rugpull
+9.15.2021
+
+logo
+BloodySwap
+BLOOD
+Polygon
+Yield Aggr...
+Rugpull
+9.15.2021
+
+logo
+NowSwap Protoco...
+ETH
+Exchange (...
+Other
+$1,142,357
+9.15.2021
+
+logo
+darwin.finance
+DARWIN
+ETH
+Token
+Honeypot
+9.14.2021
+
+logo
+Bichon
+BICHON
+BSC
+Token
+Honeypot
+9.14.2021
+
+logo
+Cool Cats
+COOL20
+ETH
+Token
+Rugpull
+$20,961
+9.14.2021
+
+logo
+TrollFace
+TROLL
+BSC
+NFT
+Rugpull
+9.13.2021
+
+logo
+Dragon Farm
+DRAGON
+ETH
+Token
+Honeypot
+9.13.2021
+
+logo
+PLANET
+Planetarium
+ETH
+Token
+Honeypot
+9.13.2021
+
+logo
+ORAO Network
+ORAO
+ETH
+Token
+Honeypot
+9.13.2021
+
+logo
+Koala Forest
+KOALA
+ETH
+Token
+Honeypot
+9.13.2021
+
+logo
+Treasure Chest
+TRSR
+ETH
+Token
+Honeypot
+9.13.2021
+
+logo
+World of Winner...
+WOW
+ETH
+Exchange (...
+Honeypot
+9.13.2021
+
+logo
+Zabu Finance
+ZABU
+Avax
+Yield Aggr...
+Other
+$3,200,000
+9.12.2021
+
+logo
+Fear NFTs
+FEAR
+BSC
+Token
+Honeypot
+9.11.2021
+
+logo
+Gold Finance
+GOLD
+BSC
+Token
+Rugpull
+9.10.2021
+
+logo
+AFKSystems Fina...
+SILVER
+Polygon
+Yield Aggr...
+Rugpull
+$2,017,053
+9.10.2021
+
+logo
+Horny Farm
+HORNY
+ETH
+Token
+Honeypot
+9.10.2021
+
+logo
+PiggyBank Commu...
+PIGGY
+ETH
+Stablecoin
+Honeypot
+9.10.2021
+
+logo
+PePe Coin
+PePe
+BSC
+Token
+Rugpull
+9.10.2021
+
+logo
+ElonSperm
+SPERM
+BSC
+Token
+Honeypot
+9.10.2021
+
+logo
+Blue Lightning
+BLU
+BSC
+Token
+Honeypot
+9.10.2021
+
+logo
+MentalHealth
+MHealth
+BSC
+Token
+Honeypot
+9.10.2021
+
+logo
+Pitbull Classic
+PITCLASSIC
+BSC
+Token
+Honeypot
+9.10.2021
+
+logo
+Centra
+CTR
+ETH
+Token
+Rugpull
+9.10.2021
+
+logo
+EOS
+EOS
+ETH
+Borrowing ...
+Rugpull
+9.10.2021
+
+logo
+Bezop
+Bez
+ETH
+Token
+Rugpull
+9.10.2021
+
+logo
+MechaGodzilla
+MGZ
+BSC
+Token
+Honeypot
+9.10.2021
+
+logo
+Arsenal FC Fan ...
+ARS
+BSC
+Token
+Honeypot
+9.10.2021
+
+logo
+SafeDream
+SafeDream
+BSC
+Token
+Honeypot
+9.9.2021
+
+logo
+FLEX
+FLEX
+BSC
+Token
+Honeypot
+9.9.2021
+
+logo
+SolaSystem
+SOLAM
+ETH
+Token
+Honeypot
+9.9.2021
+
+logo
+geckoswap.finan...
+geckoswap
+BSC
+Token
+Honeypot
+9.9.2021

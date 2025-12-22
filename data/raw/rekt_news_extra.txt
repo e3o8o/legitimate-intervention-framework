@@ -1,0 +1,2249 @@
+REKT NEWS EXTRA - INVESTIGATIVE REPORTS
+
+---
+Protocol: Wintermute (Rekt II)
+Date: Sept 20, 2022
+Loss: $160,000,000
+Vector: Private Key Compromise / Profanity Vanity Address
+Scenario: Hot wallet compromised via a Profanity-generated vanity address weakness; attacker drained the DeFi vault admin.
+Reference: https://rekt.news/wintermute-rekt-2/
+
+---
+Protocol: Stake
+Date: Sept 4, 2023
+Loss: $41,000,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Massive drainage of hot wallets from the crypto gambling platform across ETH, BSC, and Polygon. Attributed to Lazarus Group.
+Reference: https://rekt.news/stake-rekt/
+
+---
+Protocol: CoinEx
+Date: Sept 12, 2023
+Loss: $54,300,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Sophisticated attack draining wallets across 13 chains. Attributed to Lazarus Group.
+Reference: https://rekt.news/coinex-rekt/
+
+---
+Protocol: Remitano
+Date: Sept 14, 2023
+Loss: $2,700,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Hot wallets of the exchange were compromised. Rapid freezing of USDT limited the final profit for the attacker. Attributed to Lazarus Group.
+Reference: https://rekt.news/remitano-rekt/
+
+---
+Protocol: Mixin Network
+Date: Sept 23, 2023
+Loss: $200,000,000
+Vector: Infrastructure / Database Breach
+Scenario: Hacked third-party database led to the loss of $200M in digital assets, highlighting centralization risks in the "decentralized" network.
+Reference: https://rekt.news/mixin-rekt/
+
+---
+Protocol: HTX (Huobi)
+Date: Sept 24, 2023
+Loss: $7,900,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Justin Sun-linked exchange had hot wallets drained. Whitehat/Negotiation resulted in the return of funds.
+Reference: https://rekt.news/htx-huobi-rekt/
+
+---
+Protocol: Penpie
+Date: Sept 3, 2024
+Loss: $27,000,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Concentrated liquidity exploit on Arbitrum leading to a $27M loss.
+Reference: https://rekt.news/penpie-rekt/
+
+---
+Protocol: Indodax
+Date: Sept 11, 2024
+Loss: $25,000,000
+Vector: Private Key Compromise (Hot Wallet)
+Scenario: Indonesian exchange Indodax had its hot wallets compromised. Attributed to Lazarus Group.
+Reference: https://rekt.news/indodax-rekt/
+
+---
+Protocol: DeltaPrime
+Date: Sept 16, 2024
+Loss: $5,980,000
+Vector: Private Key Compromise (Admin Wallet)
+Scenario: Admin wallet private key leak on Arbitrum led to a $5.98M loss.
+Reference: https://rekt.news/deltaprime-rekt/
+
+---
+Protocol: Banana Gun
+Date: Sept 19, 2024
+Loss: $3,000,000
+Vector: Private Key Leak / Bot Account Compromise
+Scenario: Telegram trading bot accounts were compromised, siphoning funds from users who had shared keys with the bot.
+Reference: https://rekt.news/bananagun-rekt/
+
+---
+Protocol: Shezmu
+Date: Sept 20, 2024
+Loss: $4,900,000
+Vector: Logic Bug / Withdrawal Exploit
+Scenario: Vulnerability in Shezmu's vault allowed an attacker to drain $4.9M. Funds were returned after negotiation.
+Reference: https://rekt.news/shezmu-rekt/
+
+---
+Protocol: BingX
+Date: Sept 20, 2024
+Loss: $44,700,000
+Vector: Private Key Compromise (Hot Wallet)
+Scenario: Singapore-based exchange BingX had hot wallets compromised across multiple chains. Loss estimated at $44.7M.
+Reference: https://rekt.news/bingx-rekt/
+
+---
+Protocol: Onyx Protocol (Rekt II)
+Date: Sept 26, 2024
+Loss: $3,800,000
+Vector: Precision Loss / Empty Market Attack (Compound v2 Fork)
+Scenario: Recurrence of the same empty market attack that hit them in 2023. Drained $3.8M despite previous experience.
+Reference: https://rekt.news/onyx-protocol-rekt2/
+
+---
+Protocol: Bedrock
+Date: Sept 27, 2024
+Loss: $2,000,000
+Vector: Minting / Exchange Rate Manipulation
+Scenario: uniBTC vault used an incorrect exchange rate, turning Ethereum deposits into a $2M Bitcoin bonanza for the attacker.
+Reference: https://rekt.news/bedrock-rekt/
+
+---
+Protocol: UXLink
+Date: Sept 1, 2025
+Loss: $41,000,000
+Vector: Admin Coup / Cross-chain Laundering
+Scenario: Admin coup followed by billions of UXLINK minted and laundered across chains.
+Reference: https://rekt.news/uxlink-rekt/
+
+---
+Protocol: Bunni
+Date: Sept 2, 2025
+Loss: $8,400,000
+Vector: Rounding Bug / Precision
+Scenario: Innovation met reality. A basic rounding bug in their LDF curves became an $8.4M lesson in precision.
+Reference: https://rekt.news/bunni-rekt/
+
+---
+Protocol: Swissborg
+Date: Sept 8, 2025
+Loss: $41,500,000
+Vector: Partner API Breach (Kiln) / Skeleton Keys
+Scenario: Partner Kiln was API-owned, allowing hackers to plant skeleton keys 8 days early.
+Reference: https://rekt.news/swissborg-rekt/
+
+---
+Protocol: Shibarium
+Date: Sept 12, 2025
+Loss: $3,000,000
+Vector: Validator Control / Flash Loan BONE
+Scenario: Attacker flash-loaned BONE to control 10 of 12 validators and signed fraudulent bridge checkpoints.
+Reference: https://rekt.news/shibarium-rekt/
+
+---
+Protocol: Phemex
+Date: Sept 15, 2025
+Loss: $73,540,000
+Vector: Hot Wallet Access Control
+Scenario: Multi-chain hot wallet compromise led to absolute mayhem across dozens of chains.
+Reference: https://rekt.news/phemex-rekt/
+
+---
+Protocol: New Gold Protocol
+Date: Sept 17, 2025
+Loss: $2,000,000
+Vector: Price Oracle / Broken Transfer Logic
+Scenario: Flash loan exploit on price oracles and broken transfer logic shortly after launch.
+Reference: https://rekt.news/newgold-protocol-rekt/
+
+---
+Protocol: DAO Maker (Rekt II)
+Date: Sept 2, 2021
+Loss: $4,000,000
+Vector: Logic Bug / Access Control
+Scenario: Repeat exploit; attacker was able to reinitialize token contracts with malicious data via the init() function and drain funds using emergencyExit().
+Reference: https://rekt.news/daomaker-rekt/
+
+---
+Protocol: Tomb Finance
+Date: Sept 2, 2021
+Loss: $1,500,000
+Vector: Economic Failure / De-peg
+Scenario: Algorithmic stablecoin on Fantom; a tax-evasion UI allowed users to bypass the Gatekeeper fee system, triggering a collapse of the peg and a cascade of sell-offs.
+Reference: https://rekt.news/tomb-finance-rekt/
+
+---
+Protocol: JayPegs Automart (MISO)
+Date: Sept 17, 2021
+Loss: $3,100,000
+Vector: Supply Chain Attack / Injected Address
+Scenario: A contractor injected their own wallet address into the MISO auction front-end; funds were later returned following a public doxxing threat by the Sushi team.
+Reference: https://rekt.news/jaypegs-automart-rekt/
+
+---
+Protocol: Vee Finance
+Date: Sept 20, 2021
+Loss: $34,000,000
+Vector: Oracle Manipulation / Flash Loan
+Scenario: Attacker used flash loans to manipulate the VEE/USDC price on Pangolin, tricking the protocol's lending pools into allowing unauthorized withdrawals.
+Reference: https://rekt.news/veefinance-rekt/
+
+---
+Protocol: Compound (Rekt I)
+Date: Sept 30, 2021
+Loss: $80,000,000
+Vector: Logic Bug / COMP Distribution
+Scenario: A bug in Proposal 62's Comptroller contract caused excessive COMP rewards to be distributed to users unfairly, resulting in a massive treasury loss.
+Reference: https://rekt.news/compound-rekt/
+
+---
+Protocol: Kucoin
+Date: Sept 26, 2020
+Loss: $280,000,000
+Vector: Private Key Compromise
+Scenario: Attacker gained access to Kucoin's hot wallet private keys, draining ~$280M in various ERC20 tokens and Bitcoin; many projects performed token swaps to effectively "undo" the theft of their specific assets.
+Reference: https://rekt.news/epic-hack-homie/
+
+---
+Protocol: Eminence
+Date: Sept 28, 2020
+Loss: $15,000,000
+Vector: Flash Loan / Bonding Curve Manipulation
+Scenario: Unreleased project by Andre Cronje; users FOMO'd $15M into unfinished contracts; attacker used a flash loan to manipulate the EMN bonding curve by burning EMN for eTokens, draining the DAI collateral.
+Reference: https://rekt.news/eminence-rekt-in-prod/
+
+---
+Protocol: Harvest Finance
+Date: Oct 26, 2020
+Loss: $33,800,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Attacker used flash loans to manipulate stablecoin prices in the Curve Y pool, tricking Harvest's vault price calculations into allowing them to withdraw more than they deposited.
+Reference: https://rekt.news/harvest-finance-rekt/
+
+---
+Protocol: Akropolis
+Date: Nov 12, 2020
+Loss: $2,000,000
+Vector: Flash Loan / Reentrancy
+Scenario: Attacker used a combination of flash loans and a malicious token contract to execute reentrant deposits, tricking the vault into crediting them for more DAI than they actually supplied.
+Reference: https://rekt.news/akropolis-rekt/
+
+---
+Protocol: Value DeFi
+Date: Nov 14, 2020
+Loss: $7,400,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Attacker exploited a bug in the withdrawal logic where the vault used the wrong Curve function for pricing, allowing them to manipulate the vault's share price via flash loans.
+Reference: https://rekt.news/value-defi-rekt/
+
+---
+Protocol: Origin Protocol
+Date: Nov 17, 2020
+Loss: $7,000,000
+Vector: Flash Loan / Reentrancy
+Scenario: Attacker used a flash loan to perform a reentrant deposit into the OUSD vault, manipulating the Rebasing mechanism to mint excessive OUSD against a small amount of collateral.
+Reference: https://rekt.news/hack-epidemic/
+
+---
+Protocol: Pickle Finance
+Date: Nov 21, 2020
+Loss: $19,700,000
+Vector: Logic Bug / Malicious Strategy
+Scenario: Attacker exploited a vulnerability in the swapExactJarForJar function which lacked a whitelist, allowing them to swap legitimate pJar assets into a malicious "fake jar" and drain the DAI.
+Reference: https://rekt.news/pickle-finance-rekt/
+
+---
+Protocol: Compounder Finance
+Date: Dec 1, 2020
+Loss: $12,000,000
+Vector: Rugpull / Malicious Strategy
+Scenario: The developers swapped legitimate strategy contracts for malicious ones containing a "backdoor" withdraw function, allowing them to drain the entire TVL despite a completed audit of the original code.
+Reference: https://rekt.news/deathbed-confessions-c3pr/
+
+---
+Protocol: CeFi (SolarWinds)
+Date: Dec 13, 2020
+Loss: $0
+Vector: Supply Chain Attack / Phishing
+Scenario: Not a crypto-native exploit; state-sponsored actors compromised SolarWinds software updates to gain access to US Treasury and FireEye systems for espionage purposes.
+Reference: https://rekt.news/cefi-rekt/
+
+---
+Protocol: Nexus Mutual (Hugh Karp)
+Date: Dec 14, 2020
+Loss: $8,000,000
+Vector: Phishing / Session Hijacking
+Scenario: CEO Hugh Karp was targeted; attacker compromised his personal computer to modify a transaction in his browser/wallet, tricking him into signing a 370k NXM transfer to the hacker's address.
+Reference: https://rekt.news/nxm-hugh-speaks-out/
+
+---
+Protocol: Warp Finance
+Date: Dec 17, 2020
+Loss: $7,800,000
+Vector: Flash Loan / Oracle Manipulation
+Scenario: Attacker used flash loans to manipulate the price of UniswapV2 WETH-DAI LP tokens, allowing them to borrow significantly more stablecoins than their collateral's true value.
+Reference: https://rekt.news/warp-finance-rekt/
+
+---
+Protocol: Ledger
+Date: Dec 20, 2020
+Loss: $0
+Vector: API Key Compromise / Marketing DB Breach
+Scenario: Customer database containing emails and personal info of ~272k customers was leaked; led to a massive increase in targeted phishing and physical threats against hardware wallet users.
+Reference: https://rekt.news/ledger-rekt/
+
+---
+Protocol: Cover Protocol
+Date: Dec 28, 2020
+Loss: $9,400,000
+Vector: Logic Bug / Infinite Mint
+Scenario: Attacker exploited an infinite mint loophole in the Blacksmith rewards contract; multiple exploiters (including Grap Finance) minted quadrillions of COVER tokens and dumped them, crashing the price by 90%.
+Reference: https://rekt.news/cover-rekt/
+
+---
+Protocol: Saddle Finance
+Date: Jan 19, 2021
+Loss: $275,000
+Vector: Economic Failure / Slippage
+Scenario: Fork of Curve; due to high slippage and lack of protection at launch, arbitrageurs extracted millions from early LPs within minutes of the pool opening.
+Reference: https://rekt.news/saddle-finance-rekt/
+
+---
+Protocol: Yearn Finance
+Date: Feb 4, 2021
+Loss: $11,000,000
+Vector: Flash Loan / Arbitrage Manipulation
+Scenario: Attacker used 11 flash loans to manipulate the 3crv pool in Curve, causing the yDAI vault to misprice its assets during a migration, allowing the attacker to withdraw excessive profit.
+Reference: https://rekt.news/yearn-rekt/
+
+---
+Protocol: Growth DeFi / BT Finance
+Date: Feb 8, 2021
+Loss: $2,700,000
+Vector: Logic Bug / Fake Token
+Scenario: Growth DeFi attacker forced the staker contract to accept a fake token liquidity pair, while BT Finance was exploited via a simple price manipulation vector.
+Reference: https://rekt.news/the-big-combo/
+
+---
+Protocol: Armor
+Date: Feb 8, 2021
+Loss: $1,600,000
+Vector: Centralized Corruption / Policy Denial
+Scenario: Following the Yearn exploit, Armor refused to pay out a legitimate 1,000 ETH claim; on-chain evidence suggested the team moved the user's NFT to their own treasury before denying the claim.
+Reference: https://rekt.news/armor-rekt/
+
+---
+Protocol: Alpha Finance
+Date: Feb 13, 2021
+Loss: $37,500,000
+Vector: Logic Bug / Internal Debt Manipulation
+Scenario: Attacker used a complex multi-transaction exploit to manipulate internal debt numbers in an unreleased sUSD pool, draining funds from the Iron Bank integration.
+Reference: https://rekt.news/alpha-finance-rekt/
+
+---
+Protocol: FED (Fedwire)
+Date: Feb 24, 2021
+Loss: $0
+Vector: Operational Error
+Scenario: The US Federal Reserve's Fedwire and ACH payment systems suffered a multi-hour outage due to an internal operational error, disrupting billions in fiat transfers and forcing crypto exchanges (Gemini, Kraken, Coinbase) to delay processing.
+Reference: https://rekt.news/fed-rekt/
+
+---
+Protocol: Furucombo
+Date: Feb 27, 2021
+Loss: $14,000,000
+Vector: Logic Bug / Evil Contract
+Scenario: Attacker exploited a vulnerability in the proxy contract's handler registry, making it delegatecall to a malicious implementation. This allowed the attacker to drain funds from users who had given the proxy infinite approval.
+Reference: https://rekt.news/furucombo-rekt/
+
+---
+Protocol: Meerkat Finance
+Date: March 4, 2021
+Loss: $31,000,000
+Vector: Rugpull / Malicious Upgrade
+Scenario: One day after launch on BSC, the developers upgraded the vault implementation to include a backdoor init() function that allowed them to drain 13M BUSD and 73k BNB to their own address.
+Reference: https://rekt.news/meerkat-finance-bsc-rekt/
+
+---
+Protocol: Paid Network
+Date: March 5, 2021
+Loss: $27,418,034
+Vector: Admin Key Compromise / Infinite Mint
+Scenario: The protocol's deployer EOA transferred ownership to an attacker address just before an infinite mint event. The attacker minted ~59.5M PAID tokens and dumped them on Uniswap, crashing the price by 90%.
+Reference: https://rekt.news/paid-rekt/
+
+---
+Protocol: DODO
+Date: March 8, 2021
+Loss: $2,100,000
+Vector: Logic Bug / Re-initialization
+Scenario: Multiple Crowdpools (WCRES, ETHA, etc.) were exploited via a bug that allowed the init() function to be called multiple times. This let attackers re-initialize pools with fake tokens to bypass flash loan security checks.
+Reference: https://rekt.news/au-dodo-rekt/
+
+---
+Protocol: Roll
+Date: March 14, 2021
+Loss: $5,700,000
+Vector: Private Key Compromise
+Scenario: Attacker gained access to Roll's hot wallet private keys, draining social tokens (WHALE, RARE, etc.) belonging to multiple creators and influencers, then dumping them for ETH on Uniswap.
+Reference: https://rekt.news/roll-rekt/
+
+---
+Protocol: Fei Protocol
+Date: April 3, 2021
+Loss: $1,300,000,000
+Vector: Economic Failure / Direct Incentives Bug
+Scenario: Massive launch failure where the $1 peg was lost immediately; the protocol's Direct Incentives mechanism (burn on sell) created a death spiral that trapped user capital in a de-pegged stablecoin.
+Reference: https://rekt.news/fei-rekt/
+
+---
+Protocol: Force DAO
+Date: April 4, 2021
+Loss: $350,000
+Vector: Logic Bug / Return Value Ignored
+Scenario: Attacker exploited a vault that failed to check the return value of transferFrom (MiniMeToken). This allowed the attacker to mint xFORCE without actually depositing FORCE tokens, then withdrawing the underlying liquidity.
+Reference: https://rekt.news/force-rekt/
+
+---
+Protocol: EasyFi
+Date: April 19, 2021
+Loss: $59,000,000
+Vector: Admin Key Compromise / Mnemonic Theft
+Scenario: Attacker compromised the founder's machine to steal the mnemonic for the admin key. The attacker drained $6M in stablecoins and ~3M EASY tokens (~$53M) from the protocol treasury.
+Reference: https://rekt.news/easyfi-rekt/
+
+---
+Protocol: Uranium Finance
+Date: Apr 28, 2021
+Loss: $57,200,000
+Vector: Logic Bug / Math Error
+Scenario: A typo in the swap function (using 1000 vs 10000) broke the constant product formula check, allowing the attacker to swap 1 wei for 98% of the pool's reserves.
+Reference: https://rekt.news/uranium-rekt/
+
+---
+Protocol: Spartan Protocol
+Date: May 2, 2021
+Loss: $30,500,000
+Vector: Flash Loan / Liquidity Share Calculation
+Scenario: Attacker inflated the pool balance via flash loan before burning LP tokens. The calcLiquidityShare() function used the inflated current balance instead of a cached value, allowing excessive withdrawals.
+Reference: https://rekt.news/spartan-rekt/
+
+---
+Protocol: Value DeFi (v2)
+Date: May 7, 2021
+Loss: $10,000,000
+Vector: Initialization Bug / Missing Code
+Scenario: During a v2 upgrade, a critical line of code (initialization check) was omitted. This allowed an attacker to re-initialize the pool and drain it using a fake token.
+Reference: https://rekt.news/value-rekt2/
+
+---
+Protocol: Rari Capital
+Date: May 8, 2021
+Loss: $11,000,000
+Vector: Logic Bug / Cross-Protocol Integration
+Scenario: Attacker exploited Rari's integration with Alpha Homora v1 (ibETH). By manipulating the ibETH work function, they tricked Rari's pool into believing it had more ETH than it did, allowing a drain.
+Reference: https://rekt.news/rari-capital-rekt/
+
+---
+Protocol: bEarn
+Date: May 16, 2021
+Loss: $18,000,000
+Vector: Logic Bug / Asset Mismatch
+Scenario: Attacker exploited a mismatch in asset denominations between bVaultsBank and bVaultsStrategy, allowing them to withdraw significantly more BUSD than deposited.
+Reference: https://rekt.news/bearn-rekt/
+
+---
+Protocol: FinNexus
+Date: May 17, 2021
+Loss: $7,600,000
+Vector: Admin Key Compromise
+Scenario: The admin key for the FinNexus options protocol was compromised, allowing the attacker to alter the collateral factor and drain the pool of USDC, USDT, and FNX.
+Reference: https://rekt.news/finnexus-rekt/
+
+---
+Protocol: PancakeBunny
+Date: May 19, 2021
+Loss: $45,000,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Attacker used 8 flash loans to skew the BNB/BUSD and BNB/BUNNY pool prices, allowing them to claim an inflated reward of 6.97M BUNNY tokens from the vault.
+Reference: https://rekt.news/pancakebunny-rekt/
+
+---
+Protocol: AutoShark
+Date: May 24, 2021
+Loss: $745,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Fork of PancakeBunny; attacker used a flash loan to manipulate SHARK/BNB pool reserves, tricking the minter into issuing 100M SHARK tokens as a reward.
+Reference: https://rekt.news/autoshark-rekt/
+
+---
+Protocol: Merlin Labs (Rekt I)
+Date: May 26, 2021
+Loss: $680,000
+Vector: Logic Bug / Reward Manipulation
+Scenario: Attacker manually transferred CAKE tokens to the vault, inflating the "performance fee" calculation to fraudulently mint and withdraw MERL tokens.
+Reference: https://rekt.news/merlinlabs-rekt/
+
+---
+Protocol: Merlin Labs (Rekt II)
+Date: May 26, 2021
+Loss: $550,000
+Vector: Logic Bug / Oracle Manipulation
+Scenario: Secondary exploit following a faulty fix; the protocol's new priceCalculator mispriced the BAND token, allowing the attacker to drain funds.
+Reference: https://rekt.news/merlin2-rekt/
+
+---
+Protocol: Merlin Labs
+Date: May 26, 2021
+Loss: $680,000
+Vector: Logic Bug / Reward Manipulation
+Scenario: A fork of PancakeBunny; attacker used flash loans to manipulate the performance fee calculation, minting excessive MERL rewards which were dumped for profits.
+Reference: https://rekt.news/merlinlabs-rekt/
+
+---
+Protocol: BurgerSwap
+Date: May 28, 2021
+Loss: $7,200,000
+Vector: Reentrancy / Flash Loan
+Scenario: Attacker used a flash loan and a fake token pair to execute reentrant swaps before reserves updated, exploiting a missing x*y=k constant product check.
+Reference: https://rekt.news/burgerswap-rekt/
+
+---
+Protocol: Belt
+Date: May 29, 2021
+Loss: $6,300,000
+Vector: Flash Loan / sharePrice Manipulation
+Scenario: Attacker manipulated the BUSD share valuation in the bVenusBUSD strategy via Ellipsis swaps, allowing them to withdraw more than their deposited share.
+Reference: https://rekt.news/belt-rekt/
+
+---
+Protocol: Alchemix
+Date: June 16, 2021
+Loss: $6,500,000
+Vector: Logic Bug / Debt Undercollateralization
+Scenario: Faulty implementation of the alETH vault assigned users zero debt for ETH deposits, effectively creating "free" ETH loans and de-pegging the stablecoin.
+Reference: https://rekt.news/alchemix-rekt/
+
+---
+Protocol: Iron Finance
+Date: June 16, 2021
+Loss: $2,000,000,000
+Vector: Economic Failure / Algorithmic Stablecoin Collapse
+Scenario: Systemic collapse of the IRON stablecoin; TITAN token entered a hyperinflationary death spiral during a mass bank run and oracle-driven arbitrage loop.
+Reference: https://rekt.news/iron-finance-rekt/
+
+---
+Protocol: Eleven Finance
+Date: June 22, 2021
+Loss: $4,500,000
+Vector: Logic Bug / emergencyBurn
+Scenario: Attacker utilized a vulnerable emergencyBurn() function in the intermediary vault to withdraw their deposit twice (once via the bug, once via regular withdrawal).
+Reference: https://rekt.news/11-rekt/
+
+---
+Protocol: StableMagnet
+Date: June 24, 2021
+Loss: $27,000,000
+Vector: Rugpull / Logic Bug
+Scenario: Rugpull enabled by an unverified library (SwapUtil) that contained malicious code to drain user approvals and pool liquidity.
+Reference: https://rekt.news/stablemagnet-rekt/
+
+---
+Protocol: SafeDollar
+Date: June 28, 2021
+Loss: $248,000
+Vector: Logic Bug / Reward Manipulation
+Scenario: Polygon-based stablecoin; attacker exploited a bug in the reward mechanism where transfer fees were deducted from the rewarder balance, inflating accSdoPerShare and allowing an infinite mint of SDO.
+Reference: https://rekt.news/safedollar-rekt/
+
+---
+Protocol: Merlin Labs (Rekt III)
+Date: June 30, 2021
+Loss: $330,000
+Vector: Logic Bug / Reward Manipulation
+Scenario: Third strike on Merlin; Alpaca single asset vaults were accidentally deployed publicly; attacker used a small deposit and a 1000 BNB manual transfer to trick the contract into minting excessive rewards.
+Reference: https://rekt.news/merlin3-rekt/
+
+---
+Protocol: Anyswap
+Date: July 11, 2021
+Loss: $7,900,000
+Vector: Logic Bug / Signature Forgery
+Scenario: V3 router prototype vulnerability; attacker back-calculated the private key of the MPC wallet by detecting repeated "k" values in two different transaction signatures.
+Reference: https://rekt.news/anyswap-rekt/
+
+---
+Protocol: ChainSwap
+Date: July 11, 2021
+Loss: $8,000,000
+Vector: Logic Bug / Signer Validation
+Scenario: Attacker exploited sloppy authorization checks in the Factory contract to mint bridge tokens directly to their address across Ethereum and BSC.
+Reference: https://rekt.news/chainswap-rekt/
+
+---
+Protocol: THORChain (Rekt I)
+Date: July 15, 2021
+Loss: $5,000,000
+Vector: Logic Bug / Bifrost Manipulation
+Scenario: Attacker exploited a vulnerability in the ETH Bifrost (bridge) code's override loop, wrapping the router to falsely set msg.value as txvalue, leading to the drain of various assets.
+Reference: https://rekt.news/thorchain-rekt/
+
+---
+Protocol: Bondly
+Date: July 15, 2021
+Loss: $5,900,000
+Vector: Private Key Compromise / Infinite Mint
+Scenario: Attacker compromised a wallet with minting rights and minted 373M BONDLY tokens, dumping them for $5.9M and crashing the price by 80%.
+Reference: https://rekt.news/bondly-rekt/
+
+---
+Protocol: PancakeBunny (Rekt II / PolyBunny)
+Date: July 16, 2021
+Loss: $2,400,000
+Vector: Logic Bug / Interest Manipulation
+Scenario: Attacker used a flash loan to deposit sLP tokens to MiniChefV2 and claimed rewards via withdrawAll, which incorrectly calculated performance fees and minted 2.1M polyBUNNY.
+Reference: https://rekt.news/pancakebunny2-rekt/
+
+---
+Protocol: THORChain (Rekt II)
+Date: July 23, 2021
+Loss: $8,000,000
+Vector: Logic Bug / Lack of Proper Multi-event Handling
+Scenario: Attacker created a fake Asgard vault and targeted the bridge's refund logic with a malicious memo, tricking Bifrost into processing massive unauthorized withdrawals.
+Reference: https://rekt.news/thorchain-rekt2/
+
+---
+Protocol: Levyathan
+Date: July 30, 2021
+Loss: $1,500,000
+Vector: Private Key Compromise / Logic Bug
+Scenario: Private keys with minting rights were left exposed on GitHub; secondary bug in emergencyWithdraw() referenced rewardDebt instead of balance, allowing users to drain remaining LEV.
+Reference: https://rekt.news/levyathan-rekt/
+
+---
+Protocol: Popsicle Finance
+Date: Aug 3, 2021
+Loss: $20,000,000
+Vector: Logic Bug / Share Calculation
+Scenario: LP management protocol; attacker exploited a lack of proper fee accounting during PLP token transfers, using flash loans and contract-to-contract transfers to double-dip reward collections.
+Reference: https://rekt.news/popsicle-rekt/
+
+---
+Protocol: Poly Network
+Date: Aug 10, 2021
+Loss: $611,000,000
+Vector: Logic Bug / Access Control
+Scenario: Largest crypto hack to date; attacker exploited a vulnerability in the cross-chain manager to modify the pubKey of consensus nodes, allowing them to authorize massive transfers across 3 chains.
+Reference: https://rekt.news/polynetwork-rekt/
+
+---
+Protocol: Punk Protocol
+Date: Aug 10, 2021
+Loss: $8,950,000
+Vector: Logic Bug / Interest Accrual
+Scenario: Attacker manipulated interest distribution logic in the stablecoin pools; a whitehat frontran the attack and returned ~$5M, with the hacker keeping ~$4M.
+Reference: https://rekt.news/punkprotocol-rekt/
+
+---
+Protocol: X-Token (Rekt II)
+Date: Aug 30, 2021
+Loss: $4,500,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Second exploit on xSNX; attacker used a flash loan to manipulate SNX prices and exploit an erroneous require statement in the callFunction, allowing them to drain administrative assets.
+Reference: https://rekt.news/xtoken-rekt-x2/
+
+---
+Protocol: Cream Finance (Rekt II)
+Date: Aug 30, 2021
+Loss: $18,800,000
+Vector: Flash Loan / Reentrancy
+Scenario: Attacker exploited a reentrancy vulnerability in the AMP token (ERC777) contract integration to nest multiple borrow() calls before the crETH balance updated.
+Reference: https://rekt.news/cream-rekt/
+
+---
+Protocol: bZx (Rekt III)
+Date: Nov 5, 2021
+Loss: $55,000,000
+Vector: Phishing Attack / Private Key Compromise
+Scenario: Fourth exploit on bZx; a developer was phished via a malicious Word macro, compromising the keys controlling deployments on Polygon and BSC.
+Reference: https://rekt.news/bzx-rekt/
+
+---
+Protocol: MonoX
+Date: Nov 30, 2021
+Loss: $31,000,000
+Vector: Logic Bug / Price Manipulation
+Scenario: Single-token liquidity protocol; attacker exploited a bug in swapTokenForExactToken that allowed using the same token for both tokenIn and tokenOut, enabling them to hyper-inflate the MONO price and drain all other pool assets.
+Reference: https://rekt.news/monox-rekt/
+
+---
+Protocol: Badger
+Date: Dec 2, 2021
+Loss: $120,000,000
+Vector: Frontend Attack / Malicious Approval
+Scenario: Attacker injected a script into the Badger front-end to trick users into signing infinite token approvals, allowing the hacker to drain vault deposit tokens directly from user wallets over a 2-week period.
+Reference: https://rekt.news/badger-rekt/
+
+---
+Protocol: BitMart
+Date: Dec 4, 2021
+Loss: $196,000,000
+Vector: Private Key Compromise
+Scenario: Hot wallets on Ethereum and BSC were drained due to a "security breach" (compromised private keys). The stolen memecoins were swapped via 1inch and washed through Tornado Cash.
+Reference: https://rekt.news/bitmart-rekt/
+
+---
+Protocol: 8ight Finance
+Date: Dec 7, 2021
+Loss: $1,750,000
+Vector: Private Key Compromise / Rugpull
+Scenario: Olympus fork on Harmony; developers allegedly used poor OPSEC or rugged users by exposing/pocketing private keys.
+Reference: https://rekt.news/8ight-finance-rekt/
+
+---
+Protocol: AscendEX
+Date: Dec 11, 2021
+Loss: $77,700,000
+Vector: Private Key Compromise
+Scenario: Hot wallets on ETH, BSC, and Polygon were compromised, leading to a drain of various tokens including ERC-20, BEP-20, and Polygon-based assets.
+Reference: https://rekt.news/ascendex-rekt/
+
+---
+Protocol: Vulcan Forged
+Date: Dec 13, 2021
+Loss: $140,000,000
+Vector: Private Key Compromise
+Scenario: 96 custodial wallet private keys (Venly integration) were compromised, draining $PYR, ETH, and MATIC from the blockchain gaming ecosystem.
+Reference: https://rekt.news/vulcan-forged-rekt/
+
+---
+Protocol: Grim Finance
+Date: Dec 18, 2021
+Loss: $30,000,000
+Vector: Reentrancy
+Scenario: depositFor() function lacked reentrancy protection, allowing the attacker to loop additional false deposits within the initial call and inflate their vault share.
+Reference: https://rekt.news/grim-finance-rekt/
+
+---
+Protocol: Grim Finance
+Date: Dec 18, 2021
+Loss: $30,000,000
+Vector: Flash Loan / Reentrancy
+Scenario: Fork of Beefy Finance; attacker exploited a missing reentrancy guard in the depositFor() function, using a malicious contract to loop multiple deposits within a single call and claim an outsized share of the vault.
+Reference: https://rekt.news/grim-finance-rekt/
+
+---
+Protocol: Bent Finance
+Date: Dec 21, 2021
+Loss: $1,750,000
+Vector: Logic Bug / Inside Job
+Scenario: Rewards contract updated to manually adjust the exploiter's balance, ascribing billions in pending rewards that were subsequently withdrawn.
+Reference: https://rekt.news/bent-finance/
+
+---
+Protocol: Visor Finance
+Date: Dec 21, 2021
+Loss: $8,200,000
+Vector: Logic Bug / Access Control
+Scenario: Vulnerable require() check in the vVISR Rewards Contract's deposit() function allowed the hacker to mint unlimited shares via a malicious contract.
+Reference: https://rekt.news/visor-finance-rekt/
+
+---
+Protocol: Visor Finance (Again)
+Date: Dec 21, 2021
+Loss: $8,200,000
+Vector: Logic Bug / Infinite Mint
+Scenario: Attacker exploited a vulnerability in the vStake contract's deposit function to mint VISR tokens without providing collateral, subsequently swapping the minted tokens for 2,285 ETH.
+Reference: https://rekt.news/visors-rekt-again/
+
+---
+Protocol: Bent Finance
+Date: Dec 21, 2021
+Loss: $1,750,000
+Vector: Insider Job / Rewards Manipulation
+Scenario: A team member or insider address extracted funds over several weeks by manipulating the protocol's rewards system to authorize unauthorized token withdrawals.
+Reference: https://rekt.news/bent-finance-rekt/
+
+---
+Protocol: MetaDAO
+Date: Dec 27, 2021
+Loss: $3,200,000
+Vector: Rugpull
+Scenario: The project team executed a "meta-rug," draining 800 ETH from the liquidity pool before deleting all social media accounts and vanishing with the funds.
+Reference: https://rekt.news/metadao-rekt/
+
+---
+Protocol: Arbix Finance
+Date: Jan 4, 2022
+Loss: $10,000,000
+Vector: Rugpull
+Scenario: Arbitrage-focused project on BSC rugged users by draining single-asset vaults directly and dumping minted ARBX tokens on PancakeSwap.
+Reference: https://rekt.news/arbix-rekt/
+
+---
+Protocol: LCX
+Date: Jan 8, 2022
+Loss: $7,940,000
+Vector: Private Key Compromise
+Scenario: Hot wallet system compromised on Ethereum; attacker stole USDC, EURe, LCX, and other tokens before laundering via Tornado Cash.
+Reference: https://rekt.news/lcx-rekt/
+
+---
+Protocol: Crypto.com
+Date: Jan 17, 2022
+Loss: $33,700,000
+Vector: Logic Bug / 2FA Bypass
+Scenario: Attacker bypassed account 2FA and withdrawal whitelists to drain ETH and BTC from several hundred user accounts.
+Reference: https://rekt.news/cryptocom-rekt/
+
+---
+Protocol: Qubit Finance
+Date: Jan 27, 2022
+Loss: $80,000,000
+Vector: Logic Bug / Zero Address Check
+Scenario: QBridgeHandler failed to check if tokenAddress was zero after ETH support was added; safeTransferFrom on the zero address didn't revert, allowing infinite collateral credit.
+Reference: https://rekt.news/qubit-rekt/
+
+---
+Protocol: Wormhole
+Date: Feb 2, 2022
+Loss: $326,000,000
+Vector: Logic Bug / Signature Bypass
+Scenario: Attacker bypassed Solana VAA verification by providing a malicious instructions sysvar account, allowing the fraudulent minting of 120k whETH on Solana.
+Reference: https://rekt.news/wormhole-rekt/
+
+---
+Protocol: Meter
+Date: Feb 5, 2022
+Loss: $4,400,000
+Vector: Logic Bug / Handler Misconfiguration
+Scenario: Bridging logic assumed wrapped native tokens didn't need burning, but exposed an unguarded deposit method that allowed the attacker to fraudulently mint BNB and wETH.
+Reference: https://rekt.news/meter-rekt/
+
+---
+Protocol: Superfluid
+Date: Feb 8, 2022
+Loss: $8,700,000
+Vector: Logic Bug / Context Forgery
+Scenario: Attacker crafted calldata to forge the serialized context (ctx), allowing them to impersonate other accounts and move tokens by closing open streams.
+Reference: https://rekt.news/superfluid-rekt/
+
+---
+Protocol: Dego Finance
+Date: Feb 10, 2022
+Loss: $10,000,000
+Vector: Private Key Compromise
+Scenario: Hot wallets on Ethereum, BSC, and Cronos were compromised, leading to the theft of LP tokens and the minting of 600k $DEGO.
+Reference: https://rekt.news/dego-finance-rekt/
+
+---
+Protocol: Treasure DAO
+Date: Mar 3, 2022
+Loss: $1,400,000
+Vector: Logic Bug / Zero Quantity Check
+Scenario: Marketplace buyItem function failed to verify quantity > 0, allowing the exploiter to "purchase" listings for zero magic tokens.
+Reference: https://rekt.news/treasure-dao-rekt/
+
+---
+Protocol: Deus DAO
+Date: Mar 15, 2022
+Loss: $3,000,000
+Vector: Flash Loan / Oracle Manipulation
+Scenario: Flash loan used to manipulate the sAMM-USDC/DEI oracle pool on Fantom, causing artificially low collateral valuations and triggering liquidations for profit.
+Reference: https://rekt.news/deus-dao-rekt/
+
+---
+Protocol: Agave / Hundred (Rekt I)
+Date: Mar 15, 2022
+Loss: $11,700,000
+Vector: Reentrancy (Gnosis chain callAfterTransfer)
+Scenario: Attacker exploited Gnosis chain's xDAI token 'callAfterTransfer' function to execute reentrant borrows against supplied collateral on Aave and Compound forks.
+Reference: https://rekt.news/agave-hundred-rekt/
+
+---
+Protocol: Cashio
+Date: Mar 23, 2022
+Loss: $48,000,000
+Vector: Logic Bug / Incomplete Validation
+Scenario: Solana-based protocol failed to validate the .mint field for Saber LP tokens, allowing the attacker to provide fake collateral and infinite mint $CASH.
+Reference: https://rekt.news/cashio-rekt/
+
+---
+Protocol: Ronin
+Date: Mar 23, 2022
+Loss: $624,000,000
+Vector: Private Key Compromise
+Scenario: Attacker compromised 5 of 9 bridge validator nodes (4 Sky Mavis + 1 Axie DAO) to authorize fraudulent withdrawals of 173.6k ETH and 25.5M USDC. The exploit went unnoticed for 6 days.
+Reference: https://rekt.news/ronin-rekt/
+
+---
+Protocol: Revest Finance
+Date: Mar 27, 2022
+Loss: $2,000,000
+Vector: Reentrancy
+Scenario: Reentrancy in the ERC1155 minting routine (FNFTHandler) allowed the attacker to overwrite position values by depositing extra funds before the ID counter was updated.
+Reference: https://rekt.news/revest-finance-rekt/
+
+---
+Protocol: Voltage Finance
+Date: Mar 31, 2022
+Loss: $4,000,000
+Vector: Reentrancy (ERC677 callAfterTransfer)
+Scenario: Ola Finance (lending provider) had a reentrancy vulnerability in its borrow() function on the Fuse Network, where states were updated after the external callAfterTransfer() hook.
+Reference: https://rekt.news/voltage-finance-rekt/
+
+---
+Protocol: Inverse Finance
+Date: Apr 2, 2022
+Loss: $15,600,000
+Vector: Flash Loan / TWAP Oracle Manipulation
+Scenario: Attacker manipulated the SushiSwap INV/WETH pair to inflate the INV price, exploiting the protocol's reliance on a short-window TWAP oracle to borrow $15.6M against overvalued collateral.
+Reference: https://rekt.news/inverse-finance-rekt/
+
+---
+Protocol: Elephant Money
+Date: Apr 12, 2022
+Loss: $22,200,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Attacker used flash loans to manipulate the ELEPHANT token price during the stablecoin TRUNK minting process, bypassing the minting/redemption logic for excessive profit.
+Reference: https://rekt.news/elephant-money-rekt/
+
+---
+Protocol: Beanstalk
+Date: Apr 17, 2022
+Loss: $182,000,000
+Vector: Governance Attack / Flash Loan
+Scenario: Attacker used a flash loan to acquire massive voting power (LP tokens), passed an emergency BIP to drain the protocol's assets, and executed it immediately due to the lack of a governance delay.
+Reference: https://rekt.news/beanstalk-rekt/
+
+---
+Protocol: Deus DAO (Rekt II)
+Date: Apr 28, 2022
+Loss: $13,400,000
+Vector: Logic Bug / VWAP Oracle Glitch
+Scenario: Flash-swap bypass on the Muon/Solidly VWAP oracle caused a price glitch, allowing the attacker to drain DEI by borrowing against manipulated collateral values.
+Reference: https://rekt.news/deus-dao-rekt-2/
+
+---
+Protocol: Saddle Finance
+Date: Apr 30, 2022
+Loss: $11,000,000
+Vector: Logic Bug / MetaSwap VirtualPrice
+Scenario: Metapool exploit allowed by an outdated version of MetaSwapUtils which didn't utilize VirtualPrice for LP valuation, facilitating price manipulation during swaps.
+Reference: https://rekt.news/saddle-finance-rekt2/
+
+---
+Protocol: Fei / Rari
+Date: Apr 30, 2022
+Loss: $80,000,000
+Vector: Reentrancy (call.value)
+Scenario: Reentrancy in the Comptroller's exitMarket function (forked from Compound) enabled the attacker to withdraw collateral while keeping borrowed ETH due to a lack of CEI in the bridge logic.
+Reference: https://rekt.news/fei-rari-rekt/
+
+---
+Protocol: MM Finance
+Date: May 4, 2022
+Loss: $2,000,000
+Vector: DNS Hijack / Front-end Attack
+Scenario: DNS attack injected a malicious router contract into the front-end code on Cronos, redirecting user swap and liquidity transactions to the attacker's address.
+Reference: https://rekt.news/madmeerkat-finance-rekt/
+
+---
+Protocol: Fortress
+Date: May 9, 2022
+Loss: $3,000,000
+Vector: Oracle Manipulation / Governance Attack
+Scenario: Attacker abused a publicly callable price oracle and a malicious governance proposal to add FTS as collateral with an inflated valuation, successfully draining the platform's assets.
+Reference: https://rekt.news/fortress-rekt/
+
+---
+Protocol: Luna / UST
+Date: May 9, 2022
+Loss: $40,000,000,000
+Vector: Economic Collapse / Systemic Failure
+Scenario: $40B algorithmic stablecoin ecosystem collapse; UST de-pegged, triggering a death spiral for LUNA and the insolvency of the Anchor Protocol, wiping out thousands of users.
+Reference: https://rekt.news/luna-rekt/
+
+---
+Protocol: Venus / Blizz
+Date: May 12, 2022
+Loss: $21,800,000
+Vector: Oracle Manipulation (Stale Price / minAnswer)
+Scenario: Chainlink LUNA oracle hit a hardcoded $0.10 minAnswer. As LUNA crashed below this, attackers used it as overvalued collateral to drain funds from Venus (BSC) and Blizz (Avalanche).
+Reference: https://rekt.news/venus-blizz-rekt/
+
+---
+Protocol: Mirror Protocol
+Date: May 30, 2022
+Loss: $2,000,000
+Vector: Oracle Manipulation (LUNC/LUNA price feed)
+Scenario: Out-of-date oracle on Terra Classic assigned LUNA 2.0 value to LUNC (~$0.10); attackers used cheap LUNC as overvalued collateral to drain mBTC, mETH, and mDOT pools.
+Reference: https://rekt.news/mirror-rekt/
+
+---
+Protocol: Gym Network
+Date: June 8, 2022
+Loss: $2,100,000
+Vector: Logic Bug / Caller Verification
+Scenario: Reentrancy-adjacent logic bug in a new "Claim and Pool" feature; lack of caller verification allowed the attacker to credit fake deposits and withdraw BNB.
+Reference: https://rekt.news/gymnet-rekt/
+
+---
+Protocol: Wintermute (Optimism Bridge)
+Date: June 8, 2022
+Loss: $27,600,000
+Vector: Logic Bug / Proxy Deployment Replay
+Scenario: Wintermute sent 20M OP to an uninitialized multisig on Optimism. Attacker replayed a Gnosis Safe proxy deployment with matching factory nonces to seize the ownerless funds.
+Reference: https://rekt.news/wintermute-rekt/
+
+---
+Protocol: Celsius
+Date: June 13, 2022
+Loss: $20,000,000,000
+Vector: CeFi Insolvency / Liquidity Crisis
+Scenario: Major CeFi lender halted withdrawals due to insolvency after suffering hack losses (BadgerDAO) and gambling user funds in illiquid on-chain leverage positions (stETH, Anchor).
+Reference: https://rekt.news/celsius-rekt/
+
+---
+Protocol: Inverse Finance (Rekt II)
+Date: June 16, 2022
+Loss: $5,800,000
+Vector: Oracle Manipulation (LP pricing error)
+Scenario: Secondary exploit targeting the DOLA lending market; oracle misused asset balances in the yvcrv3Crypto pool to calculate LP price, allowing flash loan manipulation.
+Reference: https://rekt.news/inverse-rekt2/
+
+---
+Protocol: Everyone / Systemic Rekt
+Date: June 18, 2022
+Loss: $0
+Vector: Systemic / Market Crash
+Scenario: Widespread liquidations (over $2B) across DeFi and CeFi (3AC, Voyager, Babel) triggered by the Terra collapse and subsequent macro instability.
+Reference: https://rekt.news/everyone-rekt/
+
+---
+Protocol: Bancor
+Date: June 19, 2022
+Loss: $0
+Vector: Governance / Economic Failure
+Scenario: Protocol halted its flagship "Impermanent Loss Protection" feature due to a feedback loop where BNT emissions to cover IL further depreciated the token's value.
+Reference: https://rekt.news/bancor-lp-rekt/
+
+---
+Protocol: Harmony
+Date: June 23, 2022
+Loss: $100,000,000
+Vector: Private Key Compromise
+Scenario: Horizon bridge was secured by a 2-of-5 multisig; two hot wallet addresses were compromised, allowing the full theft of $100M in ETH and BUSD.
+Reference: https://rekt.news/harmony-rekt/
+
+---
+Protocol: Crema Finance
+Date: July 2, 2022
+Loss: $8,800,000
+Vector: Logic Bug / Tick Data Manipulation
+Scenario: Solana-based concentrated liquidity AMM; attacker exploited faulty tick account owner validation to inject malicious price data, allowing them to claim excessive LP fees.
+Reference: https://rekt.news/crema-finance-rekt/
+
+---
+Protocol: Audius
+Date: July 23, 2022
+Loss: $6,000,000
+Vector: Governance Attack / Storage Collision
+Scenario: Storage collision between the proxyAdmin address and OpenZeppelin's Initializable contract allowed the attacker to re-initialize governance and pass a malicious treasury transfer proposal.
+Reference: https://rekt.news/audius-rekt/
+
+---
+Protocol: Nomad
+Date: Aug 1, 2022
+Loss: $190,000,000
+Vector: Logic Bug / Improper Initialization
+Scenario: Bridge upgrade initialized the trusted root to 0x00. Since null was treated as "proven," attackers could copy valid transaction data, swap addresses, and drain funds.
+Reference: https://rekt.news/nomad-rekt/
+
+---
+Protocol: Curve (Frontend)
+Date: Aug 9, 2022
+Loss: $570,000
+Vector: DNS Hijack / Frontend Attack
+Scenario: Attacker hijacked the curve.fi DNS via IWC/Namecheap, redirecting users to a clone of the site that requested approval for a malicious contract to drain user wallets.
+Reference: https://rekt.news/curve-rekt/
+
+---
+Protocol: Transit Swap
+Date: Oct 2, 2022
+Loss: $21,000,000
+Vector: Logic Bug / Controllable transferFrom
+Scenario: Unverified swap contract allowed arbitrary transferFrom calls, siphoning approved user tokens directly to the exploiter.
+Reference: https://rekt.news/transit-swap-rekt/
+
+---
+Protocol: Sovryn
+Date: Oct 4, 2022
+Loss: $1,100,000
+Vector: Logic Bug / External Call Manipulation
+Scenario: CallTokensToSend external call bug combined with flashloan manipulation to inflate Load token prices on RSK.
+Reference: https://rekt.news/sovryn-rekt/
+
+---
+Protocol: BNB Bridge
+Date: Oct 6, 2022
+Loss: $586,000,000
+Vector: Logic Bug / Falsified IAVL Proofs
+Scenario: Attacker forged deposit proofs for a legacy block on the Beacon Chain to mint 2M BNB on BSC.
+Reference: https://rekt.news/bnb-bridge-rekt/
+
+---
+Protocol: TempleDAO
+Date: Oct 11, 2022
+Loss: $2,300,000
+Vector: Logic Bug / Missing Stake Migration Check
+Scenario: migrateStake() function failed to verify the oldStaking parameter, allowing arbitrary stake claims from an unauthenticated source.
+Reference: https://rekt.news/templedao-rekt/
+
+---
+Protocol: Mango Markets
+Date: Oct 11, 2022
+Loss: $115,000,000
+Vector: Market Manipulation / Price Spiking
+Scenario: Attacker used high-capital leverage to spike the MNGO spot price, using inflated unrealized profits as collateral to drain liquidity.
+Reference: https://rekt.news/mango-markets-rekt/
+
+---
+Protocol: Moola Market
+Date: Oct 18, 2022
+Loss: $8,400,000
+Vector: Market Manipulation / Price Spiking
+Scenario: Attacker pumped the price of the native MOO token on Ubeswap to borrow and drain Celo-based liquidity pools.
+Reference: https://rekt.news/moola-markets-rekt/
+
+---
+Protocol: Team Finance
+Date: Oct 27, 2022
+Loss: $15,800,000
+Vector: Logic Bug / Flawed Migrate Function
+Scenario: Audited v2-to-v3 migrate function bypassed sender authorization, allowing the transfer of locked Uniswap LP positions to an attacker-controlled pair.
+Reference: https://rekt.news/teamfinance-rekt/
+
+---
+Protocol: Deribit
+Date: Nov 1, 2022
+Loss: $28,000,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Hot wallets on the BTC and ETH networks were drained via compromised keys. Withdrawals were paused to prevent deeper losses.
+Reference: https://rekt.news/deribit-rekt/
+
+---
+Protocol: Skyward Finance
+Date: Nov 2, 2022
+Loss: $3,200,000
+Vector: Logic Bug / Missing Parameter Verification
+Scenario: redeem_skyward function on NEAR failed to verify token_account_ids, allowing the attacker to loop treasury redemptions.
+Reference: https://rekt.news/skyward-rekt/
+
+---
+Protocol: Ankr & Helio
+Date: Dec 1, 2022
+Loss: $5,000,000
+Vector: Private Key Compromise / Malicious Upgrade
+Scenario: Compromised deployer key used to upgrade the aBNBc contract with a minting backdoor. Helio stablecoin (HAY) depegged as a result of the infinite mint copies.
+Reference: https://rekt.news/ankr-helio-rekt/
+
+---
+Protocol: Lodestar Finance
+Date: Dec 11, 2022
+Loss: $6,500,000
+Vector: Oracle Manipulation / GLP Donation
+Scenario: Attacker manipulated the plvGLP oracle price by donating assets to the GlpDepositor contract, then borrowed against the inflated collateral.
+Reference: https://rekt.news/lodestar-rekt/
+
+---
+Protocol: Raydium
+Date: Dec 16, 2022
+Loss: $4,400,000
+Vector: Admin Key Compromise / Trojan Attack
+Scenario: Pool owner authority compromised (suspected trojan), allowing the attacker to drain protocol fees and liquidity from Solana-based pools.
+Reference: https://rekt.news/raydium-rekt/
+
+---
+Protocol: Midas Capital (Rekt I)
+Date: Jan 15, 2023
+Loss: $660,000
+Vector: Read-only Reentrancy / Oracle Manipulation
+Scenario: Exploited WMATIC-stMATIC Curve LP oracle via read-only reentrancy during liquidity removal to borrow excessive assets.
+Reference: https://rekt.news/midas-capital-rekt/
+
+---
+Protocol: BonqDAO
+Date: Feb 1, 2023
+Loss: $120,000,000
+Vector: Oracle Manipulation / Tellor Stake Attack
+Scenario: Attacker manipulated the Tellor price feed for WALBT by staking 10 TRB and manually submitting values, then minted 100M BEUR against the fake price.
+Reference: https://rekt.news/bonq-rekt/
+
+---
+Protocol: Orion Protocol
+Date: Feb 2, 2023
+Loss: $3,000,000
+Vector: Reentrancy / Logic Bug
+Scenario: Fake token (ATK) with reentrancy hook in its transfer function allowed the attacker to double-count stablecoin deposits in the aggregate exchange.
+Reference: https://rekt.news/orion-protocol-rekt/
+
+---
+Protocol: dForce Network (Rekt II)
+Date: Feb 10, 2023
+Loss: $3,650,000
+Vector: Read-only Reentrancy / Virtual Price Manipulation
+Scenario: Multi-chain attack on Arbitrum and Optimism exploiting read-only reentrancy in Curve's get_virtual_price() to manipulate dForce oracles.
+Reference: https://rekt.news/dforce-network-rekt/
+
+---
+Protocol: Platypus Finance (Rekt I)
+Date: Feb 16, 2023
+Loss: $8,500,000
+Vector: Logic Bug / Solvency Check Bypass
+Scenario: Emergency withdrawal function failed to check for borrowed USP debt, allowing the attacker to withdraw collateral while keeping the debt.
+Reference: https://rekt.news/platypus-finance-rekt/
+
+---
+Protocol: Dexible
+Date: Feb 17, 2023
+Loss: $2,000,000
+Vector: Logic Bug / Controllable Router
+Scenario: selfSwap function lacked router address verification, allowing the attacker to call transferFrom on arbitrary token contracts for users with active approvals.
+Reference: https://rekt.news/dexible-rekt/
+
+---
+Protocol: Hope Finance
+Date: Feb 20, 2023
+Loss: $1,860,000
+Vector: Rugpull / Malicious Router
+Scenario: Multisig-approved update pointed the protocol to a fake router contract, which redirected user funds to the attacker during a "swap".
+Reference: https://rekt.news/hope-finance-rekt/
+
+---
+Protocol: Silvergate
+Date: Mar 8, 2023
+Loss: $0
+Vector: CEX Contagion / Bank Run
+Scenario: Principal crypto banking provider announced voluntary liquidation due to FTX contagion and regulatory pressure.
+Reference: https://rekt.news/silvergate-rekt/
+
+---
+Protocol: Hedera
+Date: Mar 9, 2023
+Loss: $515,000
+Vector: Logic Bug / Smart Contract Service Vulnerability
+Scenario: Exploitation of the network's Smart Contract Service (SCS) allowed the attacker to drain HTS tokens from multiple DEXs (SaucerSwap, Pangolin, Heliswap).
+Reference: https://rekt.news/hedera-rekt/
+
+---
+Protocol: Euler Finance
+Date: Mar 13, 2023
+Loss: $197,000,000
+Vector: Logic Bug / Solvency Check Bypass
+Scenario: donateToReserves function lacked a health check; attacker created massive bad debt to profit from discounted eToken collateral.
+Reference: https://rekt.news/euler-rekt/
+
+---
+Protocol: Kokomo Finance
+Date: Mar 26, 2023
+Loss: $4,000,000
+Vector: Rugpull / Malicious Implementation
+Scenario: Optimism-based lending protocol rugged users by upgrading its implementation to a malicious contract that siphoned WBTC.
+Reference: https://rekt.news/kokomo-finance-rekt/
+
+---
+Protocol: Safemoon
+Date: Mar 28, 2023
+Loss: $8,900,000
+Vector: Logic Bug / Public Burn Function
+Scenario: New upgrade left the burn() function publicly callable; attacker burned SFM from the LP to inflate the price before selling.
+Reference: https://rekt.news/safemoon-rekt/
+
+---
+Protocol: SushiSwap
+Date: Apr 9, 2023
+Loss: $3,300,000
+Vector: Logic Bug / Approval Leak
+Scenario: Vulnerability in the RouteProcessor2 contract allowed an attacker to drain user tokens via an insufficiently protected callback.
+Reference: https://rekt.news/sushi-yoink-rekt/
+
+---
+Protocol: Yearn Finance
+Date: Apr 13, 2023
+Loss: $11,600,000
+Vector: Logic Bug / Copy-Paste Oracle Error
+Scenario: 3-year-old copy/paste error in legacy iearn yUSDT (using USDC address) exploited to manipulate share prices and mint tokens.
+Reference: https://rekt.news/yearn2-rekt/
+
+---
+Protocol: Hundred Finance (Rekt II)
+Date: Apr 15, 2023
+Loss: $7,400,000
+Vector: Rounding Bug / Precision Loss
+Scenario: Compound v2 fork on Optimism was exploited by donating WBTC to an empty hWBTC contract to inflate the exchange rate via rounding.
+Reference: https://rekt.news/hundred-rekt2/
+
+---
+Protocol: Merlin DEX
+Date: Apr 26, 2023
+Loss: $1,800,000
+Vector: Rugpull / Malicious Implementation
+Scenario: zkSync-native DEX rugged users via max approvals granted to a team-controlled address during the launch event.
+Reference: https://rekt.news/merlin-dex-rekt/
+
+---
+Protocol: Level Finance
+Date: May 1, 2023
+Loss: $1,100,000
+Vector: Logic Bug / claimMultiple Replay
+Scenario: Referral contract lacked an epoch check, allowing the attacker to repeatedly claim the same referral rewards.
+Reference: https://rekt.news/level-finance-rekt/
+
+---
+Protocol: DeFiLabs
+Date: May 5, 2023
+Loss: $1,600,000
+Vector: Rugpull / Backdoor Function
+Scenario: Backdoor found in the project's staking contract on BSC, used to drain user funds.
+Reference: https://rekt.news/defilabs-rekt/
+
+---
+Protocol: Deus DAO (Rekt III)
+Date: May 5, 2023
+Loss: $6,500,000
+Vector: Logic Bug / Mis-ordered Burn Parameters
+Scenario: burnFrom function parameters were mis-ordered in an upgrade, allowing attackers to seize control of user approvals.
+Reference: https://rekt.news/deus-dao-r3kt/
+
+---
+Protocol: Swaprum
+Date: May 19, 2023
+Loss: $3,000,000
+Vector: Rugpull / Backdoor Function
+Scenario: Reward contract upgraded to include a backdoor add() function that sent user LP tokens to the team's deployer wallet.
+Reference: https://rekt.news/swaprum-rekt/
+
+---
+Protocol: Tornado Cash Governance
+Date: May 20, 2023
+Loss: $0
+Vector: Governance Attack / Trojan Proposal
+Scenario: Malicious proposal used a hidden selfDestruct to reset a contract nonce and redeploy malicious code, seizing control of TORN governance.
+Reference: https://rekt.news/tornado-gov-rekt/
+
+---
+Protocol: Jimbo's Protocol
+Date: May 28, 2023
+Loss: $7,500,000
+Vector: Flash Loan / Price Manipulation
+Scenario: shift() function lacked slippage control, allowing the attacker to manipulate the pool price and drain WETH liquidity during a rebalance on Arbitrum.
+Reference: https://rekt.news/jimbo-rekt/
+
+---
+Protocol: Atomic Wallet
+Date: June 2, 2023
+Loss: $100,000,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Indiscriminate draining of wallets across 13 chains. Attributed to Lazarus Group.
+Reference: https://rekt.news/atomic-wallet-rekt/
+
+---
+Protocol: Atlantis Loans
+Date: June 11, 2023
+Loss: $2,500,000
+Vector: Governance Attack / Malicious Upgrade
+Scenario: Attacker voted through a proposal to gain control of token contracts and upgraded them to malicious versions. 
+Reference: https://rekt.news/atlantis-loans-rekt/
+
+---
+Protocol: Sturdy Finance
+Date: June 12, 2023
+Loss: $800,000
+Vector: Read-only Reentrancy / Oracle Manipulation
+Scenario: Price manipulation exploit on the SturdyOracle using a flash loan to manipulate the price of collateral tokens.
+Reference: https://rekt.news/sturdy-rekt/
+
+---
+Protocol: Midas Capital (Rekt II)
+Date: June 17, 2023
+Loss: $600,000
+Vector: Rounding Bug / Precision Loss
+Scenario: Exploit on a BSC pool due to a rounding vulnerability in the redeem counter, similar to the Hundred Finance attack.
+Reference: https://rekt.news/midas-rekt2/
+
+---
+Protocol: Poly Network (Rekt II)
+Date: July 2, 2023
+Loss: $4,400,000
+Vector: Multisig Compromise (3-of-4)
+Scenario: Compromised signers allowed the attacker to forge deposit proofs and withdraw funds across 10 chains.
+Reference: https://rekt.news/poly-network-rekt2/
+
+---
+Protocol: Multichain (Rekt II)
+Date: July 6, 2023
+Loss: $126,000,000
+Vector: Private Key Compromise / MPC Failure
+Scenario: MPC addresses were abnormally drained of 50% of the FTM bridge and 80% of Moonriver bridge holdings.
+Reference: https://rekt.news/multichain-rekt2/
+
+---
+Protocol: Multichain (Rekt III)
+Date: July 14, 2023
+Loss: $103,000,000
+Vector: Centralization / Custody Arrest
+Scenario: CEO Zhaojun arrested in China; he held all MPC keys. Infrastructure paralyzed, leading to further abnormal withdrawals.
+Reference: https://rekt.news/multichain-r3kt/
+
+---
+Protocol: Conic Finance
+Date: July 21, 2023
+Loss: $4,200,000
+Vector: Read-only Reentrancy / Mixed Address Logic
+Scenario: Double-rekt incident. Oracle assumed ETH was address 0xeee while Curve used WETH address for V2 pools, bypassing protection.
+Reference: https://rekt.news/conic-finance-rekt/
+
+---
+Protocol: AlphaPo
+Date: July 22, 2023
+Loss: $60,000,000
+Vector: Private Key Compromise / Hot Wallet Breach
+Scenario: Hot wallets of the crypto payments processor were drained across ETH, TRON, and BTC. Attributed to Lazarus Group.
+Reference: https://rekt.news/alphapo-rekt/
+
+---
+Protocol: EraLend
+Date: July 25, 2023
+Loss: $3,400,000
+Vector: Read-only Reentrancy / Oracle Inflation
+Scenario: Callback during LP token burning allowed attacker to manipulate reserves and inflate the oracle price.
+Reference: https://rekt.news/eralend-rekt/
+
+---
+Protocol: Kannagi Finance
+Date: July 29, 2023
+Loss: $2,100,000
+Vector: Rugpull / Malicious Implementation
+Scenario: Yield aggregator on zkSync rugged investors, siphoning TVL. Auditors had previously flagged centralization risks.
+Reference: https://rekt.news/kannagi-finance-rekt/
+
+---
+Protocol: Curve / Vyper
+Date: July 30, 2023
+Loss: $69,000,000
+Vector: Compiler Reentrancy Bug / Logic Bug
+Scenario: Vulnerability in Vyper versions 0.2.15, 0.2.16, and 0.3.0 led to reentrancy exploits on four Curve pools.
+Reference: https://rekt.news/curve-vyper-rekt/
+
+---
+Protocol: BALD (Base)
+Date: July 31, 2023
+Loss: $23,000,000
+Vector: Rugpull / Liquidity Removal
+Scenario: Deployer removed $23M in liquidity from the BALD/ETH pool on Base, causing a total collapse in token value.
+Reference: https://rekt.news/bald-rekt/
+
+---
+Protocol: Steadefi
+Date: Aug 7, 2023
+Loss: $1,140,000
+Vector: Admin Key Compromise / Ownership Transfer
+Scenario: Attacker compromised the deployer wallet and transferred ownership of lending contracts to themselves to drain funds.
+Reference: https://rekt.news/steadefi-rekt/
+
+---
+Protocol: Zunami Protocol
+Date: Aug 13, 2023
+Loss: $2,100,000
+Vector: Price Manipulation / Curve Pool Exploit
+Scenario: Price manipulation attack targeting the Curve-based pools used by the protocol.
+Reference: https://rekt.news/zunami-protocol-rekt/
+
+---
+Protocol: RocketSwap
+Date: Aug 14, 2023
+Loss: $869,000
+Vector: Private Key Compromise / Server Breach
+Scenario: Server brute-force led to the theft of project private keys, used to drain the DEX pools.
+Reference: https://rekt.news/rocketswap-rekt/
+
+---
+Protocol: Shibarium Bridge
+Date: Aug 17, 2023
+Loss: $2,600,000
+Vector: Operational Error / Faulty Launch
+Scenario: Improper bridge configuration led to user funds becoming stuck during the launch of the Shiba Inu L2.
+Reference: https://rekt.news/shibarium-bridge-rekt/
+
+---
+Protocol: Exactly Protocol
+Date: Aug 18, 2023
+Loss: $7,200,000
+Vector: Logic Bug / Collateral Draining
+Scenario: Exploit on the OP-based lending protocol that allowed an attacker to siphon user collateral.
+Reference: https://rekt.news/exactly-protocol-rekt/
+
+---
+Protocol: Balancer (Rekt II)
+Date: Aug 27, 2023
+Loss: $2,100,000
+Vector: Logic Bug / Boosted Pool Exploit
+Scenario: Exploit on Balancer v2 boosted pools despite a prior warning and partial mitigation efforts.
+Reference: https://rekt.news/balancer-rekt/
+
+---
+Protocol: Stars Arena
+Date: Oct 7, 2023
+Loss: $3,000,000
+Vector: Logic Bug / Reentrancy
+Scenario: SocialFi platform on Avalanche exploited for its entire TVL due to a reentrancy-related vulnerability.
+Reference: https://rekt.news/stars-arena-rekt/
+
+---
+Protocol: Lucky Star Currency (LSC) / FSL
+Date: Oct 9, 2023
+Loss: $2,790,000
+Vector: Rugpull / Logic Bug
+Scenario: Two BSC-based projects rugged users via backdoor functions shortly after launch.
+Reference: https://rekt.news/LSC-FSL-rekt/
+
+---
+Protocol: Tangible (USDR)
+Date: Oct 11, 2023
+Loss: $10,000,000
+Vector: Liquidity Failure / RWA Depeg
+Scenario: Stablecoin USDR depegged due to a lack of liquid collateral and a bank run on its RWA-backed treasury.
+Reference: https://rekt.news/tangible-rekt/
+
+---
+Protocol: Platypus Finance (Rekt II)
+Date: Oct 12, 2023
+Loss: $2,200,000
+Vector: Flash Loan / Logic Bug
+Scenario: Third exploit in 8 months for the Avalanche-based protocol. Flash loan used to manipulate pool state.
+Reference: https://rekt.news/platypus-rekt2/
+
+---
+Protocol: Fantom Foundation (Nightmare)
+Date: Oct 17, 2023
+Loss: $7,500,000
+Vector: Private Key Compromise / Admin Breach
+Scenario: Multiple associated admin wallets were compromised, siphoning funds from Foundation and team accounts.
+Reference: https://rekt.news/nightmare-ftm/
+
+---
+Protocol: LastPass Users
+Date: Oct 25, 2023
+Loss: $37,000,000
+Vector: Seed Phrase Theft / Password Manager Breach
+Scenario: Slow-burn draining of hundreds of wallets linked to seed phrases stored in compromised LastPass vaults.
+Reference: https://rekt.news/lastpass-users-rekt/
+
+---
+Protocol: Onyx Protocol
+Date: Oct 31, 2023
+Loss: $2,100,000
+Vector: Precision Loss / Empty Market Attack (Compound v2 Fork)
+Scenario: Attacker manipulated an empty PEPE market by inflating share prices via donation, then borrowed against overvalued collateral.
+Reference: https://rekt.news/onyx-protocol-rekt/
+
+---
+Protocol: Unibot
+Date: Oct 31, 2023
+Loss: $640,000
+Vector: Logic Bug / Arbitrary Call
+Scenario: Vulnerability in a new router contract allowed an attacker to drain funds from users who had granted infinite approvals.
+Reference: https://rekt.news/unibot-rekt/
+
+---
+Protocol: Poloniex
+Date: Nov 10, 2023
+Loss: $126,000,000
+Vector: Private Key Compromise / Off-chain Phishing
+Scenario: Hot wallets were drained across ETH, TRON, and BTC. Attributed to Lazarus Group phishing campaigns targeting employees.
+Reference: https://rekt.news/poloniex-rekt/
+
+---
+Protocol: Raft
+Date: Nov 10, 2023
+Loss: $3,300,000
+Vector: Infinite Mint / Collateral Inflation
+Scenario: Attacker inflated collateral value via flash loan and liquidations to mint 6.7M R tokens. Attacker self-rekt by sending profits to the null address due to a delegatecall error.
+Reference: https://rekt.news/raft-rekt/
+
+---
+Protocol: dYdX
+Date: Nov 17, 2023
+Loss: $9,000,000
+Vector: Market Manipulation / Insurance Fund Drain
+Scenario: Targeted attack on the YFI market to trigger liquidations and drain 40% of the v3 insurance fund.
+Reference: https://rekt.news/dydx-rekt/
+
+---
+Protocol: Kronos Research
+Date: Nov 18, 2023
+Loss: $26,000,000
+Vector: API Key Compromise
+Scenario: Unauthorized access to API keys led to the draining of exchange accounts. Kronos was the largest LP for Woo X, causing liquidity issues there.
+Reference: https://rekt.news/kronos-rekt/
+
+---
+Protocol: HECO Bridge, HTX
+Date: Nov 22, 2023
+Loss: $99,100,000
+Vector: Operator Role Compromise
+Scenario: Compromised operator account withdrew funds from the HECO bridge. HTX hot wallets were also drained simultaneously.
+Reference: https://rekt.news/heco-htx-rekt/
+
+---
+Protocol: KyberSwap
+Date: Nov 22, 2023
+Loss: $48,000,000
+Vector: Tick Manipulation / Double Liquidity Counting
+Scenario: Highly engineered exploit on concentrated liquidity pools using flash loans to push prices into empty regions and tricking code into double-counting liquidity.
+Reference: https://rekt.news/kyberswap-rekt/
+
+---
+Protocol: Hypr Network
+Date: Dec 12, 2023
+Loss: $220,000
+Vector: Contract Reinitialization / Modifier Bug (OP Stack Fork)
+Scenario: Attacker bypassed withdrawal checks by reinitializing the bridge contract due to a vulnerability in an unpatched OP Stack develop branch.
+Reference: https://rekt.news/hypr-network-rekt/
+
+---
+Protocol: OKX DEX
+Date: Dec 13, 2023
+Loss: $2,700,000
+Vector: Proxy Admin Compromise / Malicious Upgrade
+Scenario: Proxy admin compromised, implementation upgraded to a malicious version that siphoned funds from users who had approved the proxy.
+Reference: https://rekt.news/okx-dex-rekt/
+
+---
+Protocol: Levana Protocol
+Date: Dec 27, 2023
+Loss: $1,100,000
+Vector: Oracle Manipulation
+Scenario: Congestion-based oracle manipulation attack that targeted price feed lags over a two-week period.
+Reference: https://rekt.news/levana-rekt/
+
+---
+Protocol: Orbit Bridge
+Date: Dec 31, 2023
+Loss: $81,500,000
+Vector: Cross-Chain Message Forgery
+Scenario: Ethereum bridge was drained of $81.5M after an attacker forged withdrawal messages.
+Reference: https://rekt.news/orbit-bridge-rekt/
+
+---
+Protocol: Radiant Capital
+Date: Jan 3, 2024
+Loss: $4,500,000
+Vector: Precision Loss / Rounding Bug
+Scenario: Forked code from Aave v2. Attacker exploited a rounding bug during a period of high utilization.
+Reference: https://rekt.news/radiant-capital-rekt/
+
+---
+Protocol: Gamma Strategies
+Date: Jan 4, 2024
+Loss: $4,500,000
+Vector: Flash Loan / Price Manipulation
+Scenario: Exploited for $4.5M on Arbitrum via a flash loan that manipulated concentrated liquidity pool settings.
+Reference: https://rekt.news/gamma-strategies-rekt/
+
+---
+Protocol: Socket (Bungee)
+Date: Jan 16, 2024
+Loss: $3,300,000
+Vector: Arbitrary Call / Approval Exploit
+Scenario: Infinite approvals on the Bungee bridge were exploited via a malicious call that allowed the attacker to drain user funds from wallets that had approved the contract.
+Reference: https://rekt.news/socket-rekt/
+
+---
+Protocol: Abracadabra
+Date: Jan 30, 2024
+Loss: $6,500,000
+Vector: Precision Loss / Liquidation Loophole
+Scenario: Two cauldrons were drained due to a precision loss vulnerability that siphoned $6.5M.
+Reference: https://rekt.news/abra-rekt/
+
+---
+Protocol: Seneca Protocol
+Date: Feb 28, 2024
+Loss: $6,400,000
+Vector: Arbitrary Call / Bad Access Control
+Scenario: Attackers siphoned $6.4M from user wallets due to an arbitrary call vulnerability. 80% was returned.
+Reference: https://rekt.news/seneca-protocol-rekt/
+
+---
+Protocol: WooFi
+Date: March 5, 2024
+Loss: $8,500,000
+Vector: Flash Loan / Price Manipulation (Oracle)
+Scenario: Attack on Arbitrum using flash loans to manipulate the swap price of sPXETH.
+Reference: https://rekt.news/woo-rekt/
+
+---
+Protocol: Unizen
+Date: March 8, 2024
+Loss: $2,100,000
+Vector: Arbitrary Call / Contract Upgrade Bug
+Scenario: Exploit occurred shortly after a contract upgrade to their DEX aggregation contract, allowing arbitrary transfer calls.
+Reference: https://rekt.news/unizen-rekt/
+
+---
+Protocol: Slerf
+Date: March 18, 2024
+Loss: $10,000,000
+Vector: Operational Error / Burn Address Incident
+Scenario: Developer accidentally burned the LP and the tokens intended for the airdrop, resulting in a total loss of investor funds.
+Reference: https://rekt.news/slerf-rekt/
+
+---
+Protocol: Super Sushi Samurai
+Date: March 21, 2024
+Loss: $4,800,000
+Vector: Self-Transfer / Double-Spend Logic
+Scenario: Token contract had a bug where transferring to oneself doubled the balance. Drained the entire LP. Funds were later returned as it was a whitehat action.
+Reference: https://rekt.news/sss-rekt/
+
+---
+Protocol: Curio
+Date: March 23, 2024
+Loss: $16,000,000
+Vector: Voting Power Privilege Exploit (MakerDAO Fork)
+Scenario: Attacker exploited a vulnerability in the voting power logic to mint tokens worth $16M.
+Reference: https://rekt.news/curio-rekt/
+
+---
+Protocol: Munchables
+Date: March 26, 2024
+Loss: $62,500,000
+Vector: Rogue Developer / In-house Exploit
+Scenario: A rogue developer built a backdoor and exploited it. Funds were retrieved after the developer returned them.
+Reference: https://rekt.news/munchables-rekt/
+
+---
+Protocol: PrismaFi
+Date: March 28, 2024
+Loss: $11,600,000
+Vector: Flash Loan / Logic Bug
+Scenario: Attacker manipulated the wstETH vault via a flash loan exploit, draining 3258 wstETH.
+Reference: https://rekt.news/prismafi-rekt/
+
+---
+Protocol: Grand Base
+Date: April 15, 2024
+Loss: $2,000,000
+Vector: Private Key Compromise (Deployer Wallet)
+Scenario: Deployer wallet private key leak led to a $2M exploit across the RWA protocol on Base.
+Reference: https://rekt.news/grand-base/
+
+---
+Protocol: Hedgey Finance
+Date: April 19, 2024
+Loss: $44,700,000
+Vector: Flash Loan / Logic Bug
+Scenario: Dual-protocol attack on Arbitrum and Ethereum involving flash loans that exploited the project's token vesting logic.
+Reference: https://rekt.news/hedgey-finance-rekt/
+
+---
+Protocol: ZKasino
+Date: April 20, 2024
+Loss: $33,000,000
+Vector: Rugpull / Bridge Custody Malice
+Scenario: Team rugged investors by diverting $33M in bridged funds to their own wallets instead of returning them to users.
+Reference: https://rekt.news/zkasino-rekt/
+
+---
+Protocol: Pike Finance
+Date: April 30, 2024
+Loss: $1,900,000
+Vector: Storage Dependency Vulnerability
+Scenario: Multiple attacks originating from a storage-level vulnerability that allowed hackers to bypass logic checks.
+Reference: https://rekt.news/pike-rekt/
+
+---
+Protocol: Sonne Finance
+Date: May 14, 2024
+Loss: $20,000,000
+Vector: Flash Loan / Precision Loss (C-Token Fork)
+Scenario: Exploit involving tick manipulation and flash loans across multiple chains.
+Reference: https://rekt.news/sonne-finance-rekt/
+
+---
+Protocol: AlexLab (Rekt I)
+Date: May 15, 2024
+Loss: $4,300,000
+Vector: Private Key Compromise (Bridge Account)
+Scenario: Compromised key for the XLink bridge on the BNB network.
+Reference: https://rekt.news/alexlab-rekt/
+
+---
+Protocol: Gala Games
+Date: May 20, 2024
+Loss: $216,000,000
+Vector: Admin Key Compromise / Minting Exploit
+Scenario: Attacker seized control of an admin address to mint 5 billion GALA tokens. Drained $21.8M before being blacklisted.
+Reference: https://rekt.news/gala-games-rekt/
+
+---
+Protocol: DMM Bitcoin
+Date: May 31, 2024
+Loss: $304,000,000
+Vector: Private Key Compromise (Hot Wallet)
+Scenario: Japanese exchange DMM Bitcoin had 4500 BTC drained from its hot wallets in one of the largest heists in history.
+Reference: https://rekt.news/dmm-rekt/
+
+---
+Protocol: Velocore
+Date: June 2, 2024
+Loss: $6,800,000
+Vector: Precision Loss / CPMM Exploit
+Scenario: L2 DEX on Linea and zkSync exploited for $6.8M due to a vulnerability in its Constant Product Market Maker logic.
+Reference: https://rekt.news/velocore-rekt/
+
+---
+Protocol: UwU Lend
+Date: June 10, 2024
+Loss: $19,300,000
+Vector: Oracle Manipulation (Price Feed Lag)
+Scenario: Attacker manipulated the price of sUSDe using a flash loan exploit on the oracle price feed.
+Reference: https://rekt.news/uwulend-rekt/
+
+---
+Protocol: CertiK / Kraken
+Date: June 19, 2024
+Loss: $3,000,000
+Vector: Logic Bug / Bounty Dispute
+Scenario: CertiK exploited a critical bug in Kraken's system to withdraw $3M as part of a bounty test, leading to accusations of extortion. Funds were later returned.
+Reference: https://rekt.news/certik-kraken-rekt/
+
+---
+Protocol: Bittensor
+Date: July 2, 2024
+Loss: $8,000,000
+Vector: Supply Chain Attack / PyPi Package Compromise
+Scenario: Compromised PyPi package used by validators led to a private key leak and $8M being drained from wallets.
+Reference: https://rekt.news/bittensor-rekt/
+
+---
+Protocol: Li.Fi (Jumper)
+Date: July 16, 2024
+Loss: $9,730,000
+Vector: Infinite Approval / Arbitrary Call
+Scenario: Multiple chain exploit draining addresses that had approved infinite permissions to a vulnerable implementation contract.
+Reference: https://rekt.news/lifi-jumper-rekt/
+
+---
+Protocol: WazirX
+Date: July 18, 2024
+Loss: $235,000,000
+Vector: Multisig Compromise / Blind Signing
+Scenario: India's largest exchange had its Safe multisig breached. 45% of customer assets ($235M) were drained. Attributed to Lazarus Group.
+Reference: https://rekt.news/wazirx-rekt/
+
+---
+Protocol: Rho Market
+Date: July 19, 2024
+Loss: $7,600,000
+Vector: Oracle Misconfiguration / MEV Bot
+Scenario: Oracle was misconfigured, allowing an alert MEV bot to seize $7.6M. Funds were later returned by the bot operator.
+Reference: https://rekt.news/rho-market-rekt/
+
+---
+Protocol: ETHTrustFund
+Date: July 20, 2024
+Loss: $2,100,000
+Vector: Rugpull / Malicious Deployment
+Scenario: Exit scam on Base Network where developers drained $2.1M from investor pools.
+Reference: https://rekt.news/ethtrustfund-rekt/
+
+---
+Protocol: Astroport
+Date: July 30, 2024
+Loss: $6,400,000
+Vector: Re-entrancy / Logic Reintroduction
+Scenario: Known and patched vulnerability from April was accidentally reintroduced in a June upgrade on the Terra network.
+Reference: https://rekt.news/astroport-rekt/
+
+---
+Protocol: Ronin Network (Rekt II)
+Date: Aug 6, 2024
+Loss: $12,000,000
+Vector: Admin Oversight / Contract Upgrade Logic
+Scenario: Bridge exploit due to a critical oversight in a contract upgrade. Whitehat returned most funds.
+Reference: https://rekt.news/roninnetwork-rektII/
+
+---
+Protocol: Radiant Capital (Rekt II)
+Date: Oct 16, 2024
+Loss: $53,000,000
+Vector: Multisig Compromise / Malware Infection
+Scenario: Radiant's 3/11 multisig was compromised after several signers were infected with malware. High-profile failure of intended robust security.
+Reference: https://rekt.news/radiant-capital-rekt2/
+
+---
+Protocol: Tapioca DAO
+Date: Oct 18, 2024
+Loss: $4,400,000
+Vector: Private Key Compromise
+Scenario: Private key compromise on Arbitrum led to a $4.4M loss. Some funds recovered.
+Reference: https://rekt.news/tapioca-dao-rekt/
+
+---
+Protocol: M2 Exchange
+Date: Oct 31, 2024
+Loss: $13,700,000
+Vector: Private Key Compromise (Hot Wallet)
+Scenario: Hot wallets drained across multiple chains. Attacker siphoned $13.7M.
+Reference: https://rekt.news/m2-exchange-rekt/
+
+---
+Protocol: DeltaPrime (Rekt II)
+Date: Nov 11, 2024
+Loss: $4,850,000
+Vector: Admin Key Compromise / Persistence
+Scenario: Second hack in two months. Attacker exploited admin keys again after project failed to secure them following the first incident.
+Reference: https://rekt.news/deltaprime-rekt2/
+
+---
+Protocol: Clober DEX
+Date: Nov 12, 2024
+Loss: $500,000
+Vector: Logic Bug / Unaudited Change
+Scenario: Exploit caused by a code change (re-introducing an old vulnerability) made after the primary audit.
+Reference: https://rekt.news/cloberdex-rekt/
+
+---
+Protocol: GemPad
+Date: Nov 14, 2024
+Loss: $1,900,000
+Vector: Reentrancy
+Scenario: Missing reentrancy guards on the token locking contract allowed an attacker to drain $1.9M across three chains.
+Reference: https://rekt.news/gempad-rekt/
+
+---
+Protocol: Orange Finance
+Date: Jan 5, 2025
+Loss: $843,500
+Vector: Fake Multi-sig / Key Leak
+Scenario: First significant hack of 2025. Multi-sig was actually a uni-sig. Key leak led to protocol rot.
+Reference: https://rekt.news/orange-finance-rekt/
+
+---
+Protocol: Moby Trade
+Date: Jan 15, 2025
+Loss: $1,000,000
+Vector: Private Key Compromise
+Scenario: Compromised key led to $1M loss, though whitehats rescued $1.47M.
+Reference: https://rekt.news/mobytrade-rekt/
+
+---
+Protocol: zkLend
+Date: Feb 12, 2025
+Loss: $9,570,000
+Vector: Rounding Error
+Scenario: Rounding error bled $9.57M from Starknet vaults. Attacker ignored Valentine's Day bounty.
+Reference: https://rekt.news/zklend-rekt/
+
+---
+Protocol: Ionic Money (formerly Midas)
+Date: Feb 15, 2025
+Loss: $6,900,000
+Vector: Counterfeit Collateral / Social Engineering
+Scenario: Accepted fake LBTC as collateral. Exploited 3 times (twice as Midas).
+Reference: https://rekt.news/ionic-money-rekt/
+
+---
+Protocol: ByBit
+Date: Feb 20, 2025
+Loss: $1,430,000,000
+Vector: Blind Signing / Social Engineering (Lazarus)
+Scenario: Largest heist on Rekt leaderboard. Multisig signers saw legitimate transactions while signing away keys.
+Reference: https://rekt.news/bybit-rekt/
+
+---
+Protocol: 1inch
+Date: March 5, 2025
+Loss: $5,000,000
+Vector: Integer Underflow
+Scenario: Resolver contracts transformed into an ATM via an integer underflow exploit with a negative 512 value.
+Reference: https://rekt.news/1inch-rekt/
+
+---
+Protocol: Zoth
+Date: March 21, 2025
+Loss: $8,400,000
+Vector: Admin Key Theft / Malicious Upgrade
+Scenario: Second hack in 3 weeks. Malicious contract upgrade enabled after keys were stolen.
+Reference: https://rekt.news/zoth-rekt/
+
+---
+Protocol: Abracadabra (Rekt II)
+Date: March 25, 2025
+Loss: $13,000,000
+Vector: Liquidation Loophole / Phantom Collateral
+Scenario: Vanished $13M from cauldrons after hackers exploited a ghost collateral bug.
+Reference: https://rekt.news/abracadabra-rekt2/
+
+---
+Protocol: SIR Trading
+Date: March 30, 2025
+Loss: $355,000
+Vector: Transient Storage Collision
+Scenario: Flawless mathematical heist using a transient storage collision. Bypassed security checks via a vanity address.
+Reference: https://rekt.news/sirtrading-rekt/
+
+---
+Protocol: KiloEx
+Date: April 14, 2025
+Loss: $7,500,000
+Vector: Signature Verification Failure
+Scenario: MinimalForwarder contract accepted any forged signature without verification. Multi-chain attack hit Base, BNB, opBNB, Taiko, and Manta.
+Reference: https://rekt.news/kiloex-rekt/
+
+---
+Protocol: Loopscale
+Date: April 26, 2025
+Loss: $5,800,000
+Vector: Oracle Manipulation
+Scenario: Basic oracle manipulation 16 days after launch. Funds were eventually returned after negotiations.
+Reference: https://rekt.news/loopscale-rekt/
+
+---
+Protocol: MobiusDAO
+Date: May 11, 2025
+Loss: $2,150,000
+Vector: Double-decimal Inflation Bug
+Scenario: 67 cents minted 9.73 quadrillion MBU tokens via a math error. Vanished through Tornado Cash.
+Reference: https://rekt.news/mobiusdao-rekt/
+
+---
+Protocol: LNDFi
+Date: May 15, 2025
+Loss: $1,180,000
+Vector: Admin Key Leak / Backdoor
+Scenario: Quiet backdoor in contracts enabled after admin keys were leaked. Blamed North Korea.
+Reference: https://rekt.news/LNDFi-rekt/
+
+---
+Protocol: Zunami Protocol (Rekt II)
+Date: May 15, 2025
+Loss: $500,000
+Vector: Admin Key Exploit
+Scenario: Mid-May exploit enabled by stagnant development and admin key control. Team offered weak excuses.
+Reference: https://rekt.news/zunami-protocol-rekt2/
+
+---
+Protocol: Cetus
+Date: May 22, 2025
+Loss: $223,000,000
+Vector: Broken Math / Logic Error
+Scenario: $223M drained from Cetus on Sui through broken math logic. $60M siphoned across Wormhole.
+Reference: https://rekt.news/cetus-rekt/
+
+---
+Protocol: Cork Protocol
+Date: May 28, 2025
+Loss: $12,000,000
+Vector: Counterfeit Contracts / Fake Tokens
+Scenario: Built to hedge depeg risk, but depegged from reality by trusting fake token contracts.
+Reference: https://rekt.news/cork-protocol-rekt/
+
+---
+Protocol: Force Bridge
+Date: June 2, 2025
+Loss: $3,760,000
+Vector: Admin Key Timing / Control
+Scenario: Attack happened day after announcing its own funeral. Control-based exploit rather than a bug.
+Reference: https://rekt.news/force-bridge-rekt/
+
+---
+Protocol: AlexLab (Rekt II)
+Date: June 6, 2025
+Loss: $16,100,000
+Vector: Logic Error / Vault Manipulation
+Scenario: Fake signatures/permissions tricked vaults into allowing a $16M drain. Followed a key leak the previous year.
+Reference: https://rekt.news/alexlab-rekt2/
+
+---
+Protocol: Hacken
+Date: June 21, 2025
+Loss: $170,000
+Vector: Bridge Key Leak / Mint & Dump
+Scenario: Security firm's own bridge key leaked. Attacker minted 900M tokens and dumped them, causing a 99% crash.
+Reference: https://rekt.news/hacken-rekt/
+
+---
+Protocol: ResupplyFi
+Date: June 26, 2025
+Loss: $9,800,000
+Vector: Exchange Rate Manipulation (1 wei shares)
+Scenario: Manipulated exchange rate to zero using a pocket change donation. Drained market using 1 wei of worthless shares as collateral.
+Reference: https://rekt.news/resupplyfi-rekt/
+
+---
+Protocol: GMX
+Date: July 9, 2025
+Loss: $42,000,000
+Vector: Cross-contract Reentrancy
+Scenario: A 2022 bug fix introduced a cross-contract reentrancy exploit on GMX V1. Funds were eventually recovered after a $5M bounty.
+Reference: https://rekt.news/gmx-rekt/
+
+---
+Protocol: ArcadiaFi
+Date: July 15, 2025
+Loss: $3,600,000
+Vector: Arbitrary Calls / Crafted swapData
+Scenario: Attacker used crafted swapData to trigger arbitrary calls through a trusted rebalancer contract.Drained funds during a pause cooldown.
+Reference: https://rekt.news/arcadiafi-rekt/
+
+---
+Protocol: BigONE
+Date: July 16, 2025
+Loss: $27,000,000
+Vector: Supply Chain Attack / Withdrawal Logic
+Scenario: Attackers compromised production servers and reprogrammed withdrawal systems to approve unauthorized drains.
+Reference: https://rekt.news/bigone-rekt/
+
+---
+Protocol: CoinDCX
+Date: July 20, 2025
+Loss: $44,300,000
+Vector: Coordinated Access Control Breach
+Scenario: Massive $44M drain. Team stayed silent for 17 hours until forced to announce by external researchers.
+Reference: https://rekt.news/coindcx-rekt/
+
+---
+Protocol: WOO X
+Date: July 24, 2025
+Loss: $14,000,000
+Vector: Phishing / Device Compromise
+Scenario: Phishing attack on a team member's device gave hackers access to wallets. Third strike for the WOO ecosystem.
+Reference: https://rekt.news/woox-rekt/
+
+---
+Protocol: CrediX
+Date: Aug 4, 2025
+Loss: $4,500,000
+Vector: Admin Account Compromise / Phantom Collateral
+Scenario: Compromised admin account minted worthless acUSDC tokens and borrowed $4.5M against them.
+Reference: https://rekt.news/credix-rekt/
+
+---
+Protocol: Odin.Fun
+Date: Aug 12, 2025
+Loss: $7,000,000
+Vector: AMM Manipulation
+Scenario: Textbook AMM manipulation. Third breach in six months for the protocol.
+Reference: https://rekt.news/odin-fun-rekt/
+
+---
+Protocol: BtcTurk
+Date: Aug 14, 2025
+Loss: $51,700,000
+Vector: Private Key Breach
+Scenario: Repeat offender. Lost $55M in June 2024 to a key breach, now $51.7M gone again through similar means.
+Reference: https://rekt.news/btcturk-rekt/
+
+---
+Protocol: The Idols NFT
+Date: Aug 20, 2025
+Loss: $324,000
+Vector: Business Logic Flaw (Self-Transfer)
+Scenario: Flaw in reflections allowed an attacker to drain rewards by setting sender and receiver to the same address.
+Reference: https://rekt.news/theidolsnft-rekt/
+
+---
+Protocol: BetterBank
+Date: Aug 26, 2025
+Loss: $5,000,000
+Vector: Incentive Flaw / Reward Logic
+Scenario: Catastrophic loss caused by a simple incentive flaw in the protocol's reward logic just 3 weeks after launch.
+Reference: https://rekt.news/betterbank-rekt/
+
+---
+Protocol: Abracadabra (Rekt III)
+Date: Oct 4, 2025
+Loss: $1,800,000
+Vector: Deprecated Cauldron / Uncollateralized Borrowing
+Scenario: Deprecated contracts let anyone flip a flag and borrow uncollateralized MIM.
+Reference: https://rekt.news/abracadabra-rekt3/
+
+---
+Protocol: GriffinAI
+Date: Oct 4, 2025
+Loss: $3,000,000
+Vector: LayerZero Peer Exploit / Bridge Money Printer
+Scenario: Attacker minted 5 billion $GAIN tokens. 97.2% of loot remains in attacker's wallet.
+Reference: https://rekt.news/griffinai-rekt/
+
+---
+Protocol: Infini
+Date: Oct 10, 2025
+Loss: $49,500,000
+Vector: Rogue Developer / Admin Backdoor
+Scenario: A developer built a backdoor and waited 114 days before draining funds using admin privileges.
+Reference: https://rekt.news/infini-rekt/
+
+---
+Protocol: Aevo (formerly Ribbon Finance)
+Date: Oct 20, 2025
+Loss: $2,700,000
+Vector: Proxy Admin Vulnerability / Oracle Hijack
+Scenario: Dead code in old vaults allowed a proxy admin vulnerability. Attacker hijacked the oracle to rig prices and drained the contract in one atomic loop.
+Reference: https://rekt.news/aevo-rekt/
+
+---
+Protocol: Balancer II
+Date: Nov 20, 2025
+Loss: $128,000,000
+Vector: Precision Loss / Copy-paste bug
+Scenario: A rounding function error drained $128M across multiple chains. Highlighted the risk of "battle-tested" code containing copy-pasted precision bugs.
+Reference: https://rekt.news/balancer-rekt2/
+
+---
+Protocol: Libra II
+Date: Nov 20, 2025
+Loss: $61,500,000
+Vector: Legal/Governance speed conflict
+Scenario: Judge unfroze funds allowing USDC to be flipped to SOL. Highlighted the conflict between legal speeds and blockchain execution.
+Reference: https://rekt.news/libra2/
+
+---
+Protocol: GANA Payment
+Date: Nov 20, 2025
+Loss: $3,100,000
+Vector: EIP-7702 delegation / Leaked Owner Keys
+Scenario: Exploited just 9 days after launch. BSC audit rates vs Ethereum highlighted as a factor.
+Reference: https://rekt.news/gana-payment-rekt/
+
+---
+Protocol: Yearn Finance (Rekt III)
+Date: Nov 30, 2025
+Loss: $9,000,000
+Vector: Unchecked Arithmetic Underflow / Legacy Code
+Scenario: A forgotten yETH pool was drained. Attacker minted 235 trillion tokens due to unchecked math in an abandoned product.
+Reference: https://rekt.news/yearn-rekt3/
+
+---
+Protocol: Palm USD (USPD)
+Date: Dec 4, 2025
+Loss: $1,050,000
+Vector: CPIMP (Front-running Initialization)
+Scenario: Attacker front-ran USPD's proxy deployment initialization (24-second gap).
+Reference: https://rekt.news/uspd-rekt/
+
+---
+Protocol: Yearn Finance (Rekt IV)
+Date: Dec 16, 2025
+Loss: $293,000
+Vector: Recycled logic flaw / Legacy debt
+Scenario: Attacker used a recycled 2023 error on old vaults. Highlighted the "Grave Robber" risk of dead code still being accessible.
+Reference: https://rekt.news/yearn-rekt4/

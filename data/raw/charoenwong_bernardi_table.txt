@@ -1,0 +1,47 @@
+Table 1. Notable Cryptocurrency Thefts 2011-2021
+The table below shows the summary of the 30 large cryptocurrency thefts over the past decade. For many situations, the exact date of the theft is either unknown
+or not disclosed. Therefore, we include the month which it occurred. BTC equivalent and USD equivalent are converted from the original stolen cryptocurrency at
+point-in-time prices using the end of the month BTC and USD values. In some cases where no direct pair-wise price is available, we consider a three-way conversion
+through BTC to USD using the mid-price as of the end of the month.
+No. Date Impetus Original Amount in Coin Stolen BTC equiv. USD equiv. Type
+1 June 2011 Mt.Gox Private Key Hack 2,643 BTC 2,643 30,000 Security Breach
+2 March 2014 Mt. Gox Transaction
+Malleability 850,000 BTC 850,000 460,000,000 Security Breach
+3 July 2014 Mintpal Hack 8,000,000 Vericoin 3,225 2,000,000 Security Breach
+4 January 2015 Bitstamp Malware Attack 19,000 BTC 19,000 5,100,000 Human Error
+5 August 2015 BTER Inside Job 7,170 BTC 7,170 1,750,000 Agency Problem
+6 May 2016 Gatecoin Hot Wallet Breach 250 BTC and 185,000 ETH 4,463 2,000,000 Security Breach
+7 August 2016 Bitfinex-BitGo Theft 119,756 BTC 119,756 66,000,000 Security Breach
+8 April 2017 Yapizon Hot Wallet Breach 3,816 BTC 3,816 5,300,000 Security Breach
+9 December 2017 NiceHash Payment
+Compromise 4,736 BTC 4,736 62,000,000 Security Breach
+10 January 2018 Coincheck Virus Hack 523,000,000 NEM 47,711 533,000,000 Human Error
+11 February 2018 Bitgrail Hack/Exit Scam 17,000,000 NANO 19,044 170,000,000 Security Breach
+12 April 2018 CoinSecure Inside Job 438 BTC 438 3,300,000 Agency Problem
+13 June 2018 Bithumb and Coinrail Theft 71,000,000 USD of XRP and ETH 10,394 71,000,000 Security Breach
+14 September 2018 Zaif Hot Wallet Breach 5,966 BTC, undisclosed BCH and
+MonaCoin 9,089 60,000,000 Security Breach
+15 December 2018 QuadrigaCX Theft 26,350 BTC or 130,000,000 USD 26,350 130,000,000 Agency Problem
+16 March 2019 Coinbene Inside Job 100,000,000 USD of HPT, NPSX,
+MXM, and UDOO 25,202 100,000,000 Agency Problem
+17 May 2019 Binance Hack 6,270 BTC 6,270 40,000,000 Human Error
+18 June 2019 Bitrue Hack 9,300,000 XRP and 2,500,000 ADA 361 3,900,000 Security Breach
+19 November 2019 Upbit Security Breach 342,000 ETH 6,771 51,000,000 Security Breach
+20 July 2020 Cashaa Malware Hack 336 BTC 336 3,100,000 Human Error
+21 September 2020 KuCoin Security Breach 281,000,000 USD of BTC and ETH 26,137 281,000,000 Security Breach
+22 December 2020 EXMO Security Breach 10,500,000 USD of BTC, XRP, ZEC,
+ETC and ETH 422 10,500,000 Security Breach
+23 June 2021 Africrypt Hack 69,000 BTC 69,000 3,600,000,000 Agency Problem
+24 August 2021 Poly Network Hack 600,000,000 USD of USDC,BTC and
+ETH 12,964 600,000,000 Security Breach
+25 August 2021 Liquid Hack 91,350,000 USD of BTC and ETH 1,941 91,350,000 Security Breach
+26 October 2021 Cream Finance Hack 130,000,000 USD of ETH and its
+derivatives 2,102 130,000,000 Security Breach
+27 November 2021 Boy x Highspeed Theft 139,000,000 USD of various
+cryptocurrencies 2,404 139,000,000 Human Error
+28 December 2021 Badger DAO Hack 120,000,000 USD of BTC and ETH 2,544 120,000,000 Security Breach
+29 December 2021 Bitmart Security Breach 196,000,000 USD of ERC-20 tokens
+and BSC tokens 4,155 196,000,000 Security Breach
+30 December 2021 AscendEX Security Breach 77,700,000 USD of ERC-20, BSC,
+and Polygon tokens 1,647 77,700,000 Security Breach
+Total Amount Stolen 1,289,886 7,015,030,000
