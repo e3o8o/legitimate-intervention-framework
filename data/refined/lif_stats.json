@@ -1,15 +1,15 @@
 {
   "summary": {
-    "total_exploits": 759,
-    "total_loss_usd": 91304427722.0,
-    "ncf_relevant_exploits": 435,
-    "ncf_relevant_loss_usd": 10755741502.0,
+    "total_exploits": 763,
+    "total_loss_usd": 91317759722.0,
+    "lif_relevant_exploits": 439,
+    "lif_relevant_loss_usd": 10769073502.0,
     "top_protocol": "Terra / Luna",
     "date_range": {
       "start": "2014-03-01",
-      "end": "2025-12-16"
+      "end": "2025-12-27"
     },
-    "generated_at": "2025-12-22T18:27:19.266415"
+    "generated_at": "2026-01-17T01:49:29.811598"
   },
   "top_10_exploits": [
     {
@@ -18,7 +18,7 @@
       "date": "2022-05-09T00:00:00",
       "vector_category": "Economic / Systemic Failure",
       "chain": "Terra",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Celsius",
@@ -26,7 +26,7 @@
       "date": "2022-06-13T00:00:00",
       "vector_category": "Economic / Systemic Failure",
       "chain": "CeFi",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Mantra",
@@ -34,7 +34,7 @@
       "date": "2025-04-13T00:00:00",
       "vector_category": "Uncategorized",
       "chain": "Multi-chain / Unknown",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Iron Finance",
@@ -42,7 +42,7 @@
       "date": "2021-06-16T00:00:00",
       "vector_category": "Economic / Systemic Failure",
       "chain": "Multi-chain / Unknown",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Bybit",
@@ -50,7 +50,7 @@
       "date": "2025-02-21T00:00:00",
       "vector_category": "Blind Signing / Social Engineering (Lazarus)",
       "chain": "CeFi",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Fei Protocol",
@@ -58,7 +58,7 @@
       "date": "2021-04-03T00:00:00",
       "vector_category": "Economic / Systemic Failure",
       "chain": "Multi-chain / Unknown",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Voyager",
@@ -66,7 +66,7 @@
       "date": "2022-05-07T00:00:00",
       "vector_category": "Uncategorized",
       "chain": "CeFi",
-      "is_ncf_relevant": false
+      "is_lif_relevant": false
     },
     {
       "protocol": "Beauty Chain",
@@ -74,7 +74,7 @@
       "date": "2018-04-22T00:00:00",
       "vector_category": "Logic Bug / Code Error",
       "chain": "Ethereum",
-      "is_ncf_relevant": true
+      "is_lif_relevant": true
     },
     {
       "protocol": "Ronin",
@@ -82,7 +82,7 @@
       "date": "2022-03-29T00:00:00",
       "vector_category": "Access Control / Key Compromise",
       "chain": "Multi-chain / Unknown",
-      "is_ncf_relevant": true
+      "is_lif_relevant": true
     },
     {
       "protocol": "Ronin",
@@ -90,7 +90,7 @@
       "date": "2022-03-23T00:00:00",
       "vector_category": "Access Control / Key Compromise",
       "chain": "Multi-chain / Unknown",
-      "is_ncf_relevant": true
+      "is_lif_relevant": true
     }
   ],
   "yearly_losses": {
@@ -104,7 +104,7 @@
     "2022": "66891970603.0",
     "2023": "2204856723.0",
     "2024": "2198227032.0",
-    "2025": "9500782500.0"
+    "2025": "9514114500.0"
   },
   "cumulative_losses": {
     "2014": "462000000.0",
@@ -117,12 +117,12 @@
     "2022": "77400561467.0",
     "2023": "79605418190.0",
     "2024": "81803645222.0",
-    "2025": "91304427722.0"
+    "2025": "91317759722.0"
   },
   "vector_distribution": {
-    "Logic Bug / Code Error": 170,
+    "Logic Bug / Code Error": 172,
     "Uncategorized": 160,
-    "Access Control / Key Compromise": 150,
+    "Access Control / Key Compromise": 151,
     "Oracle / Price Manipulation": 51,
     "Flash Loan / Economic Exploit": 41,
     "Phishing / Social Engineering": 30,
@@ -134,7 +134,7 @@
     "Slippage": 4,
     "Bridge Attack": 4,
     "Storage Collision": 3,
-    "Weak RNG": 2
+    "Flash Loan / Oracle Manipulation": 2
   },
   "chain_distribution": {
     "Terra": "40000000000.0",
@@ -145,8 +145,8 @@
     "BSC": "274376902.0",
     "Polygon": "215422000.0",
     "Arbitrum": "32629000.0",
-    "Avalanche": "8840000.0",
-    "Fantom": "8700000.0"
+    "Gnosis": "11100000.0",
+    "Avalanche": "8840000.0"
   },
   "external_data": {
     "charoenwong": {
@@ -243,14 +243,15 @@
           ]
         }
       },
-      "source": "NCF Case Studies Analysis"
+      "source": "LIF Case Studies Analysis"
     }
   },
   "data_sources": [
     "charoenwong_bernardi_table.txt",
     "rekt_database_raw.txt",
     "rekt_news_extra.txt",
-    "defihacklabs_incidents.json"
+    "defihacklabs_incidents.json",
+    "manual_q4_2025_urls"
   ],
   "monthly_trends_2024_2025": {
     "2024-01": "327720253.0",
@@ -275,7 +276,7 @@
     "2025-08": "164151000.0",
     "2025-09": "184440000.0",
     "2025-10": "57146000.0",
-    "2025-11": "322700000.0",
-    "2025-12": "10343000.0"
+    "2025-11": "322732000.0",
+    "2025-12": "23643000.0"
   }
 }
