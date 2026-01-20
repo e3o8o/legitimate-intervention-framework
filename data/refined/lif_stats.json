@@ -1,15 +1,15 @@
 {
   "summary": {
-    "total_exploits": 763,
-    "total_loss_usd": 91317759722.0,
-    "lif_relevant_exploits": 439,
-    "lif_relevant_loss_usd": 10769073502.0,
+    "total_exploits": 767,
+    "total_loss_usd": 91352195722.0,
+    "lif_relevant_exploits": 442,
+    "lif_relevant_loss_usd": 10799809502.0,
     "top_protocol": "Terra / Luna",
     "date_range": {
       "start": "2014-03-01",
-      "end": "2025-12-27"
+      "end": "2026-01-13"
     },
-    "generated_at": "2026-01-17T01:49:29.811598"
+    "generated_at": "2026-01-20T17:45:04.958800"
   },
   "top_10_exploits": [
     {
@@ -278,5 +278,24 @@
     "2025-10": "57146000.0",
     "2025-11": "322732000.0",
     "2025-12": "23643000.0"
+  },
+  "intervention_metrics": {
+    "total_cases": 28,
+    "by_scope": {
+      "Account": 3,
+      "Asset": 5,
+      "Module": 4,
+      "Network": 6,
+      "Protocol": 10
+    },
+    "by_authority": {
+      "Delegated Body": 5,
+      "Governance": 7,
+      "None (expired)": 1,
+      "Signer Set": 15
+    },
+    "total_loss_usd": 3558882000,
+    "total_prevented_usd": 1313100000,
+    "generated_at": "2026-01-20T17:24:28.124995"
   }
 }
