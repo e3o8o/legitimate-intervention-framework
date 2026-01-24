@@ -1,15 +1,16 @@
 {
   "summary": {
-    "total_exploits": 767,
-    "total_loss_usd": 91352195722.0,
-    "lif_relevant_exploits": 442,
-    "lif_relevant_loss_usd": 10799809502.0,
+    "total_exploits": 692,
+    "total_loss_usd": 61051821474.0,
+    "lif_relevant_exploits": 402,
+    "lif_relevant_loss_usd": 8781254178.0,
     "top_protocol": "Terra / Luna",
     "date_range": {
       "start": "2014-03-01",
-      "end": "2026-01-13"
+      "end": "2025-12-27"
     },
-    "generated_at": "2026-01-20T17:45:04.958800"
+    "generated_at": "2026-01-24T12:18:41.502611",
+    "corrections_applied": "Removed Celsius (CeFi insolvency, not hack), Iron Finance confirmed as $2B systemic collapse"
   },
   "top_10_exploits": [
     {
@@ -21,27 +22,11 @@
       "is_lif_relevant": false
     },
     {
-      "protocol": "Celsius",
-      "loss_usd": 20000000000.0,
-      "date": "2022-06-13T00:00:00",
-      "vector_category": "Economic / Systemic Failure",
-      "chain": "CeFi",
-      "is_lif_relevant": false
-    },
-    {
-      "protocol": "Mantra",
-      "loss_usd": 5500000000.0,
-      "date": "2025-04-13T00:00:00",
-      "vector_category": "Uncategorized",
-      "chain": "Multi-chain / Unknown",
-      "is_lif_relevant": false
-    },
-    {
       "protocol": "Iron Finance",
       "loss_usd": 2000000000.0,
       "date": "2021-06-16T00:00:00",
       "vector_category": "Economic / Systemic Failure",
-      "chain": "Multi-chain / Unknown",
+      "chain": "Multi-chain",
       "is_lif_relevant": false
     },
     {
@@ -57,14 +42,14 @@
       "loss_usd": 1300000000.0,
       "date": "2021-04-03T00:00:00",
       "vector_category": "Economic / Systemic Failure",
-      "chain": "Multi-chain / Unknown",
+      "chain": "Multi-chain",
       "is_lif_relevant": false
     },
     {
       "protocol": "Voyager",
-      "loss_usd": 1000000000.0,
+      "loss_usd": 1100000000.0,
       "date": "2022-05-07T00:00:00",
-      "vector_category": "Uncategorized",
+      "vector_category": "Logic Bug / Code Error",
       "chain": "CeFi",
       "is_lif_relevant": false
     },
@@ -78,224 +63,96 @@
     },
     {
       "protocol": "Ronin",
-      "loss_usd": 625000000.0,
+      "loss_usd": 624000000.0,
       "date": "2022-03-29T00:00:00",
       "vector_category": "Access Control / Key Compromise",
-      "chain": "Multi-chain / Unknown",
+      "chain": "Multi-chain",
       "is_lif_relevant": true
     },
     {
-      "protocol": "Ronin",
-      "loss_usd": 624000000.0,
-      "date": "2022-03-23T00:00:00",
+      "protocol": "Poly Network",
+      "loss_usd": 611000000.0,
+      "date": "2021-08-10T00:00:00",
       "vector_category": "Access Control / Key Compromise",
-      "chain": "Multi-chain / Unknown",
+      "chain": "Multi-chain",
       "is_lif_relevant": true
+    },
+    {
+      "protocol": "BNB Bridge",
+      "loss_usd": 586000000.0,
+      "date": "2022-10-06T00:00:00",
+      "vector_category": "Logic Bug / Code Error",
+      "chain": "Multi-chain",
+      "is_lif_relevant": true
+    },
+    {
+      "protocol": "Mt. Gox",
+      "loss_usd": 460000000.0,
+      "date": "2014-03-01T00:00:00",
+      "vector_category": "Security Breach",
+      "chain": "CeFi",
+      "is_lif_relevant": false
     }
   ],
   "yearly_losses": {
-    "2014": "462000000.0",
-    "2016": "68000000.0",
-    "2017": "67814000.0",
-    "2018": "1341000000.0",
-    "2019": "54900000.0",
-    "2020": "703635000.0",
-    "2021": "7811241864.0",
-    "2022": "66891970603.0",
-    "2023": "2204856723.0",
-    "2024": "2198227032.0",
-    "2025": "9514114500.0"
+    "2014": 462000000.0,
+    "2016": 68000000.0,
+    "2017": 67814000.0,
+    "2018": 1341000000.0,
+    "2019": 54900000.0,
+    "2020": 423635000.0,
+    "2021": 6062242441.0,
+    "2022": 45421270603.0,
+    "2023": 1873997899.0,
+    "2024": 1846443031.0,
+    "2025": 3430518500.0
   },
   "cumulative_losses": {
-    "2014": "462000000.0",
-    "2016": "530000000.0",
-    "2017": "597814000.0",
-    "2018": "1938814000.0",
-    "2019": "1993714000.0",
-    "2020": "2697349000.0",
-    "2021": "10508590864.0",
-    "2022": "77400561467.0",
-    "2023": "79605418190.0",
-    "2024": "81803645222.0",
-    "2025": "91317759722.0"
+    "2014": 462000000.0,
+    "2016": 530000000.0,
+    "2017": 597814000.0,
+    "2018": 1938814000.0,
+    "2019": 1993714000.0,
+    "2020": 2417349000.0,
+    "2021": 8479591441.0,
+    "2022": 53900862044.0,
+    "2023": 55774859943.0,
+    "2024": 57621302974.0,
+    "2025": 61051821474.0
   },
   "vector_distribution": {
-    "Logic Bug / Code Error": 172,
-    "Uncategorized": 160,
-    "Access Control / Key Compromise": 151,
-    "Oracle / Price Manipulation": 51,
-    "Flash Loan / Economic Exploit": 41,
-    "Phishing / Social Engineering": 30,
-    "Security Breach": 19,
-    "Incorrect Validation": 14,
-    "Rugpull / Exit Scam": 12,
+    "Logic Bug / Code Error": 221,
+    "Access Control / Key Compromise": 154,
+    "Oracle / Price Manipulation": 46,
+    "Flash Loan / Economic Exploit": 39,
+    "Phishing / Social Engineering": 23,
+    "Rugpull / Exit Scam": 20,
+    "Uncategorized": 17,
+    "Security Breach": 16,
+    "Incorrect Validation": 11,
+    "Bridge Attack": 7,
     "Arbitrary Call": 6,
-    "Economic / Systemic Failure": 6,
-    "Slippage": 4,
-    "Bridge Attack": 4,
-    "Storage Collision": 3,
-    "Flash Loan / Oracle Manipulation": 2
+    "Economic / Systemic Failure": 5,
+    "Slippage": 3,
+    "Deprecated Cauldron / Uncollateralized Borrowing": 2,
+    "Oracle Manipulation": 2
   },
   "chain_distribution": {
-    "Terra": "40000000000.0",
-    "CeFi": "24032000000.0",
-    "Multi-chain / Unknown": "21697880763.0",
-    "Ethereum": "3013789557.0",
-    "Unknown": "1999850000.0",
-    "BSC": "274376902.0",
-    "Polygon": "215422000.0",
-    "Arbitrum": "32629000.0",
-    "Gnosis": "11100000.0",
-    "Avalanche": "8840000.0"
-  },
-  "external_data": {
-    "charoenwong": {
-      "hack_types": {
-        "Security Breach": 20,
-        "Human Error": 5,
-        "Agency Problem": 5
-      },
-      "total_incidents": 30,
-      "date_range": "2011-2021",
-      "source": "Charoenwong & Bernardi (2022), SSRN 3944435"
-    },
-    "bybit": {
-      "freezing_capability": {
-        "No Freezing": 131,
-        "Confirmed Freezing": 16,
-        "Potential Freezing": 19
-      },
-      "total_chains": 166,
-      "freezing_methods": {
-        "Hardcoded": [
-          "BNB",
-          "VeChain",
-          "Chiliz",
-          "VIC",
-          "XDC"
-        ],
-        "Config File": [
-          "Sui",
-          "Aptos",
-          "Harmony",
-          "Linea",
-          "Waves",
-          "EOS",
-          "Oasis"
-        ],
-        "Smart Contract": [
-          "HECO"
-        ]
-      },
-      "source": "Bybit Security Research, Nov 2025"
-    },
-    "anthropic": {
-      "ai_exploit_revenue": {
-        "dates": [
-          "2025-01",
-          "2025-03",
-          "2025-05",
-          "2025-07",
-          "2025-09",
-          "2025-11",
-          "2025-12"
-        ],
-        "revenue_millions": [
-          0.005,
-          0.02,
-          0.08,
-          0.32,
-          1.28,
-          3.5,
-          4.6
-        ]
-      },
-      "doubling_rate_months": 1.3,
-      "cost_per_scan_usd": 1.22,
-      "contracts_scanned": 2849,
-      "zero_days_found": 2,
-      "source": "Anthropic Red Team, Dec 2025"
-    },
-    "recovery": {
-      "by_time": {
-        "Minutes": {
-          "rate": 95,
-          "examples": [
-            "HECO freeze"
-          ]
-        },
-        "Hours": {
-          "rate": 60,
-          "examples": [
-            "Sui freeze"
-          ]
-        },
-        "Days": {
-          "rate": 30,
-          "examples": [
-            "BNB recovery"
-          ]
-        },
-        "Weeks": {
-          "rate": 5,
-          "examples": [
-            "Most exploits"
-          ]
-        }
-      },
-      "source": "LIF Case Studies Analysis"
-    }
+    "Terra": 40000000000.0,
+    "Multi-chain": 13464483787.0,
+    "CeFi": 5050100000.0,
+    "Ethereum": 2161766057.0,
+    "BSC": 193581902.0,
+    "Polygon": 124044728.0,
+    "Arbitrum": 20129000.0,
+    "Gnosis": 11100000.0,
+    "Fantom": 8700000.0,
+    "Blast": 6200000.0
   },
   "data_sources": [
     "charoenwong_bernardi_table.txt",
     "rekt_database_raw.txt",
     "rekt_news_extra.txt",
-    "defihacklabs_incidents.json",
-    "manual_q4_2025_urls"
-  ],
-  "monthly_trends_2024_2025": {
-    "2024-01": "327720253.0",
-    "2024-02": "90964860.0",
-    "2024-03": "216430000.0",
-    "2024-04": "105455000.0",
-    "2024-05": "567092000.0",
-    "2024-06": "157009919.0",
-    "2024-07": "291490000.0",
-    "2024-08": "68859000.0",
-    "2024-09": "164430000.0",
-    "2024-10": "117827000.0",
-    "2024-11": "77528000.0",
-    "2024-12": "13421000.0",
-    "2025-01": "264807500.0",
-    "2025-02": "1973139000.0",
-    "2025-03": "34320800.0",
-    "2025-04": "5921196000.0",
-    "2025-05": "303128500.0",
-    "2025-06": "120675000.0",
-    "2025-07": "144735700.0",
-    "2025-08": "164151000.0",
-    "2025-09": "184440000.0",
-    "2025-10": "57146000.0",
-    "2025-11": "322732000.0",
-    "2025-12": "23643000.0"
-  },
-  "intervention_metrics": {
-    "total_cases": 28,
-    "by_scope": {
-      "Account": 3,
-      "Asset": 5,
-      "Module": 4,
-      "Network": 6,
-      "Protocol": 10
-    },
-    "by_authority": {
-      "Delegated Body": 5,
-      "Governance": 7,
-      "None (expired)": 1,
-      "Signer Set": 15
-    },
-    "total_loss_usd": 3558882000,
-    "total_prevented_usd": 1313100000,
-    "generated_at": "2026-01-20T17:24:28.124995"
-  }
+    "defihacklabs_incidents.json"
+  ]
 }
